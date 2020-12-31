@@ -1,0 +1,17 @@
+###### Start spreading the dues
+# New York v the Zoom tax 
+##### A tri-state wrestle over tax revenues compounds New York’s financial difficulties 
+![image](images/20210102_USP004_0.jpg) 
+> Jan 2nd 2021 
+
+ACCORDING TO A Manhattan Institute poll, more than half of high-earning New Yorkers are working entirely from home and 44% are considering leaving the city. Ned Lamont, Connecticut’s governor, has said “the old idea of the commuter going into New York City five days a week may be an idea that’s behind us.” It does seem unlikely that the tens of thousands who commute from Mr Lamont’s state will continue to do so, or indeed the 400,000 that commute to the Big Apple from New Jersey. The region’s governors have worked well together to tackle the pandemic, but the cordialness may soon end over taxes.
+
+When people from neighbouring New Jersey and Connecticut commute to New York to work for a New York-based employer, they must pay New York tax on the related earned income. Their home states usually offer a credit to those workers. Even those who work from home must pay New York taxes, according to the state’s “convenience of the employer” rule—unless the employee is working outside New York by necessity. Taxpayers and neighbouring states are looking closely at this loophole, as a deadly epidemic probably counts.
+
+
+On December 22nd Connecticut and New Jersey filed briefs to the Supreme Court to consider a case which challenges a state’s ability to tax non-residents’ income while they are working remotely. New Hampshire filed suit against Massachusetts in October over taxing New Hampshire residents who are working remotely. “We are hopeful that the Supreme Court will hold that states do not have the constitutional authority to tax individuals who neither live nor work there,” said Phil Murphy, New Jersey’s governor. This could cost New York billions, says Scott Roberti of Ernst &amp; Young, an accounting firm.
+
+This is not the only threat to the city’s finances. Firms have considered leaving the city before, but employees are now less resistant to moving, says Kathryn Wylde of Partnership for New York City, an industry group. “They’ve been working remotely for ten months and they’ve adjusted to that idea.” Goldman Sachs is mulling moving its asset managers to Florida. Elliott Management plans to move its headquarters from midtown Manhattan to West Palm Beach. Blackstone, a private-equity firm, and Citadel, a hedge fund, are also opening offices in Florida, which has no state income tax.
+
+Companies are also watching the progression of the Billionaire Mark to Market Tax Act, which would treat unrealised capital gains on billionaires’ assets as taxable income. Andrew Cuomo, New York’s Democratic governor, has said he would veto any soak-the-rich legislation, because it would drive out wealthy, mobile residents, though that would bring a fight with the party’s progressive wing. It would not take too many moving trucks for the city to feel the loss in revenue, says Michael Hendrix, also of the Manhattan Institute. A 5% loss of New Yorkers making a mere six figures would result in an annual loss of $933m in revenue—roughly the amount allocated for the city’s health department.■
+

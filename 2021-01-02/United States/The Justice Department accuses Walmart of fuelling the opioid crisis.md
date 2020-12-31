@@ -1,0 +1,19 @@
+###### The other epidemic
+# The Justice Department accuses Walmart of fuelling the opioid crisis 
+##### The Beast of Bentonville says it was merely following doctors’ orders 
+![image](images/20210102_USP003_0.jpg) 
+> Jan 2nd 2021 
+
+“THE OPIOID epidemic is as bad as ever,” says Caleb Alexander at the Johns Hopkins Bloomberg School of Public Health. In a year when all eyes were on the death toll from covid-19, about 80,000 Americans died from drug overdoses from June 2019 to May 2020, more than during any other 12-month period ever recorded, according to preliminary figures from the Centres for Disease Control and Prevention. Both federal and state governments have been suing companies for their part in this. On December 22nd the Department of Justice (DOJ) added a high-profile suit against Walmart.
+
+The DOJ accuses the world’s biggest retailer, which also manages some 5,000 in-store pharmacies, of fuelling the opioid epidemic by screening questionable prescriptions lackadaisically, despite repeated warnings from its own pharmacists. The suit was expected. Some counties have already sued other pharmacies. In October Walmart sued the DOJ pre-emptively, asking a federal court to clarify the responsibilities of pharmacists under the Controlled Substances Act (CSA), an unusual step that seemed to be primarily a public-relations exercise.
+
+
+In its complaint, filed at a court in Delaware, the DOJ alleges that Walmart violated the CSA in various ways, as the operator both of pharmacies and of wholesale drug-distribution centres. Under pressure from their managers, Walmart pharmacists dispensed umpteen dodgy drug prescriptions, according to the suit. Managers denied pharmacists the authority to refuse prescriptions from suspect doctors, and told them to dispense prescriptions quickly because “shorter wait times keep patients in store”. Walmart pharmacists continued to dispense prescriptions from suspected “pill mills”, even when warned that other pharmacies were refusing them. And they ignored red flags, such as prescriptions for “trinities”—drug cocktails that often include an opioid and a muscle relaxant.
+
+The complaint also alleges that, as operator of distribution centres (Walmart ceased distributing controlled substances from such centres in 2018), the company received hundreds of thousands of suspicious orders, which it failed to report to the DEA. Distributors are required to report orders unusual in size, pattern or frequency. Over an approximately four-year period, Walmart shipped an estimated 37.5m controlled-substance orders to its pharmacies, but reported only 204 suspicious orders to the DEA. During the same period, McKesson, Walmart’s back-up distributor, which shipped far fewer orders, reported more than 13,000 suspicious orders from Walmart pharmacies to the DEA.
+
+Walmart rejects the charges. The company says the suit is “wrong on the law and riddled with factual inaccuracies, mischaracterisations and cherry-picked documents taken out of context”. Walmart points out that pharmacists are not doctors, so they should not second-guess prescriptions. Moreover, not dispensing a prescription also carries risks: they could harm a patient in need. State boards could investigate them or even take away their licence. And patients and doctors could sue.
+
+The 160-page civil complaint from the DOJ reads like the so-called multidistrict litigation (MDL), says Andrew Pollis of the Case Western Reserve School of Law. More than 2,000 suits filed across the country by counties, cities and Native American tribes are co-ordinated by Dan Polster, a federal judge. The DOJ suit could be combined with the MDL, says Mr Pollis. Walmart has 60 days from the day the complaint was filed to respond. It could file a motion to dismiss the case, but the district court in Delaware is likely to reject such a motion. ■
+
