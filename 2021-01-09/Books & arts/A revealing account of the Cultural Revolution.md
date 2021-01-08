@@ -1,0 +1,27 @@
+###### Changing the guards
+# A revealing account of the Cultural Revolution 
+##### The formative period in China’s history was more complex than is often believed 
+![image](images/20210109_bkp007.jpg) 
+> Jan 9th 2021 
+
+The World Turned Upside Down. By Yang Jisheng. Translated by Stacy Mosher and Guo Jian.Farrar, Straus and Giroux; 768 pages; $40.
+
+AS MOST PEOPLE understand it, the Cultural Revolution of 1966-76 was a period of unmitigated horror, a time when frenzied mobs unleashed by Mao Zedong ran amok across China, killing and torturing, ransacking homes, destroying religious sites and erasing much of the tangible heritage of one of the world’s great civilisations. Yet it was far more complex than that.
+
+
+The gangs of Red Guards involved in the violence were not part of a national organisation. There were a myriad of them, their members exploiting a rare moment in the history of Communist rule in China when people were allowed to organise themselves spontaneously. That is why, when pondering alternatives to autocracy, the Cultural Revolution weighs so heavily on the minds of some Chinese. Were the party to loosen its grip, would China be engulfed in mayhem again, only this time without a Mao to reimpose order?
+
+There has been no shortage of literature describing the suffering caused by the Cultural Revolution and the deep, still-painful wounds it inflicted. Writers inside China, however, have been restrained by the party from exploring the politics of that period. The party admits that the Cultural Revolution was a disaster, but it wants to preserve Mao’s image as Communist China’s hallowed founding father. It blames the disorder largely on the chairman’s wife, Jiang Qing, and other members of the “Gang of Four”. It does not want people to look too closely at the differences between Red Guard groups, nor at why former members of some of them have thrived in the post-Mao era.
+
+Such taboos make Yang Jisheng’s “The World Turned Upside Down” a rarity. The author is a retired journalist from the state news agency, Xinhua—a position that made him privy to the party’s inner workings. But he is no stooge. His earlier book, “Tombstone”, which described the famine caused by Mao’s Great Leap Forward of the late 1950s, was one of the most shocking accounts by an author in China of that calamity. Like “Tombstone”, his latest work is banned in mainland China, though a Chinese-language edition was published in Hong Kong in 2016. This new English translation is an abridged version.
+
+For the non-specialist, “The World Turned Upside Down” is a challenging read. It makes few concessions to those unfamiliar with the language and politics of the time. People are sometimes introduced without reference to the post-Mao roles for which they are now known—and the endnotes do not always help. The style is clunky and the narrative disjointed. Long lists of attendees at meetings and other such encumbrances often give the book the feel of an official chronicle.
+
+Yet Mr Yang’s argument is clear and important. It is that many of the Red Guards were victims themselves, and that what motivated some of them was not a love of tyranny, but quite the opposite: the chance to wreak revenge on Communist bureaucrats who had been oppressing them. Mr Yang describes the Cultural Revolution as a “triangular game”. It involved Mao, the bureaucrats (and the “conservative” Red Guards they supported), and “rebel” Red Guards whom Mao tried to use to topple the bureaucrats blocking his Utopian—and destructive—plans for China’s social and economic transformation. The winners were the bureaucrats and the Red Guards aligned with them. They were the pragmatists who went on to rule China.
+
+During the decade of the Cultural Revolution, the rebel faction was in the ascendancy for only about two years. When it had the upper hand, it was “savage and cruel”, says Mr Yang. But the savagery of the conservative Red Guards and their backers was worse. Far more rebels were killed or persecuted than Red Guards from the other side. After Deng Xiaoping became China’s de facto leader in 1978, he focused his sweeping purge of Cultural Revolution activists on them, not on the conservatives.
+
+Sadly—though sensibly for a writer who lives in China—Mr Yang does not examine the Red Guard backgrounds of current leaders. Xi Jinping, now president and party chief, was unable to join up because Mao had purged his father, a senior official. As a teenager Mr Xi was detained by rebel Red Guards and forced to denounce his father. Now he encourages reverence of Mao as a way of strengthening the party’s legitimacy. But he is not heard repeating Mao’s belief that Marxism could be summed up in a sentence: “To rebel is justified.” In Mr Yang’s telling, even Mao himself found that the genie of rebellion, once released, was “more than he himself could subdue”, and that corking it up again required the help of those he had wanted out of his way.
+
+For Mao’s successors, including Mr Xi, ruling China has been about maintaining the status quo. But in the long run, the party’s obsession with order may not work, either. Mr Yang predicts that eventually its “oppressive tactics” will cause an “unprecedented social explosion”. He does not speculate on whether this might prove as bloody as the Cultural Revolution, when millions were killed or persecuted. But even today, that fear endures. ■
+

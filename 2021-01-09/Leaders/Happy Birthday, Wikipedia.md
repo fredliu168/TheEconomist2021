@@ -1,0 +1,23 @@
+###### Online encyclopedias
+# Happy Birthday, Wikipedia 
+##### Lessons from the success of a different sort of tech titan 
+![image](images/20210109_ldd003.jpg) 
+> Jan 9th 2021 
+
+WIKIPEDIA IS CLEAR on the matter: Wikipedia is not a reliable source. Yet on this particular question, few people seem to agree with the world’s most popular encyclopedia. The site approaches its 20th birthday, on January 15th, as the 13th-most-visited place on the web, offering more than 55m articles written in 300 languages. Worries about fake news, filter bubbles and market power have soured public opinion on the Utopian promises of the early internet. But Wikipedia—written by amateurs, freely available to all—stands as the great exception. It is the dream that worked.
+
+Or at least, mostly worked. Wikipedia’s crowdsourced model remains vulnerable to the occasional hoaxer or chancer. In August it emerged that many articles on the Scots version of the site had been written by an American editor who, by his own admission, was not really a speaker of the dialect. Nor is it free from honest mistakes. That can cause problems: for better or worse, powerful platforms from social-media firms to the World Health Organisation have come to treat it as a wellspring of truth online (see ). All the same, the world is much better off for its existence.
+
+
+Indeed, familiarity may have dulled the scale of its achievements. As well as being roughly as accurate as old-style encyclopedias, Wikipedia is also incomparably broader. Curious readers can learn about worthy subjects like Homer, general relativity or the Taiping Rebellion. They can also read about Québécois slang, the nature of magic in the “Harry Potter” novels and the fortunes of Yeovil Town Football Club, which toils in obscurity in the fifth tier of the English league. Denis Diderot, the 18th-century editor of the French Encyclopédie, hoped to “assemble all the knowledge scattered over the face of the Earth”. Wikipedia would have delighted him.
+
+The project owes much of its success to its unique structure. Funded by donations, Wikipedia earns no profits. It has no venture-capital backers demanding growth at all costs. Without advertisers to satisfy, it can focus exclusively on the interests of its readers and contributors. It is curated and run by people, not machines. There is no recommendation algorithm humming away in the background, choosing what to show readers in order to keep them glued to the site for as long as possible.
+
+Other tech titans should study its success. Relying on algorithms is one reason they have achieved enormous scale with so few employees. Yet the downsides have begun to haunt them. As the social-media giants hire ever more people as moderators, and write ever longer sets of rules about what is allowed, Wikipedia offers a lesson in how to run a human-powered website.
+
+It is also a welcome boost for Enlightenment values, which have suffered at the hands of populism and authoritarian capitalism. If Wikipedia’s occasional scandals make people approach it with a little scepticism, all the better, for fair-minded scepticism is a healthy attitude in general. Wikipedia sees itself as a work in progress. If a fact is wrong, it invites users to persuade others so that it can be corrected. Its internal culture holds that knowledge comes from evidence, reason and good-faith debate, not pronouncements from the pulpit or the party.
+
+Like any institution, Wikipedia has flaws. It sometimes fails to live up to its own ideals. The nature of crowdsourcing means its quality varies. The most popular articles receive the most scrutiny, and tend to be the best. That leaves a long tail of obscure entries of lower quality. Articles can be overlong, or too technical. Much of its magic comes from the distinctive culture that has built up among contributors—but cultures can be fragile.
+
+Perhaps its biggest flaw is that, for all its breadth, it is still too narrow. The site’s editors are mostly male, and mostly from North America and Europe (see ). A small number do a disproportionate share of the work. That colours both the encyclopedia’s choice of entries and the way it covers them. Wikipedians have been trying to change that, but progress has been too slow. A lot is at stake. In rich, liberal countries, where information is widely available, Wikipedia is a convenience. In poorer places, and illiberal ones, it can be quietly revolutionary. ■
+

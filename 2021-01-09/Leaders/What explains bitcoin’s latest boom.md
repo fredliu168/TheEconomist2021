@@ -1,0 +1,21 @@
+###### If you can’t beat them
+# What explains bitcoin’s latest boom? 
+##### The cryptocurrency might yet justify a high price. But it will not up-end global finance 
+![image](images/20210109_ldp501.jpg) 
+> Jan 9th 2021 
+
+THE FIRST surge in the price of bitcoin, to around $1,000 in 2013, minted cryptocurrency millionaires, provoked declarations of a bubble and left some early fans kicking themselves. One unlucky man in Wales searched a rubbish dump for a hard drive containing 7,500 accidentally discarded bitcoins, whose value had grown from almost nothing to $7.5m. Since then bitcoin has been on a wild ride. Fuelled by casual speculators and market manipulation, its price surged to about $19,000 in December 2017; over the next year it fell by more than four-fifths. Bitcoin’s most recent ascent has been its giddiest yet. Having tripled in three months its price is now over $35,000 and somewhere under Newport sits a computer part worth over $260m.
+
+Today’s bitcoin enthusiasm is striking because basement-dwelling libertarians are not the only ones talking it up. Some of Wall Street’s finest have joined them (see ). Larry Fink of BlackRock, the world’s largest asset manager, said in December that bitcoin could become a “global market”. Big hedge funds such as Renaissance Technologies have been punting on cryptocurrencies. Ruchir Sharma, a strategist at Morgan Stanley’s investment arm, argues that America’s mounting debts may make cryptocurrencies more appealing.
+
+
+The total value of outstanding bitcoins exceeds that of Canadian dollars, narrowly defined to include banknotes and central-bank reserves. But few of the new crypto converts think it has any chance of replacing government money—the dream of early believers. It is far too inefficient to be of much use for making payments; bitcoin is capable of processing fewer than ten transactions per second. By contrast, the firms upending consumer finance, like Alipay and Venmo, minimise friction. Were that problem solved, governments would clamp down quickly on any technology that threatened their monetary sovereignty. Regulatory resistance has already forced Facebook’s mooted digital currency, Libra, to rebrand (to “Diem”) and scale back its early ambition. Meanwhile, the competition is heating up as central banks improve payments systems and launch slick digital currencies of their own.
+![image](images/20210109_LDC351.png) 
+
+
+Bitcoin mania is instead rooted in the possibility that it might eventually offer a safe store of value—like gold, but more convenient (because it is easier to maintain a digital wallet than a physical vault). Then it could win a small but permanent slice of investors’ portfolios. Like bitcoin, gold pays no interest or dividend. Unlike bitcoin, gold has fundamental uses, but it is fluctuating demand from investors for the yellow metal, not jewellers and chipmakers, that drives prices. It is therefore conceivable that bitcoin’s high price could also prove self-sustaining. If bitcoin became as popular with investors as gold (measured by the market value of their positions) the price would rise to $146,000, calculates JPMorgan, a bank. Already, millennial investors appear to prefer cryptocurrencies to bullion.
+
+There are plenty of reasons to doubt that bitcoin can emulate gold. Its price is much more volatile and moves with the stockmarket, which is hardly desirable for a supposed haven. The market is illiquid and cryptocurrency trading remains a wild west in which fraud and theft are rampant, and which facilitates crimes such as selling drugs online. Investors in cryptocurrencies must tolerate a large dose of financial and reputational risk. Hedge funds, which thrive on dicey investments, may be piling in but the stolid end of Wall Street, which includes pension funds, is wary.
+
+Yet it would be wrong to dismiss bitcoin’s surge out of hand. Eventually, an accommodation with regulators, more liquid trading and clampdowns on criminal activity—the supposed anonymity of bitcoin is overstated—could give it a wide appeal. Bitcoin was originally sold on the promise of upending the global monetary system. Its success now hinges on finding a more modest role within it. ■
+
