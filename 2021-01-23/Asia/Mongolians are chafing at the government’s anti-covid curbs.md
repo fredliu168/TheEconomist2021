@@ -1,0 +1,25 @@
+###### Banyan
+# Mongolians are chafing at the government’s anti-covid curbs 
+##### The economy has been battered and there is not much of a safety net 
+![image](images/20210123_ASD001_0.jpg) 
+> Jan 23rd 2021 
+
+VAST, POOR, and landlocked, Mongolia is hard to defend against covid-19. Yet its record fighting the plague had looked quite good until recently. Its first documented case of domestic transmission came only in November. Infections have since spread across the capital, Ulaanbaatar, home to nearly half the country’s 3.2m people. The government claims, improbably, there have been no deaths.
+
+A full-blown epidemic would completely unravel the threadbare health system. Yet a protest by thousands of mainly young Mongolians in Ulaanbaatar’s main square on January 20th highlights resistance to the government’s oppressive approach. They were decrying the way a mother, diagnosed with covid-19, and her newborn baby were hustled out into the cold to a coronavirus unit. The health minister and a deputy prime minister offered to resign.
+
+
+Mongolia’s initial success came at a high price, says Sumati Luvsandendev of the Sant Maral Foundation, a polling outfit. The ruling Mongolian People’s Party, which strengthened its hold in a landslide parliamentary win in June, has shown a heavy hand—after all, it is the successor to the party that ruled when Mongolia was a Soviet satellite. As the pandemic spread from China a year ago, it closed the borders even to the many Mongolians who work abroad. Most have still not managed to return.
+
+At home, schools have been shut for nearly a year. The livelihoods of many Mongolians vanished when street stalls, beauty salons and other small businesses shut down. The government provided little support, says Oyungerel Tsedevdamba, a former minister from the opposition Democratic Party who runs an NGO encouraging better sanitation in the districts of canvas and felt gers (yurts) in which 60% of the capital’s population live.
+
+Hunger stalks the ger districts, which house migrants from the countryside looking for a more prosperous life. Mongolia’s herders are helping out their urban cousins. A recent campaign urged herding families to donate a sheep to city folk. They gave enough to feed 15,000 families.
+
+Not all is gloom. The banning of coal in favour of smoke-free briquettes for heating and cooking in the ger districts is improving Ulaanbaatar’s pea-soup pollution. Businesses are starting to reopen, if haphazardly. The mining industry is booming again, with coal as well as copper from Oyu Tolgoi, a flagship mine, pouring across the border to China. Four years ago Mongolia faced twin fiscal and balance-of-payments crises. Today, mining revenue can stave off the worst. But that still leaves the government heavily in debt, and the economy ever more in thrall to its giant southern neighbour, a situation that worries nearly all Mongolians.
+
+Yet Mongolia remains a land of frustratingly untapped potential. With 20 times more livestock—sheep, cattle, horses, goats, yaks and camels—than people, it could make much more of its cashmere as well as its intrinsically organic meat. But, says Julian Dierkes of the University of British Columbia, that takes much better branding, quality control and, in the case of meat, logistical dexterity than the government and business have managed so far.
+
+Politics suddenly looks brittle. The disciplinarian prime minister, Ukhnaagiin Khurelsukh, perhaps afraid his luck curbing the pandemic is running out, appears to fancy the relatively cushy post of president, for which an election takes place in June. The incumbent, Khaltmaagiin Battulga of the Democratic Party, exemplifies the best way into Mongolia’s macho politics: winning fame as a wrestler. His presidency is notable for its dearth of foreign-policy initiatives. Rather than vigorously strengthen ties with “third” neighbours such as America, Australia, Japan and South Korea as a counterweight to Mongolia’s two actual ones, China and Russia, he has instead befriended that other muscly martial-arts fan, Vladimir Putin.
+
+The Democratic Party’s old guard, resistant to fresh blood, was punished in the parliamentary elections. Yet both main parties lack programmes and policies. Some modernisers, including Ms Oyungerel, lament a quasi-militarist flourish in politics—all salutes, medal-pinning and uniforms even for the civil service. She says she will challenge Mr Battulga for her party’s presidential nomination. Liberal and, worse, a woman, the odds are against her. Yet her call for a new politics resonates with younger Mongolians. Right now the stage seems to be theirs. Mr Khurelsukh apparently refused to accept his ministers’ resignations. That led to behind-the-scenes objections from members of his own party. On January 21st the prime minister resigned, leaving the future of the MPP government in confusion.
+

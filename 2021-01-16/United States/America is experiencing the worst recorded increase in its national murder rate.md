@@ -1,0 +1,25 @@
+###### Where bullets fly
+# America is experiencing the worst recorded increase in its national murder rate 
+##### The reasons for it are complicated and somewhat mysterious 
+![image](images/20210116_USP002_0.jpg) 
+> Jan 16th 2021 
+
+EVEN FOR a city used to gun violence, the events on January 9th in Chicago were terrifying. A lone man, probably psychotic, bragged in videos on social media of how he planned to murder strangers. Then, over several hours in many places, he shot seven people—a Chinese doctoral student, a security guard, a teenage girl, two elderly women and two others—picked seemingly at random. Three of the victims died before police killed him.
+
+Such serial attacks are rare. Much more common, in cities everywhere, are retaliatory murders by small gangs. Some compete for drug markets, but often shootings have no end beyond a young gunman asserting his status or settling a perceived slight. Arne Duncan, a former federal education secretary who now works on tackling violence in his home town, says much of it is extremely local: between one-third and one-half of all shootings in Chicago happen in just 7% of its residential blocks.
+
+
+That should make doing something easier, as officials know where to concentrate resources. Yet their efforts are failing. After some years of fewer killings, last year was “extraordinarily tough”, he says. Chicago saw over 770 murders, 50% more than in 2019, and around 3,000 people shot and wounded. Carjackings more than doubled. Eddie Bocanegra, who works with young men most at risk, says killers, many of them teenagers, have grown more ruthless. He describes a victim shot 21 times with an automatic rifle. He blames increased violence on more lethal weaponry, including magazines that hold dozens of rounds.
+
+It is not just Chicago. Rates of gun violence are rising in other cities too, after falling since the early 1990s. Thomas Abt of the Council on Criminal Justice, in Washington, says data so far for 2020 suggest “the largest single-year increase in homicides ever reported in the US.” A study by his group of 21 big cities counted murders up (year-on-year) by 42% last summer, then by 34% in the autumn. Jeff Asher, an analyst based in New Orleans, cites FBI data for cities with fewer than 10,000 residents, where murders leapt by 30%. In all the FBI counted 16,425 murders, five for every 100,000 people, in 2019. Figures for 2020 will eventually show big a rise from that.
+
+Violence really picked up in late spring, after the pandemic took hold, the economy slumped and, especially, after the killing by Minneapolis police of George Floyd, an African-American man, in late May. Richard Rosenfeld of the University of Missouri, in St Louis, points to a simultaneous “abrupt increase” in killings across cities. National rather than local factors evidently drove the murder rate last year.
+
+Harder to trace is exactly why this happened. Did protests against police violence lead to forces pulling back, which in turn led to more murders? Did temporary reductions in jail populations in the early weeks of the pandemic allow newly released men to commit crimes? Did school closures push up crime, as they do in the summer holidays? Why did property crime slump last year, whereas violence soared?
+
+Part of the explanation may be a boom in firearm sales, especially of handguns (which are usually bought for security, not recreation). Jurgen Brauer of Small Arms Analytics, which tracks industry sales, counts 22.7m handguns and long guns sold last year, a record, and 63% more than in 2019. He notes that availability of weapons is associated with higher rates of violence. Those were legal sales, but criminals may own legal weapons, or buy or steal them.
+
+Mr Rosenfeld sees other mechanisms in play. The police grew less effective as officers fell ill with coronavirus, were quarantined or were diverted, for example by protests. Those still patrolling also practise social distancing. “That reduces the kind of face-to-face contact that can be effective,” he says. Police are most helpful if they prevent retaliation, stopping petty disputes escalating into shooting wars, but that requires a heavy presence on the ground. The widespread loss of trust in police after Mr Floyd’s killing “widens the space for so-called street justice”, he says.
+
+Mr Duncan points to micro-measures to push back against the gloom. His group works with rappers in Chicago, for example, to spread “rules of engagement” between gangs, telling members “You are not a man if you shoot into crowds or at children.” Borrowing from conflict resolution experts, he also promotes non-aggression pacts and “peace treaties” between small gangs. Such efforts are welcome, but will take time. Meanwhile, America’s mayors must hope that the murder spike is just that, rather than a return to old ways. ■
+

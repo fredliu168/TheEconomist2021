@@ -1,0 +1,31 @@
+###### Ripley’s creator at 100
+# A poisonous person, Patricia Highsmith was an enduring writer 
+##### She looked into the gulf of mystery that separates people—and bridged it 
+![image](images/20210123_bkp005.jpg) 
+> Jan 20th 2021 
+
+PATRICIA HIGHSMITH had a thing for snails. She admired their self-sufficiency and found it “relaxing” to watch them copulate, delighted by the impossibility of distinguishing male from female. She collected them for decades, keeping hundreds at home and scores in her handbag, which she let loose when bored at dinner parties. Her affection for snails was matched by her ambivalence towards people, whom she often found baffling and kept at a distance. When a literary agent suggested Americans didn’t buy her books because they were “too subtle” and the characters too unlikeable, Highsmith responded: “Perhaps it is because I don’t like anyone.”
+
+Like her beloved gastropods, Highsmith—who was born in Fort Worth, Texas on January 19th 1921—often hid behind a hard shell. She was secretive with others and sometimes an enigma to herself. “O who am I? Reflections only in the eyes of those who love me,” she wrote in 1951. But when she died in 1995 she left a considerable trail—22 novels, nine short-story collections and 8,000 pages of diaries and notebooks—ample material for her biographers, including Richard Bradford in his new portrait, “Devils, Lusts and Strange Desires”. Her estate plans to publish hundreds of pages from these journals as a single volume later this year.
+
+
+Murder is central to Highsmith’s stories, but they are not mysteries. More akin to Dostoyevsky and Kafka than Chandler and Christie, their drama is mostly psychological. For readers, the thrill of her books, particularly the early, best-known novels such as “Strangers on a Train” and “The Talented Mr Ripley”, comes not from piecing together a crime but involuntarily siding with the criminal. Her sympathies were with misfits, but she liked to demonstrate how even seemingly ordinary people could go mad. The “nitty gritty of life”, Highsmith once said, “is anger, and a sense of injustice”. In spare, insidiously direct prose, she shows just how natural it might feel to kill.
+
+She seemed to use her fiction to act out what she couldn’t do in real life. Her novels “are a lifelong autobiography”, Mr Bradford writes (in a book that is more opinionated than scholarly). Prickly and frequently offensive, Highsmith nevertheless reserved her most transgressive impulses for the page. Wishing, as a teenager, to steal a book from a library, she instead made her young heroine do it in “Crime Begins”, one of her first published stories. She regularly killed her characters in places where she had once had affairs. This, comments Joan Schenkar in “The Talented Miss Highsmith” (2009), is because she “thought about love the way she thought about murder: as an emotional urgency between two people, one of whom dies in the act.”
+
+In Highsmith’s books, love is often a fragile illusion, and marriage borders on farce. Here, too, she was writing from experience. Her mother, Mary, divorced her father nine days before she was born. According to Highsmith, Mary often said it was “funny” her daughter liked the smell of turpentine, because that was what she drank when trying to abort her. Mary’s second marriage was also fractious, and Highsmith hated her stepfather. In 1978, explaining her penchant for solitude, the author noted that “Most murders take place within the family, you mustn’t forget that.” Published when she was 29, “Strangers on a Train” turns on a man’s desire to kill his father; Tom Ripley is an orphan.
+Through a martini glass, darkly
+
+After graduating from Barnard College in Manhattan in 1942, Highsmith found freelance work scripting comic books—one of few women in the industry at the time. This funded her life in New York for years and seems to have influenced her fiction, which is full of secret identities, alter egos, hot pursuits and daring escapes. But this work embarrassed her, and she scrubbed all traces of it from her archives.
+
+She preferred men in every way but in bed, describing a romp with Arthur Koestler as a “miserable, joyless episode”. Her heroes were mostly male, she explained in 1984, because men were physically stronger and freer to roam: “I don’t see women leaving the house.” But she empathised with them, too, not least in their desire for women—“I am a man and I love women,” she once confessed in her diary—though many of her stories have an undercurrent of homoeroticism. Feminists, meanwhile, were “always complaining about something”. Despite her shame at being a lesbian, she oozed sexual charisma and had a ravenous carnal appetite. She wrote what may be the first novel about lesbian love to have a happy ending, “The Price of Salt” (1952), but she published it under a pseudonym and abjured monogamy herself, believing it undermined her creativity.
+
+Her star rose rapidly, then steadily declined. None of the four Ripley sequels matches the darkly brilliant and haunting quality of the original, published in 1955. Highsmith clearly identified with her lonely, amoral and painfully self-conscious anti-hero, who is most at ease when pretending to be someone else. “If you wanted to be cheerful, or melancholic, or wistful, or thoughtful, or courteous,” Ripley reflects, “you simply had to act those things with every gesture.”
+
+Like him, she sought exile in Europe, settling finally in a fortress-like home in Ticino, Switzerland, where she stewed in her racism and outspoken anti-Semitism and mostly kept to herself. Often hostile, generally drunk, she pecked at her Olympia typewriter at all hours. “If she hadn’t had her work, she would have been sent to an insane asylum or an alcoholics’ home,” a lover told Andrew Wilson, another biographer. The last person to see her before she died was her accountant.
+
+Yet on her centenary her piercing view of human relations, brought to the screen by directors including Alfred Hitchcock and Anthony Minghella, is as captivating as ever. Shortly before he bludgeons his friend with an oar, Ripley has an epiphany:
+
+
+Highsmith’s genius was to gaze frankly at the gulf of mystery that separates people—and at the same time, through the brilliance of her characters, to bridge it. ■
+

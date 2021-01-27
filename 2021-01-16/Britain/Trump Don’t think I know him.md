@@ -1,0 +1,31 @@
+###### Bagehot
+# Trump? Don’t think I know him 
+##### The British right needs to come clean about its links with Trumpism 
+![image](images/20210116_brd000.jpg) 
+> Jan 14th 2021 
+
+THE MAGA hats are in the bin. The strategy papers on what the Tories can learn from the Republicans have been shredded. Donald Trump’s state visit to Britain? Mere realpolitik; Emmanuel Macron did much the same. Mr Trump’s description of Boris Johnson as “Britain Trump”? The ungrammatical ravings of a madman.
+
+Mr Johnson’s spin doctors are busy drawing a bright line between the two men. Mr Johnson is a classics scholar who can recite lengthy chunks of Homer. The only Homer Mr Trump knows is the one in “The Simpsons”. Senior Tories are equally busy denouncing the president and scrubbing their CVs of any hint of Trumpery.
+
+
+This is hogwash. Mr Johnson basked in his close relations with the 45th president and, for a while at least, cultivated ties with Steve Bannon, the architect of Mr Trump’s 2016 victory. Michael Gove, the intellectual engine of Brexit Toryism, was photographed with the president, making a thumbs-up sign and grinning impishly. Liam Fox, former trade secretary, seldom engaged in a conversation in which he didn’t mention his links with Trumpworld.
+
+Farther right, the connections are even closer. Nigel Farage, former leader of the United Kingdom Independence Party (UKIP) and then the Brexit Party, rejoiced in his position as Mr Trump’s leading British fanboy, acting as a warm-up act at recent Trump rallies. Mr Trump repeatedly urged Mr Johnson to replace Sir Kim Darroch, ambassador to the United States, with Mr Farage. Sir Kim was eventually sacked for pointing out, in a leaked private cable, that Mr Trump was unstable. Raheem Kassam, a former adviser to Mr Farage, collaborated with Mr Bannon to create a British edition of Breitbart, an incendiary website, and supported Mr Trump’s attempt to deny the legitimacy of the election result.
+
+The links between the British right and Trumpworld are broad and deep. Over the past 40 years the American right has produced a conservative intelligentsia, watered by think-tanks and foundations, devoted to counterbalancing the liberal elite. Brexiteers were happy to join up, and clung to it even as it embraced Trumpism. Daniel Hannan, a Tory peer, is a regular columnist for the Washington Examiner. Douglas Carswell, a former MP who left the Tories for UKIP, recently became president of the Mississippi Centre for Public Policy, a free-market think-tank.
+
+Right-wing Britons are building their own version of the American conservative news-entertainment complex that was born out of Rush Limbaugh’s radio show, produced the Fox News juggernaut and helped create Trumpism. Julia Hartley-Brewer rages at “political correctness gone mad” on TalkRadio. James Delingpole, a co-founder of the British Breitbart, foams at “warmism” (climate change), “muzzles” (masks) and the “Bolshevik Broadcasting Corporation” (the BBC). Andrew Neil, the publisher of the Spectator, is launching a TV station aimed at conservatives.
+
+The bond between the British and American right was supercharged by Brexit. There were close alliances between leading Brexiteers and Trumpworld. Matthew Elliott, the chief executive of Vote Leave, is married to Sarah Elliott, chairwoman of the British branch of Republicans Overseas. Mr Trump’s election reassured worried Brexiteers that they weren’t alone—indeed, that they had a “warm and generous friend”, as Mr Gove put it, in the most powerful man in the world—and stoked their belief that the “Anglosphere” would provide a geopolitical home for Britain outside the EU.
+
+Brexit and Trump also represented solutions to a common transatlantic problem. Both the Conservative Party and the Republican Party have seen their membership undergo a social transformation as they have lost highly educated voters (particularly among the young) and recruited working-class voters in their place. This transformation creates a dilemma: how do you satisfy your new working-class constituents while remaining committed to lower taxes and smaller government?
+
+On both sides of the Atlantic, the answer was to divide the country and unite conservative voters by using nationalist rhetoric rather than economic issues. Brexiteers dismissed Remainers as “traitors” and warned that attempts to frustrate “the will of the people” would lead to violence in a way that sounded as much a threat as a prediction. Mr Johnson speculated that Barack Obama’s “part-Kenyan” ancestry made him anti-British and raised the spectre of a “great conspiracy of the deep state” to frustrate Brexit. “Imagine Trump doing Brexit,” Mr Johnson told a group of fund-raisers, smacking his chops. “He’d go in bloody hard.” Mr Johnson tried to go in “bloody hard” himself by proroguing Parliament, a move that was overruled by the Supreme Court, and more recently by threatening to break international law.
+
+If Mr Johnson’s classical education did not teach him the danger of playing with populist fire, the events of January 6th in Washington should have. America’s democracy and society may have sustained long-term damage. The Republican Party certainly has. If the Tories want to avoid similarly imperilling the nation and the party, they need to change the way they behave, and not just by pretending they never met Mr Trump.
+
+In America, some on the right are trying to work out how it got captured by Mr Trump and ensure that it never happens again. “Never Trumpers” have been trying to formulate a new conservatism ever since their nemesis appeared on the scene. Others have been joining them as Mr Trump became progressively unhinged. Marcio Rubio, a senator for Florida, is trying to flesh out a new sort of blue-collar conservatism. The Manhattan Institute is studying ways to revive conservatism in the Democrats’ urban heartlands.
+
+The Tories need to engage in this debate and to develop some real policies to solve the real problems on which populism feeds. Mr Johnson has rightly identified “levelling up”—boosting prosperity outside the south-east of England—as a focus for his government, but has neglected to explain how this might be done. Instead of devoting his considerable talents to divisive rhetoric, he should focus on boring, serious policies to improve Britain.■
+

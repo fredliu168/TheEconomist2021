@@ -1,0 +1,25 @@
+###### Buttonwood
+# Why stocks are still cheap relative to bonds 
+##### The expected return on equities has rarely been lower—yet still outpaces bonds 
+![image](images/20210109_fnd010.jpg) 
+> Jan 7th 2021 
+
+BILLY CONNOLLY, the great Scottish comedian who recently retired from performing, had a joke about two men filming a lion for a wildlife documentary. The lion suddenly looks up. The men fear they have been spotted. One of them slowly removes his boots and puts on a pair of running shoes. “You will never outrun a lion in those,” says his colleague. “I don’t need to outrun the lion,” replies the first man as he slowly ties his shoelaces. “I just need to outrun you.”
+
+The joke rather neatly captures a particular approach to investing. What matters is not so much whether you can get ahead of some absolute goal for returns. The important thing is whether the asset you choose to invest in will comfortably beat the alternatives.
+
+
+Share prices in America are at all-time highs. The cyclically adjusted price-earnings (CAPE) ratio, a measure of value popularised by Robert Shiller of Yale University, has only twice been higher than it is now—in the late 1920s and the early 2000s. Yet a recent study by Mr Shiller, Laurence Black and Farouk Jivraj suggests that today’s steep stock prices may still be warranted, because interest rates are so low. Indeed, compared with the real yields offered on risk-free government bonds, equity prices have plenty of appeal. Equities do not have to beat their historical returns to be worth holding, it would seem. They just need to outrun bonds by a decent margin.
+
+A key strut to this thinking is that the earnings yield—the inverse of the price-earnings ratio—is a decent forecast of expected returns on equities. An empirical study in 1988 by Mr Shiller and John Campbell found that yields on equities help predict long-term returns. The dividend yield (ie, the dividend-to-price ratio) and three different measures of earnings yield all show some forecasting power, which is to say they explain at least some of the variation in future returns. The longer the horizon over which returns are measured, the better the prediction. And the best measure to use is an average of a few years of earnings, because profits are noisy from one year to the next. The use of an average of recent earnings goes back at least to Benjamin Graham, a pioneer of stock valuation. Mr Shiller’s CAPE is simply an extension of this approach.
+![image](images/20210109_fnc324.png) 
+
+
+The intuition behind the predictive relationship is straightforward. If stock prices are high relative to a measure of fundamental value, such as earnings, then subsequent returns tend to be low, and vice versa. A low earnings yield implies that investors are willing, at that point in time, to accept puny returns in the future. If you think this is trivial, consider the following. Low yields might instead be a forecast of bumper corporate profits. But they are not. This yields-predicts-returns analysis applies to assets other than equities, according to “Discount Rates” (2011), a panoramic survey by John Cochrane of the University of Chicago’s Booth School of Business. High house prices relative to rents signal low returns, not rising rents. Credit spreads on bonds are a signal of returns, not default probabilities.
+
+All else being equal, you should be less keen to hold equities (or keener to hold fewer equities) the lower the earnings yield is. But not everything else is equal. The price of assets should equal expected cashflows discounted over the life of the asset. The earnings yield gives you the “expected” part of this equation; real bond yields cover the “discounted” part. The gap between these two is a forward-looking measure of the equity risk premium, the excess return for holding shares.
+
+The chart shows a crude measure of this risk premium. It varies over time in large part because risk appetite varies over time. Although it has been higher in the past, it is not obviously low now. In the 1990s, during the dotcom boom, the premium for owning stocks was negative—real interest rates were a handsome 4%. Now real rates are negative. It is not hard to outrun that sort of yield. Mr Shiller and his colleagues use a similar measure, based on CAPE yields, and extend it to stockmarkets other than America’s. Their conclusion is that, despite high prices, equities are attractively priced relative to bonds—even in America, but more so in Britain, the rest of Europe and Japan.
+
+A jump in real long-term interest rates worldwide would upset the whole constellation of high asset prices. It is hard to be confident that this is forthcoming. In an ideal world for investors, expected returns on all assets would be better. But we are where we are. If you can’t outrun the lion, perhaps all you can do is to try to outrun the other guy.
+

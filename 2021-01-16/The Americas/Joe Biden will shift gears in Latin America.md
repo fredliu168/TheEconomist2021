@@ -1,0 +1,37 @@
+###### Waiting for whiplash
+# Joe Biden will shift gears in Latin America 
+##### A post-populist president will encounter a region where populism has recently flourished 
+![image](images/20210116_AMD001_0.jpg) 
+> Jan 14th 2021 
+
+IN 2013, after WikiLeaks revealed that the United States’ National Security Agency had bugged the phone of Dilma Rousseff, then Brazil’s president, Joe Biden called to apologise. A year later the American vice-president went to Brazil for a World Cup football match bearing a gift: declassified documents shedding light on abuses by Brazil’s military dictatorship of 1964-85. Ms Rousseff had herself been tortured.
+
+Ms Rousseff called Mr Biden “a seductive vice-president”. Other Latin American leaders found him less so. Otto Pérez Molina, a former president of Guatemala, rues the day that he bowed to pressure from him to prolong the life of CICIG, a UN-backed graft-fighting agency. He expressed this regret in 2015 from a military prison, where he awaited trial on corruption charges. CICIG supplied the evidence.
+
+
+Once Mr Biden has the top job, it would not be surprising if his interest in Latin America waned, given other demands on him. The only memorable vignette about the region in Barack Obama’s new memoir is his confession to “smiling and nodding” through a long dinner in 2011, thinking about the war in Libya while Chile’s president droned on about wine exports.
+
+Still, Mr Biden will probably pay heed. He was Mr Obama’s point man for Latin America, visiting 16 times. Regional emergencies, from mass migration to Venezuela’s tightening dictatorship, will require his attention. He does not have Donald Trump’s bullying style. He will promote the rule of law and efforts to fight climate change, concerns that Mr Trump largely ignored. This year Mr Biden is due to host a triennial “summit of the Americas”.
+
+Latin America has changed since his vice-presidency. Weak economic growth has undermined the region’s self-confidence. The pandemic has killed 541,000 people in Latin America and the Caribbean, second only to the death toll in Europe, and caused the worst economic slump in more than a century. The corrupt are winning the war on corruption. Anger at a broken social contract has led to unrest and the election of populist presidents. Venezuelans are fleeing their country, putting strain on its neighbours. Central America’s exodus, paused by the pandemic, has resumed.
+
+Democracy is in retreat. The Bertelsmann Foundation, which ranks countries’ democratic strength on a ten-point scale, finds that the scores of seven democracies in Latin America have fallen by 0.8 points or more since 2010. Recently Peru’s Congress unseated the second of two presidents within 30 months. Nayib Bukele, El Salvador’s president, has laid the groundwork for dictatorship. Elections in 2021, including in Ecuador, Peru and Nicaragua, could bring populists to power or consolidate authoritarians’ rule.
+
+When Mr Trump took office in 2017, Latin American governments suffered a “fear of coming to his attention”, says a former adviser to his administration. But many grew to like him, largely because he left them alone, unless they allowed migrants to stream into the United States. His interest in promoting democracy did not extend beyond the left-wing “troika of tyranny”—Cuba, Nicaragua and Venezuela. Jair Bolsonaro of Brazil and Andrés Manuel López Obrador of Mexico, populists of the right and left respectively, felt a kinship with him (Mr Bolsonaro is an unabashed fan). Both waited a month to recognise that Mr Biden had defeated him.
+
+Bidenworld thinks it wrongheaded to confine democracy promotion to three countries. It shares the pre-Trump consensus that the neighbourhood’s stability depends on the rule of law, a strong civil society and fairer capitalism. It will seek more humane ways to control migration than bullying governments to block migrants as they pass through their countries.
+
+Mr Biden wants eventually to resume allowing asylum-seekers to apply in the United States. Now the Trump administration forces those who reach the border to remain in Mexico. Mr Biden is expected to unwind Mr Trump’s pacts with the three countries of the Northern Triangle—Guatemala, Honduras and El Salvador—whereby the United States can send migrants back. That will be a slow process. A loftier goal is to make the Northern Triangle a better place to live in. Juan Gonzalez, who will join the National Security Council, was a Peace Corps volunteer in the highlands of Guatemala, origin of many migrants. Mr Biden wants to spend $1bn a year to improve conditions in Central America.
+
+He will have to use sticks as well as carrots. Corruption is worsening in the Northern Triangle. Guatemalan lawmakers chased out CICIG; legislators shut down MACCIH, its counterpart in Honduras. Mr Trump did not protest. This month American prosecutors named Honduras’s president, Juan Orlando Hernández, as a co-conspirator in a drug-trafficking case (he denies wrongdoing). The case shows the limits of spending on security and prosperity while the rule of law is weak, says Eric Olson of the Wilson Centre, a think-tank.
+
+Mr Biden will resume the fight for better governance. American ambassadors will press governments to appoint honest judges and officials. Mr Biden’s administration may propose the establishment of an anti-graft agency for all of Central America, which would support prosecutors and attorneys-general but be less intrusive than CICIG and MACCIH. One lesson of Mr Trump’s successful bullying over migration is that the United States has great leverage in the region.
+
+Mr Biden’s approach to the tyrannical troika will be less punishing, giving them fewer excuses for misrule. Like Mr Trump, he regards Venezuela’s Nicolás Maduro as a tyrant. But he is likely to sabre-rattle less, work with other powers more and seek ways to alleviate the humanitarian crisis.
+
+Antony Blinken, Mr Biden’s nominee for secretary of state, helped normalise relations with Cuba when he was an adviser to Mr Obama. Mr Biden will cautiously renew that policy, easing restrictions on remittances and tourism. The Trump administration’s decision this week to restore Cuba to the list of state sponsors of terrorism, alongside Iran, Syria and North Korea, raises the political costs of rapprochement. Mr Obama had removed it in 2015.
+
+Climate change will be a new source of rancour. Mr López Obrador, who champions Mexico’s state oil monopoly and has spurned American renewable-energy projects, will face green pressure from Washington. So will Mr Bolsonaro, who has allowed destruction of the Amazon rainforest to accelerate. Mr Biden wants to create a $20bn fund to protect it, but Brazil, which interprets such initiatives as threats to its sovereignty, has so far rejected the idea. Relations between Mr Biden and Mr Bolsonaro, who praises the regime that tortured Ms Rousseff, are likely to be strained.
+
+For him and some other leaders in the region, the change of gears in Washington may cause whiplash. Some will say the United States is in no position these days to lecture other countries. But, says an adviser to Mr Biden, the failure of attacks on American democracy shows the value of strong institutions. If the United States can overcome such assaults, it may be able to help its neighbours do the same. ■
+

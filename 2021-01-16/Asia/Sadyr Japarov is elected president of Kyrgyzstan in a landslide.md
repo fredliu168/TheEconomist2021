@@ -1,0 +1,23 @@
+###### Steppe one
+# Sadyr Japarov is elected president of Kyrgyzstan in a landslide 
+##### Opponents have labelled him a dangerous demagogue 
+![image](images/20210116_asp003.jpg) 
+> Jan 14th 2021 
+
+A CAMPAIGN ADVERT for Sadyr Japarov, the newly elected president of Kyrgyzstan, shows him galloping across a snowy expanse on a white steed, coattails flying in the slipstream. The message is clear: Mr Japarov is a knight in shining armour (or at least in traditional Kyrgyz garb, which he wore on the campaign trail), racing to save the turbulent Central Asian nation, which has seen three popular uprisings in 15 years, including one this past autumn that put him on the path to power.
+
+“I’m not going to repeat the mistakes of previous administrations,” Mr Japarov told The Economist in his campaign headquarters at midnight on election day, January 10th. Preliminary results showed him romping home with 79% of the vote, albeit on a turnout of less than 40%. It was venality and injustice that had caused past leaders to be overthrown, he said. “Why repeat those mistakes? I’m going to rule fairly.”
+
+
+Yet Mr Japarov participated in one of those discredited governments, toppled in 2010. Moreover, his recent rise involved all manner of legal contortions. He was serving a prison sentence for kidnapping—a conviction he says was politically motivated—when protests first broke out over a tainted election presided over by his predecessor, Sooronbay Jeyenbekov, in October. A mob freed Mr Japarov, and helped propel him first to the prime ministership and then to the job of acting president, when Mr Jeyenbekov resigned. (An ally briefly took over that role while Mr Japarov campaigned, as the constitution requires.)
+
+“Ordinary people, especially young people, believe in me. They entrust their fates and the fate of the country to me,” said an exhausted Mr Japarov, sipping tea as euphoric campaign staff bustled about. His habit of invoking “the people”, his careful cultivation of a mass following through social media and the thuggishness of some of his devotees have drawn comparisons to Donald Trump, which he rejects with a good-natured laugh: “I don’t consider myself a populist. I hate populists.”
+
+“He’s good, honest and just. He’s suffered for the country and the people,” gushes Elzad Junusov, a supporter. “He really is a man of the people,” he adds. He whips out his phone to show photos of himself visiting Mr Japarov in prison. Mr Junusov says he has been a fan since Mr Japarov led a rabble-rousing campaign for the nationalisation of a Canadian-run gold mine nine years ago. Although that movement brought Mr Japarov to national prominence, he has backtracked on the idea since coming to power.
+
+To his critics the new president is a dangerous demagogue, likely to roll back the hard-won political freedoms that make Kyrgyzstan stand out in a region of autocrats. The use of force in politics is “very alarming”, says Maksat Janibekov, a 30-year-old resident of Bishkek, the capital, referring to the mobs that have helped persuade many of Mr Japarov’s rivals to stand aside. Mr Janibekov was among protesters marching on election day against Mr Japarov’s plans to strengthen the presidency. In a referendum held alongside the election, 81% of voters approved his proposal to shift various powers back from parliament to the president, undoing changes adopted after the revolution in 2010 to prevent a return to the rule of strongmen. Mr Japarov also intends to scrap the clause in the constitution limiting the president to a single term, another safeguard against power-hungry leaders.
+
+Mr Japarov shrugs off suggestions that he is a dictator-in-waiting: “I’m a democratic person.” In his victory speech he sounded a conciliatory note, saying he had “no malice or hatred in his heart” and urging rivals to unite behind him. More ominously he also declared, “The minority should submit to the majority.”
+
+Mr Japarov will need all the consensus he can muster if he is to make a success of the job. The pandemic has prompted a surge in unemployment. Foreign investors were spooked by mob attacks on businesses during the unrest in October. Russia and China, the region’s dominant powers, are also upset by the tumult. Organised crime and corruption are blights that he insists he will fight, but he has been accused of complicity in both—a claim he dismisses as a political smear. It will take a couple of years to fulfil his promise of better lives for his people, Mr Japarov warns. With two of his predecessors in exile and another in jail, the stakes are high. ■
+
