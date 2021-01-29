@@ -1,0 +1,25 @@
+###### Getting away with it
+# Senate Republicans are preparing to exonerate Donald Trump 
+##### The former president is as popular with the party’s voters as ever 
+![image](images/20210130_usp501.jpg) 
+> Jan 30th 2021 
+
+AFTER GIVING an early signal that he approved of Donald Trump’s looming impeachment for inciting an insurrection—and indeed viewed it as a good opportunity to purge the former president from his party—Mitch McConnell did an odd thing. Instead of pressing ahead with the impeachment trial in order to begin it while Mr Trump was still president, as the Democrats wanted, the then Republican majority leader sent the Senate on holiday.
+
+Mr McConnell claimed this was a practical matter: the trial could not be concluded until after Mr Trump had left office, so it might as well not start. Seasoned observers of the senator from Kentucky, who rarely does anything without a partisan motive, suggested he wanted to see which way the wind was blowing in his conference. With the impeachment trial now set for the week beginning February 8th, it is not blowing against Mr Trump.
+
+
+To convict the former president—and probably then bar him from public office—17 Republicans would need to turn on him, assuming all 50 Democratic senators voted to convict, as they probably will. Yet on January 26th all but five Republican senators—including Mr McConnell—voted to scrap the impeachment. Put up by Rand Paul, the motion alleged it was unconstitutional to impeach a former president.
+
+Some conservative legal scholars have argued that. The constitution is vague on the issue and there is no precedent to draw on. Most experts consider this unproblematic, however—as Mitt Romney of Utah, one of the five Republican senators who voted for the trial, underlined. It defies reason that the framers would have denied Congress recourse to take action against a criminal president in the last days of his term. The opposing 45 Republicans, including Mr McConnell, of course know that. Many share his desire to see the back of Mr Trump. Yet they appear to have concluded the former president’s grip on their party is too strong for this to be done without damaging their or its prospects.
+
+“Waste of time impeachment isn’t about accountability,” tweeted Marco Rubio of Florida, whose combination of good intentions and spinelessness before Mr Trump has made him a useful Republican bellwether. “It’s about demands from [sic] vengeance from the radical left.” Tell that to the victims of the insurrection Mr Trump is alleged to have incited: including the five people who died during it and three more—including two police officers—who have since committed suicide.
+
+Tell it to the ten Republican House members who, setting aside fears for their careers and physical safety, voted to impeach him. Or tell it to Mr Rubio’s five braver Senate colleagues who voted for the trial: Susan Collins, Lisa Murkowski, Ben Sasse and Pat Toomey, as well as Mr Romney. If all, or even most, of them join the Democrats in voting to convict, Mr Trump’s second impeachment trial will at the least have been nothing like the partisan affair that Mr Rubio described.
+
+A bipartisan group of senators, led by Ms Collins of Maine and Tim Kaine of Virginia, is exploring the possibility of a lesser rap across Mr Trump’s knuckles, in the form of censure motion, which would in theory need only a simple majority to pass. But the Republicans could still filibuster it. And it is unclear whether even a successful censure vote could presage the additional vote to ban Mr Trump from office under the 14th amendment that Mr Kaine wants.
+
+The Republicans’ decision to protect Mr Trump is depressing but not illogical. He has already threatened from exile to launch a new party. A poll this week suggested three in 10 Republicans would join it. This is not the only indication that, after a brief dip in his ratings after the insurrection, Mr Trump is as popular with Republican voters as ever. Arizona’s Republican Party has formally censured two of its most venerable members, Jeff Flake and Cindy McCain, after both endorsed Joe Biden. Its counterparts in Texas and Hawaii have defended or appeared to adopt the slogans of QAnon conspiracists (then later recanted or denied having done so).
+
+On January 25th Rob Portman of Ohio became the third mainstream conservative senator—after Richard Burr of North Carolina and Mr Toomey of Pennsylvania—to announce he would not stand again in 2022. The intraparty contest to succeed them has already begun. It will pit establishment against Trumpist candidates (one of whom, in North Carolina, is expected to be the former president’s daughter-in-law, Lara Trump) and be an important indication of whether the party’s drift towards hard-right populism is reversible.■
+

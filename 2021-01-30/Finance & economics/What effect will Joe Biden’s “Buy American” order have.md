@@ -1,0 +1,27 @@
+###### Building block
+# What effect will Joe Biden’s “Buy American” order have? 
+##### In practice, it may not affect trading partners much 
+![image](images/20210130_fnp004.jpg) 
+> Jan 26th 2021 
+
+AMERICAN TAXPAYERS’ dollars should be spent on American goods made by American workers and with American-made parts. So says President Joe Biden, newly installed in the White House. On January 25th he signed an executive order meant to pull more of the $600bn of annual federal-procurement spending into American hands. The order was protectionist in spirit: more home-made components means fewer foreign ones. But America’s international commitments also mean that Mr Biden’s measures may not have much effect.
+
+America’s efforts to restrict access to procurement go back nearly 100 years. In 1933 Herbert Hoover signed the Buy American Act (BAA), which attempts to generate American jobs by restricting how direct federal purchases are made. It says that agencies must prefer domestic bidders for American-based contracts worth more than $10,000, as long as at least 50% of their products are home-made, and (for big businesses) they are no more than 6% more expensive than the cheapest foreign alternative. More recently, President Donald Trump signed as many as ten executive orders in his attempt to push out foreign suppliers. As a result from February 22nd, in order to qualify for preferred status, iron and steel products will have to be 95% home-made. Other products will have to be at least 55% home-made. And the pricing advantage will go up to 20%.
+
+
+Mr Biden could accept these new thresholds or raise them even higher. He also wants to ensure that qualifying production really does support American jobs (though it is unclear how he could do this). Companies seeking waivers will have their requests made public. Agencies will scout for small firms to fill gaps. And officials will review the list of products treated as exempt from the BAA because they are not available in sufficient quantities in America, which includes personal-protective equipment, tungsten and cobra venom.
+
+What do the changes mean for firms? Contractors have grown weary of promises to push out foreign suppliers. Jimmy Christianson of the Associated General Contractors of America (AGC) says that, unless something happens on the ground, his members “don’t really care”. Whereas some wanted Mr Trump’s changes to go further, others were far from thrilled. A representative of Netzsch Pumps North America, for instance, complained that finding home-made components would be hard, and force up prices. With only 30% of their business serving government markets, the extra burden “will definitely kill our ability to compete in markets outside the US”.
+
+Mr Biden’s changes to the waiver process sound complicated, reckons Jean Grier, a government-procurement expert. Mr Christianson notes that they could have a “chilling effect” on the number granted. If the federal government tries to funnel dollars quickly towards products without developed supply chains in America, a clogged waiver process could delay projects. That is what happened in 2009, says Brian Turmail, also of AGC, when states were told to spend federal dollars on American water infrastructure, but some components were unavailable.
+
+All this might look like a snub to America’s trading partners. In practice, though, the rule-changes may not affect big contracts much. Any worth more than $182,000 are open to the 20 other members of the Government Procurement Agreement (GPA), which includes Australia, Canada, the European Union and Japan, as well as members of other trade deals. The Government Accountability Office estimated that around $5bn of the $291bn of the federal-procurement spending they measured went to firms in the six biggest supplying countries in 2014-15. Another estimate puts the value of imports (including components) higher, at 9%. Without legislative changes—and those to the GPA—it will be tricky to deprive foreigners of their slice of federal procurement.
+
+Mr Biden has said that he wants to work with trading partners to “modernise international trade rules, including those relating to government procurement”. But that too will prove difficult: when in November the Trump administration tried to remove some medical products from the GPA, it was scolded by Britain, Switzerland and the EU. Leaving the GPA, Ms Grier warns, could shut America off from services procurement overseas.
+
+Some trading partners worry that, fed up with tweaking rules on federal spending, Mr Biden could attach blunt conditions on how states spend stimulus dollars, which falls outside the GPA’s remit. That, though, could create problems by slicing through supply chains. After first shutting Canada out of stimulus spending in 2009, for instance, the reality of integrated North American production meant that the Obama administration carved out an exception for them. Protectionist talk on the campaign trail is easy. Putting it into practice is another matter. ■
+
+Correction (January 27th 2021): A previous version of this article stated that there are 19 members of the Government Procurement Agreement other than America.
+
+
+

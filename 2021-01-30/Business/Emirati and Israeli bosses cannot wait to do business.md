@@ -1,0 +1,25 @@
+###### Abrahamic profits
+# Emirati and Israeli bosses cannot wait to do business 
+##### Thanks to the peace deal between their countries, they can now do so out in the open 
+![image](images/20210130_wbp504.jpg) 
+> Jan 25th 2021 
+
+ISRAEL AND the United Arab Emirates (UAE) have maintained unofficial relations for a while, despite a half-century boycott in much of the Arab world of the Jewish state in its midst. So, too, with commercial ties. Goods moved between the two economies, but only by passing through intermediaries in third countries first. This made sense for high-margin products like technology, an Israeli forte, or diamonds, where the rigmarole could tack on a week’s delay and a surcharge of 1% for extra bank fees and insurance. Trade was pointless for most other businesses.
+
+No longer. On January 24th Israel opened an embassy in Abu Dhabi, the UAE’s capital, as part of the Abraham accords, a diplomatic deal brokered by America and signed in September. The outpost has symbolic value. It is also a beachhead for Israeli and Emirati bosses and investors keen on doing business. And there is plenty of business to be done “now that the relations between the two countries have come out into the open”, says David Meidan, a former senior spy at Mossad, Israel’s intelligence agency, who advises Israeli companies operating in the Arab world. Boosters talk of up to $6.5bn in annual bilateral trade—equivalent to 5% of Israel’s current total and 1% of the UAE’s—within a few years, and billions in investments.
+
+
+In the past six months Frost &amp; Sullivan, a consultancy, has been pitching deals with its Israeli clients to Emirati firms in industries from carmaking to food. Until November, half rejected the advances out of hand. Now only a third do, says Subhash Joshi, head of Frost &amp; Sullivan’s Middle Eastern practice in Dubai. He expects the share to keep falling. On February 7th-8th Abu Dhabi will host a high-profile UAE-Israel investment summit.
+
+A commercial love-in is in the air. Two port operators, Israel Shipyards and Dubai’s DP World, are planning a joint bid for Israel’s newly privatised Haifa Port. The Barakat Group, the UAE’s largest fresh-produce importer, is offering Israeli fare to the Emirati hotels and markets it supplies. Its managing director, Kenneth D’Costa, praises Israeli avocados, which he expects to take market share from pricier European fruit and poorer-quality Kenyan ones.
+
+That is just the start. Spending by Emirati farmers on Israeli agricultural kit, seeds and know-how (responsible for those avocados) is expected to balloon, as the UAE tries to decrease its reliance on foreign food, which makes up 80% of Emirati diets. Israel, for its part, will gain access to Emirati oil and gas, petrochemicals, building materials and other bulky goods, where thin margins made circuitous channels unprofitable. A recent study by the chambers of commerce of Dubai and Israel identified “potential” for Emirati exports of cement, ceramics and metals, which Israel now gets from farther afield at higher cost.
+
+Direct travel between the two countries will also boost business. Before the latest covid-19 lockdown as many as 25 flights a week ferried travellers between Tel Aviv and Dubai. There were none before the accords. In December alone more than 40,000 Israelis flew to Dubai. Israeli-passport holders are at last able to get on the ground in the UAE to drum up investment for Israel’s tech-startup scene, says Sharon Daniel, a venture capitalist in Tel Aviv.
+
+The Emiratis understand the Arab region “much better than we do”, says Erel Margalit of Jerusalem Venture Partners, a big venture-capital firm. They are also a gateway to the Far East, he adds. Asaf Azulay, marketing chief of Bank Hapoalim, a big Israeli lender, likewise spies “a double opportunity”: to gain access to the Arab world and Africa, and to invest jointly. His company has already signed co-operation agreements with two Emirati banks.
+
+Dan Catarivas of the Manufacturers’ Association of Israel expects unfettered business travel to boost trade in sensitive areas like security software and advanced equipment for health care, defence and energy production. It makes sense for the two most technologically advanced countries in the Middle East to “work together as hubs and research centres”, says Yoaz Hendel, who until recently served as Israel’s communication minister.
+
+It isn’t all plain sailing. Emiratis, taught to view Israel as evil, need time “to absorb this new reality”, says the boss of a big Emirati food importer. He has decided to steer clear of Israeli suppliers for now. After decades of animosity, some friction is inevitable. But signs of warming relations abound—literally in the case of Hebrew script popping up on Dubai streets. Jews walk about in religious garb. It is “almost like everything Judaism became trendy”, says an Emirati official. And for Israelis willing to move domicile, adds Mr Meidan, there is the added bonus of doing business in a country with no income tax. ■
+

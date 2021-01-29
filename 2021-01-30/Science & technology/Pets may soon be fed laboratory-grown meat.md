@@ -1,0 +1,22 @@
+###### Cell cultures as pet food
+# Pets may soon be fed laboratory-grown meat 
+##### That would help solve some owners’ dilemmas 
+![image](images/20210130_STP004_0.jpg) 
+> Jan 30th 2021 
+
+PET OWNERS, at least in the West, are more likely than other people to be vegetarians or vegans. That puts many of them in a quandary when it comes to feeding fully paid-up carnivores such as cats and dogs. But technology may soon resolve this dilemma. The idea of growing meat for human consumption from scratch, in the form of cell cultures, is now becoming popular. Some see in this approach a way to produce guilt-free pet food, too. Among these visionaries are Shannon Falconer and Joshua Errett, the founders of Because Animals, a firm based in Philadelphia. They have taken the idea to what might be seen as its logical conclusion, for the starting point for their cultured cat food is that favourite feline prey, a mouse.
+
+Mice are, indeed, what brought cats and people together in the first place—the two species having a shared predatory interest in the rodent populations that inhabited the grain stores accumulated by early farmers. To square this primordial feline appetite with the modern world’s more refined sensibilities, researchers at Because Animals isolated murine stem cells, which will multiply explosively if treated well, from a biopsy of the skin of an appropriate rodent, and have so multiplied them. The result, the firm hopes, will be on the market by the end of the year.
+
+
+Lest any sensitive pet-owner worry that even a single mouse was exploited in an unjustified way to achieve this, the firm is at pains to clarify that the cell donor has retired to live with one of its scientists in a “plush mouse house”. That is definitely a wise and diplomatic move. One of Because Animals’ competitors, Wild Earth, of Berkeley, California, which had had similar thoughts about making cat food from cultured mouse cells, chose to withdraw after finding itself on the receiving end of hostile responses based on the misapprehension that the production process would involve killing laboratory rodents.
+
+Wild Earth has now retreated to safer ground. It has teamed up with other developers of cultured meat to investigate the possibilities of fish and chicken cells instead. It plans, also by the end of the year, to launch products made by mixing these with its existing vegan pet food formulae.
+
+A third firm, Bond Pet Foods of Boulder, Colorado, is developing something one step yet further removed from conventional pet food. It, too, works with chickens. But instead of growing their cells directly, it is inserting genes for nutritionally important chicken proteins into cells of brewer’s yeast. These reproduce faster than chicken cells do, and nurturing them is a well-understood art. Bond hopes to have dog food containing proteins extracted from these cells on the market by 2023.
+Ciao chow
+
+As a consequence of their target market—devoted “pet parents”, as industry parlance refers to them—all three firms hope to sell at premium prices. Moreover, manufacturers of laboratory meat, whether intended for people or for pets, can claim green credentials on top of conscience-free carnivory. Dr Falconer says that a kilogram of cultured meat generates just 1.7kg of carbon-dioxide emissions, compared with 27kg attributable to the same quantity of beef. Vats of cells also require far less land and water than farmed animals.
+
+Turning cultured cells into pet food is a clever idea for reasons besides pet-owners’ sensibilities towards the animal origin of their charges’ food. Unlike human customers, pets are not in a position to be fussy about what the food they eat actually looks like. And they are, in any case, used to consuming dried kibble and nondescript wet foods. It is easier to turn cultured cells into these than into something resembling the juicy joints and steaks that many people like to tuck into. As long as the concoctions taste good to a pet, they will be wolfed down. Indeed, both Mr Errett and Rich Kelleman, the founder of Bond Pet Foods, claim to have tested their firms’ prototypes on their own pets. And Ryan Bethencourt, one of the founders of Wild Earth, has gone further. He has promised to taste his own wares before trying them on animals. ■
+

@@ -1,0 +1,28 @@
+###### Music in space
+# A plan to beam a musical message to other planets 
+##### And back to this one 
+![image](images/20210130_BKP005_0.jpg) 
+> Jan 30th 2021 
+
+IN THE CASCADE mountains of northern California, a cluster of 42 radio telescopes points towards the stars, scanning for signs of life. The Search for Extraterrestrial Intelligence (SETI) Institute has been listening for a signal here and elsewhere since it was founded in 1984. In that time it has scoured only a minuscule fraction of space, equivalent to a glass of water in all the world’s oceans. But Jill Tarter, its co-founder, is undaunted. A renowned astrophysicist—and the model for Jodie Foster’s character in the alien-encounter film “Contact”—Ms Tarter says the programme’s aim is not just to communicate with remote civilisations. It is also to remind humanity of its own modest, fragile place in the cosmos. Which is why, for the first time, SETI is cocking its ear towards Earth.
+
+It is looking for the same thing on this planet that it routinely seeks from others: a signal that can be beamed into space to represent the species. Felipe Pérez Santiago, a Mexican musician and composer—and artist in residence at the institute—has an idea of what might work. Since song, like the human voice, is common to all languages and nations, he and Ms Tarter have devised the “Earthling Project”: a call to people everywhere to upload snippets of song that he plans to meld into a collective human chorus. An initial composition will be launched into space this summer, inscribed on a virtually indestructible disk alongside Wikipedia and the Rosetta Project, a sampling of 1,500 human languages. Future plans and dreams include an eventual dispatch to Mars.
+
+
+Some composers, most famously Gustav Holst, have tried to capture the grandeur of space in sound. And human music has been sent to the heavens, notably on two Voyager probes that were launched in 1977 and are now more than 11bn miles from Earth. Distant beings can in theory already enjoy Peruvian panpipes, a Navajo chant, Bach, Beethoven and more. But no previous offering, and perhaps no composition undertaken anywhere, has tried to encompass the entire variety of human song.
+
+If anyone is equipped for this galactic challenge, it is Mr Santiago. He wrote his first ditty at the age of four, trained in Mexico City and then studied for five years at Rotterdam’s conservatory. There he was exposed to “Turkish, Indian, Caribbean music, everything from tango to gamelan to flamenco”. The maestro has since worked in Paris, Munich, Barcelona and Amsterdam, composing for choirs, films and ensembles of all kinds, including the Kronos Quartet and Harlem Dance Theatre. His back catalogue is exuberant, combining the clarity of classical technique with an energy he attributes to the rock bands he enjoyed in his youth.
+
+The first piece he produces for SETI will probably resemble a “wall of sound”, the composer says, incorporating as many as 10,000 unaccompanied voices. But later he proposes to craft an “earthling symphony”, a piece that will doubtless reflect his peripatetic background and eclectic passions. As thrilling as it may seem to send his work into space, Mr Santiago says he is just as excited about bringing together contributors from around the globe.
+
+For the music is intended to be not just a message to the universe, but a mirror—a chance, as Ms Tarter has put it, to say “See, we’re all the same.” Mr Santiago raises his hands and his eyebrows as he summarises the goal: “Can we unite humanity with 30 seconds of singing?”
+Greetings, earthlings
+
+Some elemental melodies endure for centuries: lullabies, mourning chants, songs of love or celebration, age-old tunes that lighten toil or praise a god. Like those giant Californian dishes, the project’s app stands ready to receive all these, and whatever else earthlings anywhere choose to contribute. Unlike other recordings sent into space, says Mr Santiago, “everyone’s invited. You don’t have to be one of the main composers of our history like Beethoven, just someone singing in their shower.” Download the app, warble up to three songs of 30 seconds each, and your voice will be dispatched into the firmament.
+
+Mr Santiago pledges to use every submission. The ultimate plan is to throw open the whole database for musicians anywhere to sample. Understanding that all earthlings share a common planet “is crucial for our long future,” Ms Tarter says. “We face challenges that have to be solved by co-operating across the globe.” In a small but symbolic way, the Earthling Project is meant to set an example.
+
+It is helping to build bridges in another way, too. Astronomers and biologists, like artists, use imagination to conceive of new things, formulating questions, taking risks, experimenting and collaborating across borders. But often the worlds of art and science seem disconnected. The artists’ programme at SETI encourages co-operation between disciplines—resulting in artwork that gives tangible shape to abstract data. The first participant, Charles Lindsay, investigated interspecies communication through the song of humpback whales; another, Scott Kildall, created a virtual-reality tour of all the known exoplanets. Rachel Sussman presented an image of the cosmic background radiation generated by the Big Bang—“the baby picture of the universe”—as a sand mandala.
+
+As Mr Santiago notes, “nothing has united humanity like this pandemic.” At a dark time, he and the institute aim to foster a more uplifting sense of communion. “If we can send this unified message,” he says, “our mission is accomplished.” ■
+

@@ -1,0 +1,29 @@
+###### Space industry
+# Britain’s launch into the space race looks shaky 
+##### The government says the space ventures it has funded will make money. That is unlikely 
+![image](images/20210130_BRP004_0.jpg) 
+> Jan 28th 2021 
+
+DURING THE second world war Lamba Ness (pictured) hosted a radar base with 150 people scanning the skies over the North Sea for enemy aircraft. Today, sheep and migratory geese graze around its remains. But crowds may once again look heavenward from this quiet spot on Unst, the most northerly of the Shetland Islands. On January 18th the Shetlands Space Centre filed for planning permission to build Britain’s first space launch site there.
+
+Britain has a sizeable satellite-building business, but its share of the global space industry has been shrinking. The government wants to reverse that decline—to which end it and its predecessors have spent more than half a billion pounds on space in the past decade. There have been investments in rocket propulsion and satellite testing. Seven launch sites are proposed. And the state now owns a 45% stake in OneWeb, which is building and launching a constellation of satellites.
+
+
+There is a strategic argument for having a space industry, when so much military and economic activity depends on satellites. But the government insists that both OneWeb and the launch ventures will be commercially viable.
+
+The plan is for British companies to launch small craft capable of carrying one satellite at a time to orbit, not the bigger vehicles that companies like SpaceX and Arianespace send up. Lamba Ness, for which Lockheed Martin, an American defence company, got £23.5m in 2018, is the first site to get under way; the second to receive state cash is “Spaceport Cornwall”, based at Newquay Airport, which will launch satellites using a rocket strapped, missile-style, under the wing of a modified 747 that takes off from a runway. Virgin Orbit got £7.35m in 2019 to develop the site. It says it will launch from Cornwall by the end of 2021.
+
+The focus on small satellites is an attempt to tap into a boom driven by a race to create vast constellations of them blanketing the entire planet with internet coverage. Euroconsult, a French research firm that focuses on the space economy, says 10,000 small satellites are due to be launched in the next decade. That, according to Ian Annett, a government official at the Space Agency, comprises an “addressable market”.
+
+But at least half of those 10,000 small satellites will be part of constellations like OneWeb. According to Alexandre Najjar of Euroconsult it is much more economical to launch them on standard rockets, which can carry 60 or so at a time. Another big slice of the small satellite-business is Chinese, and they launch their own satellites. That leaves what Mr Najjar calls a “niche market” to feed Britain’s commercial launch ambitions. Peter Beck, the boss of Rocket Lab, a small launch company from New Zealand that has raised piles of cash, is not convinced there exists sufficient market demand for new launch services. At present, he says, there are around 140 firms in small-satellite launch market. “If even a handful of these guys arrive, I am not sure what they are going to fly,” he says.
+
+Anyway, launch is not a great business. It makes up just 4% of the overall space market and is rarely, if ever, profitable. SpaceX, the world’s most successful launch company, barely makes any money despite running fat contracts for the American government. Its own satellite internet constellation, Starlink, is in part an attempt by the firm to enter a more profitable market. On the commercial feasibility of the launch companies that have received government stimulus, Mr Najjar is blunt: “They’re not going to make money on it.”
+
+OneWeb went bankrupt after the notoriously profligate SoftBank refused to put any more money into it. In June last year Sam Beckett, an acting permanent secretary at the business department, wrote to Alok Sharma, then the business secretary, warning against the £400m investment on the grounds that it was too risky to be a good use of public money. Her concerns were ignored, and in August it was announced that she would move to the Office of National Statistics.
+
+OneWeb faces some stiff competition. The public’s money will be up against not just Elon Musk’s but also Jeff Bezos’s: he plans to launch a constellation called Kuiper using his own rockets. Those two constellations will get rides at cost on rockets which their billionaire owners also own. OneWeb is unlikely to use Britain’s spaceports, for that would be cripplingly expensive. It is using third parties—to date most launches have been on Russian rockets from Russian soil—which are making money from it.
+
+Some of Mr Shama’s assertions already look shaky. He wrote that OneWeb would be the “first mega-constellation operator”. It won’t: Starlink is steaming ahead. He also suggested that British state ownership might create manufacturing jobs in Britain. But OneWeb’s satellites are made by Airbus, a highly-subsidised French multinational, in a purpose-built factory in Florida. Reshoring those jobs, in the short term at least, is unlikely.
+
+The government’s investments have supporters, especially among those with an interest in boosting the sector. Mark Boggett, boss of Seraphim, a space-focused venture capital firm, argues that the launch business will help drive prices down and attract satellite manufacturers to Britain. But there are probably better space-focused uses for public funds. Mr Najjar cites work on nuclear propulsion, carried out at Rolls-Royce, as an example of useful government spending. Supporting fundamental R&amp;D of this kind, which could lead to the creation of new industries, is a better bet than competing in low-margin, low-growth businesses such as launch and satellite constellations. ■
+
