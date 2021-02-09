@@ -1,0 +1,55 @@
+###### Don’t stand so close to me
+# Even before covid-19, nightclubs were struggling 
+##### The pandemic has left them fighting for their survival 
+![image](images/20210206_IRD001_0.jpg) 
+> Feb 6th 2021 
+
+IN NORMAL TIMES it is notoriously difficult to get past the bouncers at Berghain, a techno nightclub in eastern Berlin. But in September the establishment flung its doors wide: anyone could come in, not to dance, but to inspect work by 115 Berlin artists. The organisers tried hard to recreate the club’s forbidding atmosphere. Stickers were placed over visitors’ phone-cameras. Security officials, released from furlough, exhibited an authentic grumpiness. Visitors were denied anything as useful as signs telling them about the art.
+
+The venue’s motive was simple. As a nightclub, it had had to close as part of measures intended to limit the spread of covid-19. But as a gallery, it could reopen (though it had to close again in November). It is not the only club to have found an innovative way to make ends meet during the pandemic. KitKatClub, one of the city’s fetish joints, is renting its outdoor space to a firm offering covid-19 tests.
+
+
+Like restaurants, cinemas and hotels, nightclubs are bound to suffer in a pandemic. Indeed, SARS-CoV-2, the virus which causes covid-19, thrives in poorly ventilated spaces and spreads more easily at close quarters and when people are breathing heavily—as they tend to on dance floors.
+Saturday night fever
+
+Even before governments had started to shut down the hospitality industry, nightclubs were recognised as an unusually serious vector of infection. In May South Korea’s government advised them to close for a month after tracing a number of cases back to gay clubs in Seoul. Where clubs were allowed to open, they tried to make it work. But whereas al fresco dining, or cinemas and theatres with half the seats out of action, may still appeal, socially distanced clubbing misses the point.
+
+The questions posed by covid-19 for all hospitality and social industries are: first, whether you can hang on long enough for the world to return to something like normal; and second, whether that normality will include you. For restaurants that can switch to home delivery, survival until revival seems possible. Cinemas were thriving when the pandemic struck; they can hope for the vigour to return afterwards. For clubs, the trends diverge. In rich countries the pandemic may be over soon—but populations were already ageing and clubs ailing. In poor ones they entered the pandemic in better health. But a return to normality could take much longer: Africa may not reach herd immunity until 2024. If dance floors are to host a repeat of the Roaring Twenties, clubs everywhere will have to innovate.
+
+In rich countries fewer people are going clubbing because of greater competition, online-dating sites, growing abstemiousness—and, above all, ageing. In the decade before the pandemic, the number of nightclubs shrank by 21% in Britain, and by 10% in both America and Germany, according to IBISWorld, a market-research firm. In big cities the decline has been particularly sharp. London has lost around half of its clubs in the past decade. New ones have opened but not in sufficient numbers to offset the fall. Rents have risen and visitor numbers have declined. In Britain licensing changes introduced in 2005 have allowed pubs and bars to stay open later, vying with clubs for late-night custom. Since 2006 most German states have also extended their opening hours. Meanwhile, in rich countries young people are drinking less. They are more likely to meet their partners on apps than leaning against a bar. In Britain 5% of 20-somethings say they met their beau at a bar; among over-50s the figure is 20%. And as social media put people in constant contact with their friends, the appeal of a Friday-night blowout has dimmed.
+
+Some of the ways clubs have responded have made things worse. In an effort to offset the impact of falling attendance, many increased prices of tickets and drinks, which has made them even less popular. And when it comes to music, they are struggling to stay on trend. As people increasingly stream personalised playlists, compiling a set of killer tunes for hundreds on the dance floor has become harder.
+
+Clubs will not be able to operate normally until most people are vaccinated. Those that focus on niche but enthusiastic audiences, and which draw international stars, will thrive as long-cooped-up revellers pour out onto the streets. But for the average city nightclub, with its tired set lists and high drink prices, a return to the status quo ante will not be enough.
+And the beat moves on
+
+As the rich world has aged, the pulse of the nightclub industry has shifted to big cities in the developing world, where people are younger, the share of the population with some disposable income was rising until the pandemic, and licensing laws are less strict—or at least less strictly enforced. Cities such as Nairobi are now on the beaten track for big DJs. Just as party animals might have gone to Berlin in the 1990s, they now go to São Paulo and Marrakech.
+
+Nights with famous DJs have drawn revellers from across Brazil and beyond to Campinas, the third-largest city in São Paulo state. The LGBT night at Caos, a club in an old warehouse in one of the city’s industrial estates, is one of the biggest in a largely conservative region. In Nairobi new clubs have emerged as the number of young people with a bit of spare cash has risen. Around most corners sits a new apartment or office block and for each one there is a nightclub, says Jeannette Musembi of Bars Kenya, an industry group.
+
+Unlike their counterparts in the rich world, clubs in developing countries have not, by and large, been forced by governments to close—though they may have to add measures such as social distancing and temperature checks. Caos is operating at 20% capacity, with groups of six seated around tables wearing masks. It was making a healthy profit before covid-19 struck, though it opened only three or four times a month. It now opens five days a week in an effort to stay afloat.
+
+A curfew in Kenya has forced clubs to close by 10pm. To stay in business many have started opening during the day: though the atmosphere is flat and dance floors are largely empty, this at least keeps some money coming in. But they are hardly dancing to the bank. The lack of any government support means they have also had to lay off staff. “Now there is little to no budget for entertainment, and most revellers prefer to drink at home and avoid the police,” says Ms Musembi.
+
+A continuing source of revenue is useful during an economic crisis. But it is linked to a big reason why the pandemic will last longer in the developing world: governments are less willing and able to act. In Brazil, for example, even as a contagious new variant seems to be spreading from Manaus in the northern Amazonian region, Jair Bolsonaro, the populist president, has resisted lockdowns and joked that covid-19 vaccines might turn people into crocodiles or bearded ladies.
+
+If nightclubs in developing countries make it through their long covid, they will face some of the same pressures that currently bear down on their counterparts in rich countries. To survive, they will have to make the same sorts of accommodations: finding new, more formal venues; building better relations with local residents, often by making less noise; and persuading authorities that they are both a useful source of jobs and a way to keep cities centres safer at night.
+
+The clubbing scene in São Paulo and similar cities is big but informal, like Berlin’s during its heyday in the 1990s. Club space was easy to come by in the German capital after the fall of the wall, when a third of buildings in the east of the city were empty. Abandoned warehouses and banks quickly became home to club nights and raves. But as prosperity increased, such venues became scarcer. One of São Paulo’s most popular, Fabriketa, is a huge disused textile factory in the gritty downtown area. At Nos Trilhos, a largely outdoor venue that was once the city’s train graveyard, DJs set up their sound systems in rusting locomotive carriages while clubbers gyrate around the railway tracks.
+![image](images/20210206_IRD002_0.jpg) 
+
+
+Landlords are keen to rent such spaces to club-owners; it is an easier way of making money than developing them. But they are also quick to boot their tenants out at the first sign of trouble. As more of São Paulo becomes residential, clubs find themselves rubbing up against new neighbours. “The city is growing so fast that venues are becoming a problem,” says Guga Trevisani, a music producer and agent based in the city. Complaints, police raids and closures follow. And rents increase. The monthly rate at a venue in São Paulo shot up from 5,000 reais ($950) in 2015 to 30,000 reais ($5,600) at the start of 2020. This makes clubs’ futures precarious.
+
+NIMBYism is a problem for a sector that comes alive when sober citizens want to sleep, and which is linked to all sorts of shenanigans. (Even in Ibiza, Europe’s clubbing capital since the 1980s, three-quarters of islanders still say they oppose nightlife tourism.) In November 2019 four of Nairobi’s biggest clubs were ordered to close by the local government after lobbying against them by a residents’ group. One, the Space Lounge, posted a sign: “Sorry, we’re closed (but still open-minded)”.
+
+In Europe nightlife lobby groups have managed to persuade governments that clubbing is good for cities, rather than a nuisance. Relations with officialdom have greatly improved in Berlin over the past two decades. Police raids, which blighted the city’s club scene in the 1990s, are rare. Noise complaints are often part of the bitterest disputes. The city’s government started a €1m ($1.2m) noise-insulation fund in 2018, but clubs generally now simply pay for expensive soundproofing.
+
+Their counterparts in developing countries still face scepticism—or perhaps indifference. A pre-pandemic campaign to have Nairobi nightlife added to Kenya’s tourism literature came to nothing. One line of argument is that they can keep a city centre alive outside business hours. “Empty cities are not very comfortable to live in,” points out Lutz Leichsenring of the Berlin Club Commission, a lobby group. “If, at night, you’re standing at an empty bus stop, you don’t feel very safe.”
+
+Emphasising their economic contribution will probably be more useful. As countries emerge from the pandemic, their governments will be desperate for growth from any source. And as Mirik Milan, founder of the Global Nighttime Recovery Plan, an industry group trying to come up with ideas for reopening, points out: “When a lot of people are dancing, there are a lot of people working, too.” ■
+
+Dig deeper
+
+All our stories relating to the pandemic and the vaccines can be found on our . You will also find trackers showing ,  and the virus’s spread across  and .
+

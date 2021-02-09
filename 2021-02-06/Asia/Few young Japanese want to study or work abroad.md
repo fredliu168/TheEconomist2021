@@ -1,0 +1,21 @@
+###### Home, sweet home
+# Few young Japanese want to study or work abroad 
+##### With unemployment low, there is little professional advantage in doing so 
+![image](images/20210206_ASP002_0.jpg) 
+> Feb 6th 2021 
+
+SAITO CHIHIRO and Saito Seika have a lot in common: they are twins. Now 26, they grew up together in northern Tokyo. They share many interests, including a passion for Hollywood films. But their paths diverged when Chihiro moved to Hungary to study medicine, and Seika enrolled in a Japanese university to pursue art. “I was always interested in the outside world,” Chihiro says. Her sister, too, considered studying overseas, but ultimately abandoned the idea. “I could learn a lot of things in Japan,” says Seika. “And I wasn’t sure if I could actually live abroad.”
+
+The rise of “inward-looking youth”, with little interest in venturing outside Japan, has caused consternation among Japanese journalists, policymakers and business leaders in recent years. Only 4% of all university students study overseas, says the education ministry. Another government survey from 2019 found that just a third of young Japanese want to study abroad, compared with 66% of South Koreans and 51% of Germans. The Japanese are equally lukewarm about working overseas. A survey by Sanno University in 2017 found that 60% of young employees did not want to work in other countries, up from 36% a decade beforehand.
+
+
+This inward shift marks a departure. From the late 1980s to early 2000s, the number of Japanese seeking degrees overseas soared. A strong yen allowed many to study abroad without scholarships or loans. Japan’s biggest banks shipped out hundreds of their employees each year to business schools in America. “There were dozens of us Japanese in the same classroom at Harvard,” reminisces Hiraga Tomikazu of Osaka Seikei University, who attended Harvard Business School. “We would study together and share our notes, so we could all pass the course.”
+
+Today Chinese and Indian students abroad far outnumber Japanese. That is partly because of Japan’s strong labour market. The unemployment rate hovered below 3% for the three years until the covid-19 pandemic began, when working or studying overseas became impractical anyway. With new graduates easily finding jobs in Japan, there is “little merit” in studying or working abroad, says Yonezawa Akiyoshi of Tohoku University: “In a way, the Japanese labour structure does not discriminate based on academic background.” At any rate remuneration for those with degrees from foreign institutions is little different from that of colleagues who studied at home.
+
+By the same token, experience of working abroad is seldom rewarded. Many firms instead prize “Japaneseness” among their employees, laments Kato Etsuko of the International Christian University in Tokyo. Experience abroad no longer seems to increase the chances of promotion. Employees who rotate around offices in Japan, as opposed to foreign branches, may even get promoted faster.
+
+A crippling fear of the outside world deters some young people from going abroad. Many cite their “English allergy”—a shyness about speaking English or other languages—as a reason for their insularity. Their anxiety is not entirely baseless: the Japanese rank low in the index of proficiency in English compiled by EF, a firm that specialises in language instruction and educational exchanges, behind their neighbours from South Korea. Seika, the artist, was apprehensive about studying in a different language. “I wasn’t as confident with my English skills as Chihiro was,” she says. It does not help that Japan is one of the most convenient and safest countries in the world.
+
+The growing insularity is awkward for the government, which is eager to play a more active role on the international stage. “Japan is falling behind and hasn’t even noticed its decline,” says Mr Hiraga, who believes that the country’s influence is waning in Asia and beyond. For firms, too, the scarcity of cosmopolitan young hires impedes their aspirations to do more business abroad. “There is so much growth and push to go overseas in other parts of the world,” says Mr Yonezawa. “That’s a wave Japan also needs to ride.” ■
+
