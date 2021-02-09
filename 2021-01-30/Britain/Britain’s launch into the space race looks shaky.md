@@ -2,7 +2,7 @@
 # Britain’s launch into the space race looks shaky 
 ##### The government says the space ventures it has funded will make money. That is unlikely 
 ![image](images/20210130_BRP004_0.jpg) 
-> Jan 28th 2021 
+> Jan 30th 2021 
 
 DURING THE second world war Lamba Ness (pictured) hosted a radar base with 150 people scanning the skies over the North Sea for enemy aircraft. Today, sheep and migratory geese graze around its remains. But crowds may once again look heavenward from this quiet spot on Unst, the most northerly of the Shetland Islands. On January 18th the Shetlands Space Centre filed for planning permission to build Britain’s first space launch site there.
 
@@ -23,7 +23,7 @@
 
 OneWeb faces some stiff competition. The public’s money will be up against not just Elon Musk’s but also Jeff Bezos’s: he plans to launch a constellation called Kuiper using his own rockets. Those two constellations will get rides at cost on rockets which their billionaire owners also own. OneWeb is unlikely to use Britain’s spaceports, for that would be cripplingly expensive. It is using third parties—to date most launches have been on Russian rockets from Russian soil—which are making money from it.
 
-Some of Mr Shama’s assertions already look shaky. He wrote that OneWeb would be the “first mega-constellation operator”. It won’t: Starlink is steaming ahead. He also suggested that British state ownership might create manufacturing jobs in Britain. But OneWeb’s satellites are made by Airbus, a highly-subsidised French multinational, in a purpose-built factory in Florida. Reshoring those jobs, in the short term at least, is unlikely.
+Some of Mr Sharma’s assertions already look shaky. He wrote that OneWeb would be the “first mega-constellation operator”. It won’t: Starlink is steaming ahead. He also suggested that British state ownership might create manufacturing jobs in Britain. But OneWeb’s satellites are made by Airbus, a highly-subsidised French multinational, in a purpose-built factory in Florida. Reshoring those jobs, in the short term at least, is unlikely.
 
 The government’s investments have supporters, especially among those with an interest in boosting the sector. Mark Boggett, boss of Seraphim, a space-focused venture capital firm, argues that the launch business will help drive prices down and attract satellite manufacturers to Britain. But there are probably better space-focused uses for public funds. Mr Najjar cites work on nuclear propulsion, carried out at Rolls-Royce, as an example of useful government spending. Supporting fundamental R&amp;D of this kind, which could lead to the creation of new industries, is a better bet than competing in low-margin, low-growth businesses such as launch and satellite constellations. ■
 

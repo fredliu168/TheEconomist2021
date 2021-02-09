@@ -1,8 +1,8 @@
-###### Becoming more Chinese
+###### Chaguan
 # Assimilation of Chinese minorities is not just a Uyghur thing 
 ##### Local languages are being phased out 
 ![image](images/20210130_CND000_0.jpg) 
-> Jan 28th 2021 
+> Jan 30th 2021 
 
 SOMETIMES EASY victories are the most revealing. Lots of governments are capable of ruthlessness in the face of terrorism or real threats to national security. When a regime uses its full strength to impose its will on a group offering no resistance, however, that is a clarifying moment. Just such an unequal contest is now unfolding in the forested hills of the Yanbian Korean Autonomous Prefecture, near the Chinese border with North Korea.
 

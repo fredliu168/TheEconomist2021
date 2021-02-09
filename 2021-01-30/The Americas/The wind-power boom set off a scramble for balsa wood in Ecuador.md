@@ -1,7 +1,7 @@
 ###### A worrying windfall
 # The wind-power boom set off a scramble for balsa wood in Ecuador 
 ##### It has had unintended consequences 
-![image](images/20210130_AMP005_0.jpg) 
+![image](images/20210130_amp005.jpg) 
 > Jan 30th 2021 
 
 IN LATE 2019 loggers started arriving in Ewegono, a village of nine indigenous Waorani families on the Curaray river in the Ecuadorean Amazon. They were looking for balsa, a fast-growing species of tree whose wood is used in blades for wind-power turbines. There was a global shortage. At first, villagers “grabbed chainsaws, axes and machetes to cut it down”, says Saúl Nihua, Ewegono’s leader. The pay could be $150 a day, a fortune in a region where most people have no jobs.

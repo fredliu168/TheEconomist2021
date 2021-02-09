@@ -19,6 +19,10 @@
 
 If the nuclear order starts to unravel, it will be almost impossible to stop. Hence the importance of acting today. America, China, Europe and Russia share an interest in stopping proliferation. Russia does not want a nuclear Iran any more than America does. The prospect of a nuclear-armed Japan would be among China’s worst nightmares. The Iranian nuclear deal in 2015 showed that rivals can muster a response to proliferation.
 
+
+
+Listen on:  |  |  |  | 
+
 The nuclear states should start with the basics. America and Russia still have 90% of the world’s nuclear warheads, so any effort begins with them. Now that New START will be extended, they should begin work on a successor that would include other weapons, such as hypersonic gliders and lower-yield warheads, which Russia has in abundance. More radical ideas should also be discussed. America operates a triad of nuclear forces: silos on land, submarines at sea and bombers in the air. Retiring the land-based missiles would demonstrate genuine progress towards disarmament, without eroding deterrence.
 
 Arms control between America and Russia might persuade China that its existing arsenal could survive an attack, helping avoid a destabilising surge in its forces. Chinese restraint would, in turn, reassure India and Pakistan.

@@ -2,7 +2,7 @@
 # Asia is hungry for reassurance from Joe Biden 
 ##### It worries that a distracted America will pay it too little attention 
 ![image](images/20210130_ASP002_0.jpg) 
-> Jan 28th 2021 
+> Jan 30th 2021 
 
 “WE ARE ALL heaving a sigh of relief,” says a South-East Asian diplomat, about the exit of President Donald Trump. Never has America’s ability to underpin Asia’s stability and prosperity been so doubted by the region’s leaders and policymakers as over the past four years. Unfortunately for America’s standing in the region, the diplomat adds glumly, “The damage has been done.”
 

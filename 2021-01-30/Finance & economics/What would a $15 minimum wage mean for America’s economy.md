@@ -2,7 +2,7 @@
 # What would a $15 minimum wage mean for America’s economy? 
 ##### The large increase carries risks for jobs. But history suggests it could bring large rewards 
 ![image](images/20210130_FND000_0.jpg) 
-> Jan 28th 2021 
+> Jan 30th 2021 
 
 MOST AMERICANS share President Joe Biden’s enthusiasm for increasing the federal minimum wage to $15 an hour from $7.25. Two-thirds of them—and more than 40% of Republicans—favour such a rise, according to Pew Research Centre, a polling firm. Economists, however, are more divided. When a panel of eminent scholars was asked in 2015 whether a $15 minimum would deal a substantial blow to employment, 40% of respondents were undecided, and the rest were split evenly for and against. There is an explanation for the indecision: the world has little experience of large minimum-wage rises, and they could cost an economy jobs. Yet history also suggests that such increases, implemented with care, may nonetheless have beneficial longer-term effects.
 
@@ -16,6 +16,8 @@
 America’s own experience suggests that a difficult adjustment could be followed by better times. Gavin Wright, an economic historian at Stanford University, reckons that something of the sort occurred in the American South as a result of the New Deal. Before the 1930s the southern economy looked very different from the rest of America, which led the world in productivity and income per person. Factories and farms in the South favoured low-productivity, labour-intensive production over the more capital-intensive techniques common elsewhere. Southern governments neglected investment in education, aware that residents who obtained schooling were very likely to migrate. Whereas the rest of America benefited from a virtuous cycle of accumulation of human and physical capital, rapid productivity growth and rising incomes, the South remained stuck in a nasty low-wage rut.
 
 Franklin Roosevelt’s imposition of national wage and labour standards broke this equilibrium. Southern producers found themselves with little choice but to adopt labour-saving technologies; low-wage workers, short of employment opportunities, migrated out of the South in droves. Fearing mass unemployment and the loss of political clout that depopulation would bring, southern governments abandoned their attitude of insularity and instead sought to become more attractive to investors from outside the region. Between 1930 and 1980, incomes per head in the South as a percentage of the national average rose by roughly 30 percentage points, and southern cities built around knowledge industries became magnets for migrants from elsewhere.
+
+
 Here’s the new deal
 
 Convergence in incomes between poor states and rich ones, so rapid before 1980, has slowed dramatically since, and the productivity gap between superstar cities and others has yawned. It is perhaps not a complete coincidence that the federal minimum wage, adjusted for inflation, rose steadily between the 1930s and the 1960s, but has alternately stagnated and declined thereafter. Today’s economy is very different from that in the mid-20th century, but a low minimum wage may have once again enabled some firms to rely on pockets of low-skilled labour, rather than investing in modern equipment and processes. A higher minimum wage could press them to change course, eventually yielding benefits to the economy at large.

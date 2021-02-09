@@ -11,6 +11,8 @@
 
 The rest—which has turned him into an overnight billionaire—is fuzzier. The frenzy has been fuelled, seemingly, by users of r/wallstreetbets, a forum on Reddit that now has more than 4m followers. These retail investors have hoovered up shares and placed leveraged bets that GameStop’s price will rise. Some forum-dwellers point to fundamental reasons, such as Mr Cohen’s involvement, to justify their bets. But most express a vigilante-style desire to stick it to establishment investors, who had spurned GameStop. The retailer had become a target of short-sellers, who borrow shares, sell them, and later buy them back, ideally at a cheaper price. It was a popular trade: the total value of short positions in GameStop was more than the company’s market capitalisation in late January. Retail investors wanted the shorts to lose money.
 
+
+
 And they did. Bullish retail traders were ginned up when the marketmakers who sold them their bets were forced to hedge against rising prices by buying shares. Short-sellers were also forced to buy shares after incurring losses worth several billion dollars. The wall-to-wall coverage of the stock has prompted yet more investors to pile in. GameStop was the single most traded stock in America on January 26th; volumes matched that in the five biggest tech giants combined (see chart). The share price more than doubled the next day. The masses are coming for other heavily shorted stocks too. Share prices for AMC, a chain of cinemas, and Nokia and Blackberry, which once made popular mobile phones, have also spiked.
 ![image](images/20210130_FNC604.png) 
 

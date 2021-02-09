@@ -1,10 +1,9 @@
 ###### On Donald Trump, Lincolnshire, Switzerland, Erasmus
 # Letters to the editor 
 ##### A selection of correspondence 
+![image](images/20210116_ldd001.jpg) 
 > Jan 30th 2021 
 
-
-![image](images/20210116_ldd001.jpg) 
 
 January 6th and all that
 
@@ -63,6 +62,8 @@
 I suspect the case will be similar for Britain. The grass grows more quickly and quietly than we think. If a country is unable to attract promising technologies and competitive companies, if it cannot provide them with free access to markets and talent, how can it remain vibrant and prosperous? Museums don’t produce many high-paying jobs.
 
 R. JAMES BREIDING
+Co-founder
+S8nations
 Zurich
 ![image](images/20201219_erd001.jpg) 
 

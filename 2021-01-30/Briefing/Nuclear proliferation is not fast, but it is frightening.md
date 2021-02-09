@@ -19,6 +19,10 @@
 
 The New START treaty, a ten-year-old cap on American and Russian nuclear forces to which Presidents Joe Biden and Vladimir Putin agreed a five-year extension on January 26th, is now the only bilateral arms-control agreement that binds the two countries. A grim panoply of new American and Russian weapons has been announced in recent years, from American miniature warheads to Russian underwater drones designed to drench coastal areas in radioactive fallout. China, for its part, has been upgrading its initially modest nuclear forces into considerably more than the bare-bones deterrent they once were.
 
+
+
+Listen on:  |  |  |  | 
+
 As major nuclear powers have added to their nuclear capabilities some proliferators have paid little price for acquiring them. Gaukhar Mukhatzhanova of the Vienna Center for Disarmament and Non-Proliferation points out that in the late 1990s America’s policy was to “cap, roll back and eliminate” the embryonic Indian and Pakistani arsenals through sanctions and censure. But as it became clearer that India would serve as a bulwark against Chinese power, America bent its own rules to allow civilian nuclear co-operation and helped ease India into international regimes governing nuclear exports.
 
 Great-power sabre rattling, a sense that some countries get to bend the rules and a reassessment of America’s role as a steadfast ally during the presidency of Donald Trump may all have provoked interest in proliferation. What is more, though the bomb’s spread has slowed, it has never stopped—and proliferation begets proliferation, whatever speed it unrolls at. Iran’s nuclear programme spooks Saudi Arabia. North Korea’s arsenal casts a darkening shadow over South Korea and Japan.

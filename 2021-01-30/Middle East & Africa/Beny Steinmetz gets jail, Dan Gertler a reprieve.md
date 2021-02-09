@@ -2,7 +2,7 @@
 # Beny Steinmetz gets jail, Dan Gertler a reprieve 
 ##### Two mining tycoons accused of shady dealings meet very different fates 
 ![image](images/20210130_map502.jpg) 
-> Jan 28th 2021 
+> Jan 30th 2021 
 
 IN DECEMBER 2017 Donald Trump’s administration imposed financial sanctions on Dan Gertler. That came as a shock to the government of Joseph Kabila, who was then the president of the Democratic Republic of Congo. Mr Gertler, who was named alongside several allegedly crooked politicians and businessmen, was one of Mr Kabila’s closest friends. He was also a middleman who had sold much of Congo’s wealth in minerals to the world since arriving there in the wake of war in 1997.
 
@@ -17,7 +17,7 @@
 
 Yet the billionaire’s luck may be running out. His friend and sponsor, Mr Kabila, is losing his grip. When he conceded the presidency in 2019, Mr Kabila kept control of the majority in parliament, and had allies in several key posts. On January 27th Congo’s national assembly voted to eject the prime minister, Sylvestre Ilunga Ilunkamba. This clears the way for the new president, Félix Tshisekedi, to appoint more of his own people to ministries and agencies, including Gécamines, the state mining group that gave Mr Gertler his concessions. If Mr Tshisekedi succeeds in consolidating his grip over Congo’s minerals, he could press Gécamines to take away Mr Gertler’s mines and royalties.
 
-That is why the new sanctions waiver is so useful, reckons Elisabeth Caesans of Resource Matters, a Brussels-based research group. In November Mr Gertler produced a bizarre video in which he proposed to sell some of his royalty rights to ordinary Congolese people (two months later, the details remain unclear). This, said Mr Gertler, is an invitation to “come and enjoy the wealth of the copper and cobalt of the DRC”. It may, in fact, be an insurance policy. By selling a lot of Congolese people a stake in his projects, he reduces the chance of his contracts being cancelled. With his new licence, thanks to Mr Trump, he can now be paid in dollars.
+That is why the new sanctions waiver is so useful to Mr Gertler, reckons Elisabeth Caesens of Resource Matters, a Brussels-based research group. In November he produced a bizarre video in which he proposed to sell some of his royalty rights to ordinary Congolese people (two months later, the details remain unclear). This, said Mr Gertler, is an invitation to “come and enjoy the wealth of the copper and cobalt of the DRC”. It may, in fact, be an insurance policy. By selling a lot of Congolese people a stake in his projects, he reduces the chance of his contracts being cancelled. With his new licence, thanks to Mr Trump, he can now be paid in dollars.
 
 In theory, Joe Biden’s administration could revoke the licence as easily as Mr Trump issued it. Yet that risks exposing the Treasury to a lawsuit, says Brad Brooks-Rubin of the Sentry. Mr Gertler could claim that taking his licence away would be capricious. Yet as Mr Steinmetz’s case shows, losing his licence is not the only risk that Mr Gertler faces if the allegations of corruption persist. The sanctions imposed on him came about after years of campaigning by anti-corruption NGOs. They show no signs of being ready to forgive or forget. ■
 

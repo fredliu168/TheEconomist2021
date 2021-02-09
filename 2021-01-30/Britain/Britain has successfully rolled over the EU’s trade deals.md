@@ -4,6 +4,8 @@
 ![image](images/20210130_BRP003_0.jpg) 
 > Jan 30th 2021 
 
+Editor's note (January 31st 2021): Since publication of this article Britain announced it would formally apply to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, a trading bloc of 11 countries including Japan, Australia and New Zealand. Negotiations may begin later this year
+
 LAST YEAR was a busy one for the Department for International Trade. It concluded 14 trade deals alongside the wider agreement with the 27 members of the European Union (EU). In December alone, Britain signed terms with 11 countries ranging from big fish such as Canada and Turkey to minnows such as Cameroon and North Macedonia. Altogether, 34 trade agreements have been signed since 2016; all took effect this year. But trade analysts warn that despite the burst of effort, the real challenge is only just beginning.
 
 For all the talk of a buccaneering Global Britain signing deals to open new markets, most of the trade department’s work over the four-and-a-half years since it was created has focused on replicating deals to which Britain was already a party. As a member of the EU, Britain benefited from around 40 deals covering 70 countries signed by European negotiators. Brexiteers boasted that rolling over these arrangements would be straightforward and swift; Remainers said it would take many years.

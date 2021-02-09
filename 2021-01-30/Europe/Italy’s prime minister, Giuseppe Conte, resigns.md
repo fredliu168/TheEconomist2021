@@ -4,7 +4,7 @@
 ![image](images/20210130_eup002.jpg) 
 > Jan 26th 2021 
 
-IN THE COLOURFUL jargon of Italian politics, the latest upheaval, which reached its latest turning-point on January 27th. That was when the president, Sergio Mattarella, began formal consultations with the country’s political leaders, is a crisi al buio, or “crisis in the dark”.
+IN THE COLOURFUL jargon of Italian politics the latest upheaval, which reached its latest turning-point on January 27th when the president, Sergio Mattarella, began formal consultations with the country’s political leaders, is a crisi al buio, or “crisis in the dark”.
 
 Sometimes, everything has been carefully settled in advance. The prime minister steps down, as Giuseppe Conte did the day before, but in the knowledge that he—there has yet to be a “she”—can count on majority support in parliament for a reshuffled cabinet.
 
