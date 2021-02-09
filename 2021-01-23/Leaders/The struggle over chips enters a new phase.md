@@ -1,7 +1,7 @@
 ###### Technology and geopolitics
 # The struggle over chips enters a new phase 
 ##### The age of their manufacture in China could be beginning 
-![image](images/20210123_LDD002_0.jpg) 
+![image](images/chip_ld.jpg) 
 > Jan 23rd 2021 
 
 WHEN MICROCHIPS were invented in 1958, the first significant market for them was inside nuclear missiles. Today about a trillion chips are made a year, or 128 for every person on the planet. Ever more devices and machines contain ever more semiconductors: an electric car can have over 3,000 of them. New types of computation are booming, including artificial intelligence and data-crunching. Demand will soar further as more industrial machines are connected and fitted with sensors.

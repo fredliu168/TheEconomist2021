@@ -1,8 +1,8 @@
 ###### In the line of fire
 # What next for the bankrupt NRA? 
-##### It seems the organisation will only be prized from Wayne LaPierre’s cold, dead hands 
+##### It seems the organisation will only be prised from Wayne LaPierre’s cold, dead hands 
 ![image](images/20210123_USP006_0.jpg) 
-> Jan 21st 2021 
+> Jan 23rd 2021 
 
 AMERICA’S GUN lobby, the National Rifle Association (NRA), which enjoys non-profit status, is besieged by allegations of lavish spending and extravagance by its leadership, including its boss, Wayne LaPierre. According to a lawsuit filed last August by New York’s attorney-general, Letitia James, the NRA diverted millions of dollars in donor funds for executives’ personal use, including chartered jets for holidays and use by family members, luxurious clothing, gifts, private security, and more. The attorney-general of Washington, DC, has also filed a lawsuit against the NRA for misusing charitable funds. But the NRA is not one to bring a knife to a gunfight. On January 15th the group announced it was leaving New York, where it is incorporated, in order to file for bankruptcy and reincorporate in Texas.
 

@@ -1,7 +1,7 @@
 ###### Brexit and trade
 # Delays to fish and meat exports are not just teething problems 
 ##### The profit margin of smaller exporters could be wiped out 
-![image](images/20210123_BRP006_0.jpg) 
+![image](images/20210123_brp006.jpg) 
 > Jan 23rd 2021 
 
 EARLY EVIDENCE of the economic damage from Britain’s thin trade deal with the EU has been more olfactory than visual. Rather than the spectacle of queues of trucks outside Dover or empty British supermarket shelves, Brexit has instead brought the stench of pork rotting in Rotterdam and shellfish going off in its pallets. The government blames “teething problems”, but the new arrangements pose a long-term threat to farmers and fishers who want to export to the EU.

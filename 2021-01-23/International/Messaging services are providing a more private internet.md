@@ -1,7 +1,7 @@
 ###### Where everybody knows your name
 # Messaging services are providing a more private internet 
 ##### This has advantages—and risks 
-![image](images/20210123_IRD001_1.jpg) 
+![image](images/messagingapps.jpg) 
 > Jan 23rd 2021 
 
 WHATSAPP, WHICH 2bn people use to send some 100bn messages a day, is rarely in the news. When it is, the stories are mostly about whether, in order to increase competition, it should be hived off from its corporate parent, Facebook—a company rarely out of the news.
@@ -41,5 +41,5 @@
 
 This comes with obvious risks. Dr Urman says that in the past two years she has seen radical speech disappearing from the public internet. It is reasonable to assume it now takes place in private. Alex Stamos of Stanford University, who used to be Facebook’s chief security officer, says that venues outside the reach of companies or states are certain be used by people wishing to traffic in images of child sexual abuse and to plot terrorist attacks. He also says he is certain law-enforcement agents are already working to infiltrate such groups, though as yet he is unaware of any big busts that have involved activity on Signal or Telegram.
 
-Clear evidence of a serious crime in a powerful democracy such as America being planned on Telegram might test Mr Durov’s metal more than saying no to the Kremlin does. But if Telegram were compromised, Signal and its successors would persist, as would the almost-equally encrypted WhatsApp. Everyone wants some privacy and some people want a lot of it; people also like spaces which they can run themselves and where they will not be bombarded with ads or the opinions of interlopers. Messaging services give them those things, and many will want to keep them, come what may.■
+Clear evidence of a serious crime in a powerful democracy such as America being planned on Telegram might test Mr Durov’s mettle more than saying no to the Kremlin does. But if Telegram were compromised, Signal and its successors would persist, as would the almost-equally encrypted WhatsApp. Everyone wants some privacy and some people want a lot of it; people also like spaces which they can run themselves and where they will not be bombarded with ads or the opinions of interlopers. Messaging services give them those things, and many will want to keep them, come what may.■
 

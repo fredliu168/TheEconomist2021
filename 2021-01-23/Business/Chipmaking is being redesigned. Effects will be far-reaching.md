@@ -6,13 +6,15 @@
 
 ON JANUARY 13TH Honda, a Japanese carmaker, said it had to shut its factory in Swindon, a town in southern England, for a while. Not because of Brexit, or workers sick with covid-19. The reason was a shortage of microchips. Other car firms are suffering, too. Volkswagen, which produces more vehicles than any other firm, has said it will make 100,000 fewer this quarter as a result. Like just about everything else these days—from banks to combine harvesters—cars cannot run without computers.
 
-The chipmaking industry is booming. The market capitalisation of the world’s listed semiconductor firms now exceeds $4trn, four times what they were worth five years ago (see chart 1 on next page). Chipmakers’ share prices have surged during the covid-19 pandemic, as work moved online and consumers turned to streaming and video games for succour.
+The chipmaking industry is booming. The market capitalisation of the world’s listed semiconductor firms now exceeds $4trn, four times what they were worth five years ago (see chart 1). Chipmakers’ share prices have surged during the covid-19 pandemic, as work moved online and consumers turned to streaming and video games for succour.
 
 
 This has propelled a wave of dealmaking. In September Nvidia, which designs powerful chips for gaming and artificial intelligence (AI), said it would buy Arm, a Britain-based company whose blueprints are used in nearly all smartphones, for $40bn. In October AMD, which makes blueprints for graphics and general-purpose chips, announced another megadeal—to acquire Xilinx, a maker of reprogrammable chips, for $35bn.
 Silicon splurge
 
 Capital spending, too, is rising. Samsung, a South Korean conglomerate, wants to invest more than $100bn over ten years in its chip business (although some of that will go to its memory chips used in things like flash drives rather than microprocessors). On January 14th Taiwan Semiconductor Manufacturing Company (TSMC)—which turns blueprints into silicon on behalf of firms like AMD and Nvidia—stunned markets when it increased its planned capital spending for 2021 from $17.2bn to as much as $28bn, in anticipation of strong demand. That is one of the largest budgets of any private firm in the world.
+![image](images/20210123_WBC519_0.png) 
+
 
 All this is happening amid a confluence of big trends that are realigning chipmaking. At one end the industry is a hive of competition and innovation. Established chip designs, including those from AMD, Nvidia and Intel, the world’s biggest chipmaker by revenue, are being challenged by new creations. Web giants such as Amazon and Google, big customers of the incumbents, are cooking up their own designs. They are joined by a gaggle of startups, eager to capitalise on demand for hardware tuned for the needs of AI, networking or other specialist applications.
 
@@ -33,6 +35,8 @@
 That makes tweaking designs to eke out performance gains more attractive, especially for big, vertically integrated firms. No one knows better than Apple exactly how its chips will interact with the rest of an iPhone’s hardware and software. Cloud-computing giants have reams of data about exactly how their hardware is used, and can tweak their designs to match.
 
 And whereas designing your own chips once meant having to make them as well, that is no longer true. These days most designers outsource the manufacturing process to specialists such as TSMC or GlobalFoundries, an American firm. Removing the need to own factories cuts costs drastically. A raft of automated tools smooths the process. “It’s not quite as simple as designing a custom T-shirt on Etsy,” says Macolm Penn, who runs Future Horizons, another chip-industry analyst. But it isn’t a world away, either.
+![image](images/20210123_WBC518_0.png) 
+
 
 Although designing chips is now easier than ever, making them has never been harder. Keeping up with Moore’s law, even as it slows, requires spending vast—and growing—sums on factories stuffed with ultra-advanced equipment: plasma-etching kit, vapour-deposition devices and 180-tonne lithography machines the size of a double-decker bus. After falling as a proportion of overall revenue, the chip industry’s capital spending is ticking up again (see chart 3). In absolute terms, the cost of high-tech “fabs”, as chip factories are known, has grown relentlessly—with no end in sight.
 

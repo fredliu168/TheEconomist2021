@@ -23,6 +23,8 @@
 
 Whatever the world calls the persecution of Uyghurs, it will be hard to stop. This month Canada and Britain made vague announcements about steps they would take to block imports of goods made with forced labour. But no government has yet followed America in imposing sanctions and no international body has tried to hold China to account. Many multinational firms have quietly been trying to extricate their supply chains from Xinjiang, but only a few have made public statements. Last month the European Union agreed an investment treaty with China that paid only lip service to the issue of forced labour.
 
+
+
 Mr Biden may pay more attention to the Uyghur cause. Mr Trump appeared not to care: according to John Bolton, his former national security adviser, he told his Chinese counterpart, Xi Jinping, in 2019 that building camps for Uyghurs was “exactly the right thing to do”. Mr Trump withdrew America from the UN Human Rights Council in Geneva; the Biden administration is expected to restore its place. The council has never introduced a resolution on China’s atrocities in Xinjiang, but that could change with Mr Biden’s backing.
 
 Mr Trump’s treasury secretary, Steve Mnuchin, hesitated to let human rights get in the way of trade. An official under Mr Pompeo says the State Department recommended sanctions against about a dozen Chinese officials and entities that were never acted on by the Treasury Department because of the potential impact on Sino-American ties. Those targeted would have included the Xinjiang Political and Legal Affairs Committee. This powerful security body remained untouched by the Trump administration. Mr Biden’s Treasury Department may take a different view.

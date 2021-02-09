@@ -11,8 +11,10 @@
 
 During his campaign Mr Biden vowed to restore America’s soul. That is a daunting task. After Donald Trump’s supporters vandalised the Capitol, an impeachment trial for the former president looms. At least 25,000 members of the armed forces were stationed in Washington, DC—more than are currently deployed in Afghanistan and Iraq combined—to secure the peaceful transition of power. For the first time in 150 years the outgoing president skipped the ceremony. More than 80% of Mr Trump’s supporters believe his damaging lie that the election was stolen.
 
+
+
 And yet Mr Biden looks well suited to the work at hand. He assumes the presidency after nearly half a century in government. He is a conciliatory elder statesman who may serve only one term, not a culture warrior hellbent on securing re-election. His cadre of experienced appointees (see graphic) will immediately wield the tools of the administrative state to undo much of the damage of the Trump era. Harsh immigration policies will be lifted. The drive to weaken environmental protections will be reversed. European allies jittery about America’s commitment to mutual defence and combating climate change will be reassured.
-![image](images/20210123_FBC974.png) 
+![image](images/20210123_fbc974.png) 
 
 
 More lasting change will require legislation. Both chambers of Congress are under Democratic control, albeit by the narrowest of margins. The Democrats hold the House of Representatives by just four seats. They will retain control of the Senate—which is split equally between the two parties—thanks only to the deciding vote of Kamala Harris, the vice-president.
@@ -28,6 +30,8 @@
 
 The first order of business, which Mr Biden outlined in a speech on January 14th, will be another covid-19 relief bill, costing $1.9trn. It would provide $160bn to pay for a national vaccine programme, expanded testing and contact-tracers. It would shovel more cash to Americans via cheques of $1,400 per person, increases in unemployment benefits and a temporarily enhanced child tax credit (a policy which would, almost on its own, halve poverty among children). Republicans may balk at the cost—their worries about the deficit and debt are noticeably more acute under Democratic presidents—or some of its provisions, such as increasing the national minimum wage to $15 an hour. But the proposal cannot be accused, as some of Mr Obama’s were, of pre-emptive compromise.
 
+
+
 Mr Biden’s economic team has dubbed this bill a “rescue” measure. Hard on its heels will come a “recovery” bill, the details of which are yet to be unveiled. If the first foray into policymaking is any indication, it too will probably be a juggernaut. The recovery bill will propose massive infrastructure spending, perhaps the $2trn pledged in the campaign. It would also be the primary vehicle for some of Mr Biden’s most ambitious climate-change pledges. Mr Biden has promised to ensure universal broadband access, spend $400bn on energy and climate research and create 10m new clean-energy jobs on the way to decarbonising the electricity sector by 2035 and the economy as a whole by 2050. The trillions proposed will also channel Mr Biden’s neo-Rooseveltian instincts: he nostalgically aims for a domestic manufacturing renaissance powered by unionised workers.
 
 These are opening, maximalist positions. They give a sense of the scale of Mr Biden’s ambitions to exploit the crises he faces—and the fractious state of Republicans fighting over the legacy of Trumpism—to remake the American economy. They hint at his strategy for placating the left-wing gadflies of his party (who are also grudgingly thrilled at the diversity of his otherwise conventionally centrist appointees). Mr Biden seems to have grasped that unified control of government is a necessary but not sufficient condition for passing major legislation. Mr Clinton in 1993, Mr Obama in 2009 and Mr Trump in 2017 all came to Washington with the gift of an agreeable Congress. They squandered much of their political capital on trying to push through health-care legislation. Only Mr Obama succeeded.
@@ -40,6 +44,8 @@
 Even with such caution and concerted whipping from party leaders, Mr Biden will have to work hard. He has two routes to success. The first would be to attract enough Republican support—ten senators under the current configuration—to neuter the threat of a filibuster. Some who remember the obstinacy of Mitch McConnell, the Republican leader in the Senate under Mr Obama, think it is foolish to expect any differently of him or his caucus. But Mr Biden and his allies maintain a starry-eyed optimism for bipartisan dealmaking. “If the Republicans will recognise this as a watershed moment for them, their party and our country, I think there’s nothing we can’t do together,” says Chris Coons, a Democratic senator from Delaware.
 
 Mr Trump’s debasement of his party might be the deciding factor. A few moderate Republican senators most disaffected with Trumpism—such as Susan Collins, Lisa Murkowski and Mitt Romney—could band with conservative Democrats to become the crucial negotiating bloc for all major legislation.
+
+
 
 The alternative is reconciliation, a special procedure for passing an annual budget which cannot be filibustered and so could squeeze through with Democratic votes alone. But it has its limits. The rules for such bills are fiendishly complicated. Most importantly policy changes must be principally—not incidentally—budgetary, and cannot add to the deficit over the long run (usually ten years). Those restrictions create fiscal cliffs and lead to huge swings in future tax and spending. They also demand kludgey redrafting to ensure that they are mainly budgetary, says Molly Reynolds of the Brookings Institution.
 

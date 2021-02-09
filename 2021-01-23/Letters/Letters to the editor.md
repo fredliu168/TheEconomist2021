@@ -1,10 +1,10 @@
 ###### On vaccination, primaries, bannock, malaria, Malawi, conversation, potatoes
 # Letters to the editor 
 ##### A selection of correspondence 
+![image](images/20210109_fbp005_0.jpg) 
 > Jan 23rd 2021 
 
 Letters are welcome via e-mail to  
-![image](images/20210109_fbp005.jpg) 
 
 Nudging people to vaccinate
 

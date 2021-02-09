@@ -20,6 +20,8 @@
 
 In a recent analysis, Ran Balicer of the Clalit Research Institute in Tel Aviv and his colleagues compared, day by day, a group of 200,000 over-60s who had been vaccinated with an otherwise-similar group of unvaccinated individuals. They tracked differences in infection rates between the groups by comparing test results for people in them who were tested for covid after reporting pertinent symptoms or close contact with someone who had previously tested positive.
 
+
+
 For the study’s first 12 days, positive test rates remained identical between groups. On the 13th, the vaccinated group’s rate fell slightly. Then, on day 14, it dropped by a third. There has been some disappointment that this drop was not greater, but the vaccine in question, the Pfizer-BioNTech offering, is intended to be given in two doses, so the picture will not be clear until the second doses have been administered, and results from younger people have been included, too.
 
 The early effect on hospital admissions of Israel’s mass vaccination campaign has been trickier to measure, because of two confounding variables: the country’s national lockdown, which tends to reduce the rate regardless of the effect of vaccines, and the spread of B.1.1.7, a variant of the virus first found in Britain, which is a lot more contagious and so tends to push the rate up. This combination of factors is, though, also being experienced in many European countries, and in parts of the United States, so what happens in Israeli hospitals now is a harbinger of what those other places can expect in coming weeks and months.

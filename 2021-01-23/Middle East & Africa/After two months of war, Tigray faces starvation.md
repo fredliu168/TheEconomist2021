@@ -17,6 +17,10 @@
 
 Even where food is still available, many people have no means of getting it. Banks are closed across Tigray (apart from in Mekelle, the region’s capital). So are markets and shops. In many places fuel has run out. Inflation is rampant. “Even if you have the money, you don’t have a bank,” says Kibrom, who fled from Tigray to Addis Ababa, the Ethiopian capital, last month. “If you have grain, you don’t have a mill. If you have a mill, you don’t have power.”
 
+
+
+Listen on:  |  |  |  | 
+
 Hospitals are also running out of supplies. In most, such as the one in Humera, a town close to Sudan and Eritrea, staff have not been paid since October. A lack of electricity means medicines are spoiling—if there are any left at all. When Médecins Sans Frontières (MSF), an international charity, arrived at the hospital in Adwa earlier this month, its staff found that it had been almost completely looted. “How are we going to do blood transfusions that save lives if we don’t have a refrigerator?” asks Mari Carmen Viñoles, the head of MSF’s emergency unit.
 
 The federal government disputes such accounts. “There is no starvation in Ethiopia,” said a spokesman for the federal disaster management agency on January 19th. It claims to have distributed aid to nearly 2m people in northern Ethiopia (though it is unclear how many of those were actually in Tigray).

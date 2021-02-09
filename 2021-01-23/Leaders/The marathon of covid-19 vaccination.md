@@ -21,6 +21,8 @@
 
 Vaccine passports also raise ethical questions. When so much rides on having one, the question of who gets a jab when will matter even more than it does today. If groups are arbitrarily pushed back in the queue, programmes will become mired in controversy. Vaccination must be free to rich and poor alike, and allocated by efficacy and clinical need. That can be hard to reconcile with the requirement not to waste scarce supplies, which argues for convenience.
 
+
+
 There are complications, too. If vaccinated people can roam, those with acquired immunity will clamour for the same freedom: they are no more infectious, after all. Yet antibody tests are unreliable. It is not clear how long such immunity lasts or, in individuals, when they actually caught the disease and the clock started ticking. Some fear the implications for privacy if the state can check on citizens’ health. In principle, vaccine passports are a good idea. In practice, governments face a host of questions—some of which can be answered only through more epidemiological research. They need to start work on it today. ■
 
 Editor’s note: Some of our covid-19 coverage is free for readers of The Economist Today, our daily . For more stories and our pandemic tracker, see our 
