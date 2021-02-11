@@ -1,0 +1,23 @@
+###### Johnson
+# If only English had a word for… 
+##### Here are some useful expressions it could borrow from other languages 
+![image](images/20210213_BKD001_0.jpg) 
+> Feb 13th 2021 
+
+IMAGINE A FRIEND is heading out to face a difficult task. As a last word of encouragement before they disappear, you want to buck them up. What might you say? If you are speaking English, the likeliest choice is “good luck”.
+
+If you stop to think about it, that is a little odd. Though you might indeed hope luck smiles on your friend, neither they nor you can do much about the tumbling dice. What you really want to wish them is fortitude, not fortune. Which is why the French, in this situation, say “bon courage”, not “good luck”. A French expression for “good luck” (bonne chance) exists, too, but you are more likely to wish that to someone who needs luck specifically—perhaps heading to the racetrack rather than a tough appointment.
+
+
+Mark Liberman, a linguist at the University of Pennsylvania, noted recently on the Language Log blog that English does not allow you to pair any old adjective with any old noun in a fixed expression. You may wish someone “good morning”, “good afternoon” or “good night”, but not “good weekend”. You can say that phrase if you like, but your neighbour would look at you quizzically if you lob it over the fence on a Friday evening. In other languages it is perfectly conventional.
+
+Special occasions are another way in which pleasantries differ. English-speakers wish each other a happy birthday, but speakers of many other languages say “congratulations”, as if (to the English ear) the birthday girl had done something impressive merely by surviving another year. The Dutch also say “gefeliciteerd” to members of the family, including the one who really deserves congratulating: the mother. This is close to obligatory, whereas it would constitute a strange (if charming) surprise in English. Dutch-speakers miss the habit when living among Anglophones.
+
+It is natural to be critical of languages that lack expressions you consider indispensable. For instance, the Scandinavian languages lack a word for “please”, one of the first taught in other tongues because it softens what otherwise might be a brusque-sounding request from a novice speaker. But Scandinavians are not rude: they achieve the same end through other, longer formulations, from “May I ask for?” in public to tacking on “so you are sweet” in a request to an intimate. Meanwhile, Scandinavians must wonder why Anglophones do not wish each other something like the Swedish “tack for senast” when they see a friend again (meaning “thank you for the previous time we saw each other”). It is odd, even rude, to omit this, and having no English equivalent is vexing for those who are used to it.
+
+It is tempting to draw deep cultural conclusions from the presence of this or the absence of that in a language. But impressions can be misleading. The Italians wish each other “buon lavoro”—basically “have a good workday”—though their culture is not known to be especially work-focused. And German has the delightful “Feierabend!”, used to wish someone well as they leave work, though Germans are not known for a love of knocking off and relaxing. To conform with stereotypes, at least, the two languages should swap those expressions.
+
+Yet some idioms really do say something about a culture. The expansiveness of Japanese’s “sumimasen” reveals a lot about Japan: though usually translated as “sorry” or “excuse me”, it is used in a much broader range of situations than those corollaries. A detailed online guide to Japanese culture recommends it as the single word of Japanese to know if you learn just one. The Japanese might say it when someone holds a door for them, or even for interrupting someone’s journey in the lift by getting on at an intermediate floor. They are not cravenly apologetic, but their society values displays of respect for others. They must wonder why no single English word has the suppleness and coverage of sumimasen.
+
+But not having a word for something doesn’t mean you can’t coin one—or borrow it. The English say bon voyage and bon appétit, and there’s no reason to stop there. When in-person work begins again, try a “buon lavoro” as your better half heads off, or a “Feierabend!” as a colleague leaves for home. When you see a friend, thank them like a Swede for the previous time you saw them, and if you break up someone’s descent in a lift, try a friendly “Sorry about that!” Congratulate your mother-in-law on your spouse’s birthday, and prepare for a delighted smile back. It may seem awkward or tricky at first, but you can make it stick if you try. Bon courage.
+

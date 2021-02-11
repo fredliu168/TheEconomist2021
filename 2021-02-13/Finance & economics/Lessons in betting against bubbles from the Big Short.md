@@ -1,0 +1,23 @@
+###### Buttonwood
+# Lessons in betting against bubbles from the Big Short 
+##### Knowing for sure that something is askew may not be enough to make you money 
+![image](images/20210213_FND002_0.jpg) 
+> Feb 11th 2021 
+
+HE NOW RUNS a chain of hotels in his native Ghana. But in the 1990s Tony Yeboah played football at a high level, his two seasons at Leeds United sandwiched between longer spells in the Bundesliga. In England he is fondly remembered for a wonder-goal against Wimbledon FC. Watch it on YouTube. Trapping a high ball expertly on his chest, he juggles between defenders before smashing the ball off the crossbar into the net.
+
+Great goals stay in the mind long after the game-to-game grind of a championship win fades from memory. So it is with investing. Success often comes down to the compounding of incremental gains over time. The trades that capture the imagination, though, are the bold ones with big payoffs. Among the biggest and boldest was “The Big Short”, a bet against subprime mortgages before the 2008 crash, and also the title of a book by Michael Lewis (and, later, a film).
+
+
+That episode feels relevant again. The recent spectacular run-up in stock prices and the attendant mania in pockets of the financial markets have the word “bubble” on many investors’ lips. A new paper* by Aaron Brown of New York University and Richard Dewey of Royal Bridge Capital, a hedge fund, re-examines the Big Short and sounds a note of caution. It argues that the bet against subprime mortgages was far riskier than is often appreciated. The paper has a subtler message, too: the way in which a trading idea is expressed is as important as the insight that underpins it.
+
+People who lived through it can scarcely forget the subprime crisis. Still, here’s a recap. In the mid-2000s, house prices were rising rapidly in many rich countries. In America, much of the growth in mortgage lending was to “subprime” borrowers with low credit scores. These mortgages were pooled and turned into securities. The riskiest tranches of these pooled mortgages took the first losses, providing a buffer for the AAA-rated tranches. Such was the demand for AAA bonds that standards slipped. Just about anyone could get a subprime mortgage.
+
+America’s housing boom had all the hallmarks of a bubble: cheap money, a build-up of debt and a belief that there was no risk. If you were so minded, how could you bet against it? A handful of clever people worked out that subprime bonds were likely to suffer a higher rate of default than was suggested by their price or credit rating. So they bet against the riskiest tranches of the worst pools. They entered into agreements with banks, called credit-default swaps (CDS), which insured specific mortgage bonds against default. In 2007 and 2008, default rates soared. The CDS insurance was triggered. The payoff was as spectacular as a Tony Yeboah goal. 
+
+Why didn’t more people bet this way? Mr Brown and Mr Dewey spoke to investors who considered the short subprime trade, but passed on it. One turn-off was the Big Short’s steeply negative “cost of carry”: the premium on CDS insurance was high. Moreover, mortgage CDS were illiquid instruments, making it tricky to get out of the trade. A high cost of carry is a big bar when the payday might be years away—if it comes at all. The banks that were the counterparties to the CDS could be dragged under. Maybe the government would make good all mortgage-holders when the bust came. History did not play out this way. But investors could not be sure at the time.
+
+Traders found other ways to bet against the bubble. One was to sidestep the negative-carry problem by buying risky tranches of subprime securities, with double-digit yields, and at the same time taking out insurance on “safe” AAA tranches using CDS with a fairly low premium. The bet here was that a housing bust would blow up both risky and safe tranches; but while waiting for the apocalypse you could benefit from positive carry. Perhaps the safest way to profit from a bubble is the pick-up-the-pieces trade, in this case buying mortgage bonds at fire-sale prices after the bust.
+
+A subtext of the Brown-Dewey paper is that conviction can be your enemy. Knowing for sure that something is very askew may not be enough to make you money. Still, the precariousness of the Big Short is a big part of its legend. Yes, things might have played out differently. And if Tony Yeboah’s shot were an inch higher, then it would not have been a goal. But it was not a fluke. He had scored an equally spectacular goal against Liverpool a month earlier. That one went in off the crossbar, too. 
+

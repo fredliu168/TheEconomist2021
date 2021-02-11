@@ -1,0 +1,21 @@
+###### The persecution of the Uyghurs
+# “Genocide” is the wrong word for the horrors of Xinjiang 
+##### To confront evil, the first step is to describe it accurately 
+![image](images/20210213_LDP001_1.jpg) 
+> Feb 13th 2021 
+
+WHEN RONALD REAGAN cried “tear down this wall”, everyone knew what he meant. There was a wall. It imprisoned East Germans. It had to come down. One day, it did. In the struggle between democracy and dictatorship, it is crucial that democracies tell the truth in plain language. Dictatorships will always lie and obfuscate to conceal their true nature. Democracies can tell it like it is. Bear this in mind when deciding what to call China’s persecution of the Uyghurs. On his last full day in office, Donald Trump’s secretary of state, Mike Pompeo, called it “genocide”. Although Joe Biden did not use that word this week in his first talk with Xi Jinping, China’s president, his administration has repeated it (see ) and lawmakers in Britain are mulling it (see ). But is it accurate?
+
+By the common understanding of the word, it is not. Just as “homicide” means killing a person and “suicide” means killing yourself, “genocide” means killing a people. China’s persecution of the Uyghurs is horrific: it has locked up perhaps 1m of them in prison camps, which it naturally mislabels “vocational training centres”. It has forcibly sterilised some Uyghur women. But it is not slaughtering them.
+
+
+Calling it genocide depends on a definition rooted in a UN convention which suggests that one need not actually kill anyone to commit it. Measures “intended to prevent births”, or inflicting “serious bodily or mental harm” will suffice, if their aim is “to destroy, in whole or in part, a national, ethnical, racial or religious group”. How large a part is not specified. In principle it is, alas, possible to imagine the destruction of an entire people by, for example, the systematic sterilisation of all women. But if conventions are worded with unusual broadness, they must also be used with special care. Until now, America’s State Department had applied the “genocide” label only to mass slaughter, and even then it often hesitated, for fear that uttering the term would create an expectation that it would intervene. It did not call Rwanda’s genocide a genocide until it was practically over.
+
+America’s political rhetoric has thus undergone a dramatic shift, which has profound implications for the world’s most important bilateral relationship. By accusing China of genocide, it is sending the signal that its government has committed the most heinous of crimes. And yet at the same time it is proposing to deal with it over global warming, pandemics and trade.
+
+Some campaigners think the rhetorical escalation is nonetheless wise. It will stoke useful outrage, they argue, rallying companies to shun Chinese suppliers and countries to boycott next year’s Winter Olympics. On the contrary, it is more likely to be counter-productive. For a start, it accomplishes nothing to exaggerate the Communist Party’s crimes in Xinjiang. Countless true stories of families torn apart and Uyghurs living in terror appal any humane listener. When ordinary Han Chinese hear them, as a few did on Clubhouse, a new social-media platform, which China has rushed to block, they are horrified (see ). By contrast, if America makes what sound like baseless allegations of mass killing, patriotic Chinese will be more likely to believe their government’s line, that Westerners lie about Xinjiang to tarnish a rising power.
+
+Democracies face an unprecedented and delicate task when they deal with China, which is both a threat to global norms and an essential partner in tackling global crises such as climate change (see ). To refuse to engage with it is to endanger the world economy and the planet.
+
+Mr Biden is right to decry China’s abuses, but he should do so truthfully. The country is committing crimes against humanity. By accusing it of genocide instead, in the absence of mass murder, America is diminishing the unique stigma of the term. Genocide should put a government beyond the pale; yet American officials will keep doing business with the regime they have branded genocidal. Future genocidaires will take comfort. ■
+

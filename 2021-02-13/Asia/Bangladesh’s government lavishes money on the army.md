@@ -1,0 +1,23 @@
+###### Wallets at the ready
+# Bangladesh’s government lavishes money on the army 
+##### But in buying soldiers’ loyalty, it has also put them at the heart of power 
+![image](images/20210213_ASP006_0.jpg) 
+> Feb 11th 2021 
+
+WHEN AL JAZEERA, a Qatari television network, accused Bangladesh’s army chief not only of helping to hide his two fugitive brothers, who are on the run from a murder conviction, but also of steering military procurement contracts their way, the Bangladeshi government did not investigate the allegations. It did not even bother to rebut the claims in detail—including the assertion by one of the fugitives that Sheikh Hasina Wajed, the prime minister, was aware of and happy with this arrangement. Instead, it simply dismissed the whole story as a “smear campaign”.
+
+Sheikh Hasina has a peculiar relationship with the armed forces. It was soldiers who got her into politics in the first place, by murdering her father, Sheikh Mujibur Rahman, Bangladesh’s first president, as well as most of her family, during a coup in 1975. Ever since, she has pursued the two somewhat contradictory ends of avenging the killings and cultivating close ties with the army, lest she be toppled herself.
+
+
+Sheikh Hasina’s party, the Awami League, used to be less popular among the armed forces than its main opposition, the Bangladesh Nationalist Party (BNP), which was founded by an army officer and war hero, Ziaur Rahman, and is now led by his wife, Khaleda Zia.Yet since Sheikh Hasina began her second stint in power in 2009, she has gradually purged the armed forces of BNP supporters and promoted loyalists like Aziz Ahmed, the current army chief and object of Al Jazeera’s accusations (pictured, on the left). At the same time, she has showered the armed forces with perks. Close relatives of soldiers can receive health care in military hospitals, which are considered the best in the country. In 2015 she doubled pay across the armed forces, as well as for the civil service.
+
+The government’s spending on defence rose by 123% between 2008 and 2017, according to a report by the Stockholm International Peace Research Institute, a watchdog, despite the lack of any obvious military threats. The army has bought Chinese fighter jets and tanks, and built several big new bases, such as one of 620 hectares in the southern district of Patuakhali that the prime minister opened in 2018.
+
+During Sheikh Hasina’s decade in power, the armed forces have also massively expanded their business interests, in part through the Bangladesh Army Welfare Trust (AWT) and Sena Kalyan Sangstha (SKS). These two foundations for the welfare of soldiers and veterans are technically independent of the army, but managed by serving officers. According to its website, SKS alone has assets of over 60bn taka ($700m). Among the assets of the AWT, meanwhile, are several luxury hotels and the firm that makes the voting machines used in national elections. There was no tender for the contract; watchdog groups and opposition politicians complain the machines’ design makes vote-rigging easy.
+
+The armed forces also manage lots of infrastructure projects on the government’s behalf—an alarming prospect given the practices Al Jazeera has alleged. The navy spent $300m developing a refugee camp on a remote island, for instance. The air force is in charge of the expansion of the main airport in Dhaka, the capital. The army handles highway construction.
+
+Senior officers are also handed explicit opportunities for self-enrichment, in the form of land in Dhaka, a cramped city of 18m. They all get plots on which they are entitled to build a seven-floor building, with up to seven apartments. In theory, this is a form of housing allowance; in practice, officers sell at least some of the flats at a huge profit. Many serving or retired officers are also given swanky government jobs: heading the national port authority, for instance, or the agency that regulates tea farming. Even the lower ranks enjoy lucrative perks: the government passes on the roughly $10,000 it receives from the UN for each Bangladeshi soldier deployed on a peacekeeping mission.
+
+This coddling has worked. Although the army has seized power three times and run the country for 15 of the 50 years since independence, it has let Sheikh Hasina be. But in buying its loyalty, she has put it at the heart of government. Given her lack of a clear successor, its banishment from politics may last no longer than she does. ■
+
