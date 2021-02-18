@@ -1,0 +1,23 @@
+###### Many hands, light work
+# Only 7% of urban Indian women have paid jobs 
+##### The government could do much more to help women find work 
+![image](images/20210220_ldp501.jpg) 
+> Feb 20th 2021 
+
+INDIA WILL soon end China’s long run as the world’s most populous country. But by some projections its workforce will not exceed China’s until mid-century, even though Indians are much younger. One reason is that so few women in India are in paid work (see ). The International Labour Organisation says that only a fifth of adult women had a job or sought one in 2019, compared with three-fifths in China. The Centre for Monitoring Indian Economy, a local research firm, put the share of urban women in or looking for work at just 7% in November.
+
+During the pandemic, women have typically been the first in India to lose their jobs and the last to regain them. School shutdowns have forced some to drop out of the labour force to look after children who would normally be in class. Young women who have been unable to study, train or work during the pandemic are being married off instead. That is a worrying development. Whereas women in other countries often withdraw from the workforce when burdened with a child, women in India drop out when burdened with a husband.
+
+
+Some would say that nothing should, or can, be done about this. If Indian women choose not to work outside the home, the argument runs, that is their business. Dropping out of the labour force is a status symbol for upwardly mobile households, showing they are able to get by on the husband’s earnings alone.
+
+But the dearth of working women in India is not simply a reflection of cultural preferences. Many women on the sidelines of the economy are not there by choice. They say they would like to work if they could. Were they all to get their wish, it would add over 100m women to the workforce, by one calculation. That is more than the total number of workers, male and female, in France, Germany and Italy combined.
+
+Moreover, Indians are not as hostile to women in work as the employment numbers suggest. Their answers to questions like “Should men have more right to a job than women?” are more egalitarian than poll responses in Indonesia, where fully 53% of women pursue work outside the home. Despite that, the share of Indian women who actually find a perch in the workforce is a shade lower than in Saudi Arabia, where 22% do. And in so far as social attitudes do hold women back, they are not immutable. Indeed, employing women is often a catalyst for social enlightenment, rather than a consequence of it.
+
+The best thing the government can do to increase the supply of female workers is to increase the demand for labour in general. If growth is quick, hiring strong and labour scarce, then employers will have a powerful incentive to attract more women into the workforce by offering higher pay and safer, more convenient jobs. Alas, India’s notorious red tape has restricted the growth of labour-intensive, female-friendly industries such as the garment trade, which has prospered next door in Bangladesh. To the extent that India’s government does try to foster private employment, it coddles pet industries, especially IT, that are prestigious but unlikely to employ the masses. And the state is extremely sexist in its own hiring: only 11% of the central government’s employees are women.
+
+The government has adopted some helpful reforms. Factory rules that are soon to come into effect will ease restrictions on women’s working hours, which should make them more appealing recruits. But it could do more. India’s rural workfare scheme provides flexible employment to many women. But work is not always available and pay often arrives late. The scheme should also pay wages directly to women rather than to households. A study by Erica Field of Duke University and her colleagues showed that giving women control over their wages increased their bargaining power with their husbands, which in turn won them more freedom to work. There is the potential to initiate a virtuous cycle. As more women in a district take jobs, their husbands feel less shame about their wives’ departures from home and hearth.
+
+Despite the many obstacles they face, Indian women already make striking contributions in many fields, including retail, management, media and politics. India’s finance minister, Nirmala Sitharaman, has herself worked in all four. Her government should try harder to clear a path for more women like her. ■
+

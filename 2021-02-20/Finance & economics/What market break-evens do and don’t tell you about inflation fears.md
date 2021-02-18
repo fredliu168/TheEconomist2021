@@ -1,0 +1,25 @@
+###### Buttonwood
+# What market break-evens do and don’t tell you about inflation fears 
+##### The closely watched gauges are too volatile to be a reliable guide 
+![image](images/20210220_fnd001.jpg) 
+> Feb 20th 2021 
+
+IF YOU HAD to pick an emblem of the wild ride that financial markets have been on, it would be Carnival. When the pandemic took hold, its cruise ships were regarded as floating petri-dishes. Yet last April it was able to raise capital, as the corporate-bond market thawed. More recently it raised $3.5bn at half the interest rate that it paid last year. Now all the talk is of pent-up consumer demand and the inflation that will unleash. Carnival’s bookings for the first half of 2022 are above their level in 2019. The company has captured the market zeitgeist once again.
+
+If you can marvel at the speed of the firm’s change of fortune, marvel too at another turnaround. The yield gap between ten-year Treasury inflation-protected bonds (TIPS) and conventional bonds of the same maturity is widely seen as a measure of long-term inflation expectations. These inflation “break-evens” have soared to 2.2% from a low of just 0.5% last March. 
+
+
+Serious people are talking of a return to 1970s-style inflation. In America bumper fiscal-stimulus packages seem to arrive like overdue buses, one after another. They are layered on top of unprecedented monetary easing and a pledge by the Federal Reserve to tolerate inflation above 2% for a while. The case for higher inflation seems more persuasive than it has for years. But break-evens will not tell you a lot about whether it might be sustained. They are too volatile to be a reliable guide. 
+
+A jump in annual inflation seems assured. Last spring, when cruise liners were beached, there was a glut of crude oil in storage and in seaborne tankers. The month-ahead price of oil briefly turned negative. A year on, inventories are falling. The price of a barrel of Brent crude has surged past $60. The trend is mirrored in the rising prices of other commodities. That will push up year-on-year comparisons of prices and thus annual inflation. Commodity markets offer a template of what could yet happen in the wider economy: a surge in demand meets constrained supply, leading to inflation. 
+![image](images/20210220_FNC780.png) 
+
+
+In the central-banking model, expectations are self-fulfilling: businesses set prices and wages in accordance with the inflation they look ahead to. Yet it would be unwise to put too much faith in break-evens. They often reflect market influences that are only tangential to future inflation. Look at Britain, for instance. Legislation in 2004 obliged pension funds to match their assets to their long-term promises. This in turn spurred demand for long-dated index-linked bonds, and the debt-management office issued lots more of them. Despite this issuance, the demand for inflation protection has over time driven real yields down to unusually low levels and pushed up break-evens.
+
+In America, the oil price appears to have an outsize influence on break-evens. A simple model based on the oil price and the dollar tracks market measures of expected inflation quite closely, according to a recent note by Steven Englander of Standard Chartered, a bank. His model, based on data from 2006 to 2016, predicts the recent rise in break-evens pretty well. Sharp rises in the oil price tend to push up inflation, but the effect is temporary. They ought not to influence medium-term break-evens, but in practice they do. 
+
+Bonds respond to changes in risk appetite in ways that have implications for implied break-evens too, says Eric Lonergan of M&amp;G, a fund manager. The ten-year Treasury is the quintessential safe asset. It is liquid (unlike TIPS) and investors use it as protection against extreme moves in share prices. When the stockmarket falls hard, as it did last March, the price of a ten-year Treasury typically rallies, and the yield collapses, as investors seek safety. But as risk appetite returns, the effect unwinds. The yield curve has steepened—which is to say, yields on longer-dated bonds have risen relative to those on shorter-dated bonds—as it tends to at the start of an economic recovery. A corollary is that break-evens have also risen. But this is mostly the outcome of shifting attitudes to risk, rather than forecasts of inflation.
+
+For all their shortcomings, inflation break-evens are closely watched. The whole edifice of asset prices, from shares to homes, rests on rock-bottom interest rates, and thus on quiescent inflation. Before the pandemic, financial markets were prone to periodic growth scares (trade wars, an over-zealous Fed, and so on) that spooked stockmarkets. Now we seem to be set for a series of inflation scares. And Carnival’s cruise liners are not even at sea yet.
+

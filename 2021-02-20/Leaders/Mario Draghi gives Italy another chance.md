@@ -1,0 +1,21 @@
+###### From banker to prime minister
+# Mario Draghi gives Italy another chance 
+##### His appointment as prime minister is good for the country and for Europe 
+![image](images/20210220_LDP001_0.jpg) 
+> Feb 20th 2021 
+
+ITALY IS BIG enough to break Europe. Some countries, such as Greece or Portugal, are highly indebted but their fellow Europeans can bail them out, if necessary. Others, like France, Spain or indeed Germany, have large debts in absolute terms, but thanks to the size of their economies and a decent record of growth they can cope without spooking the markets. Only Italy has the triple whammy: a big debt stock in both relative and absolute terms, plus an economy that was stagnant even before covid-19 struck. The arrival of Mario Draghi, sworn in as Italy’s prime minister on February 13th (see ), offers some hope that Europe’s sick man may get a vital healing shot.
+
+Mr Draghi, an ex-boss of the European Central Bank, is the latest in a long line of technocrats to be installed in the prime minister’s office. That is hardly ideal. Unelected heads of government are in principle a snub to democracy. They are often bad at communicating with the public. Their elevation can play into the hands of populists, who will always claim that the elites are conspiring to do down the masses. When the prime minister in question is a former international banker, the demagogic slogans practically write themselves.
+
+
+Still, Mr Draghi commands the support of all Italy’s main parties, with the sole exception of the Brothers of Italy, an outfit with neo-fascist origins, which will no doubt snipe dangerously from the sidelines. Mr Draghi is more than just a technocrat; he also has considerable political and diplomatic skills, as he showed when shepherding the euro through its crisis a decade ago. He will need them.
+
+Previous governments have often broadly agreed about what has to be done to rescue Italy from its chronic malaise. It is one of the worst places in the European Union in which to do business, owing to a sluggish and erratic judicial system, a weakness for red tape and a tax system that discourages job creation. Government subsidies have failed to correct the deep structural imbalance between the prosperous north and the mezzogiorno, Italy’s south, one of Europe’s least prosperous regions. All these things need fixing, but a series of weak, cash-strapped coalition governments have made little progress. Mr Draghi has a chance to do better. For now, at least, he has a huge majority in parliament.
+
+He will also have plenty of sugar to help the unpleasant medicine go down. Thanks to a €750bn ($900bn) recovery fund that the EU agreed to last summer, Italy is eligible for around €200bn in grants and loans over the next six years. The money comes with the right kind of conditions attached. Much of it must be spent on green projects or digital ones; and agreeing to a detailed programme of reforms is a key part of the mix. Italy’s draft plan is better than some that other member states have submitted to Brussels. Even so, Mr Draghi needs to beef it up. In a speech to parliament on February 17th he hit the right notes, promising to reform taxes, the courts and public administration, but also promising not to bail out unviable firms.
+
+If Mr Draghi is a good bet for Italy, he looks a good one for the EU as well. The European Council could use another heavyweight. Angela Merkel is on her way out, having promised that her current term as Germany’s chancellor is her last; an election is due on September 26th. Emmanuel Macron faces his own re-election battle early next year. Britain, in the past the swing vote in Europe’s trio of dominant powers, has abandoned the stage.
+
+A powerful and highly regarded Italian will also help shift the EU’s ideological balance in the right direction. If it is to survive and thrive, the bloc needs to invest a good deal more money, raising it on the international markets and so allowing its weaker countries to benefit from the credit of the union as a whole. The recovery fund offers a good template that should be used again in the future; Mr Draghi will be well placed to press for that. This can happen, though, only if the existing plan is a success. If Super Mario cannot make it work for Italy, perhaps no one can. ■
+

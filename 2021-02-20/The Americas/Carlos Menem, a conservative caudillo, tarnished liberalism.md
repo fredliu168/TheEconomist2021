@@ -1,0 +1,23 @@
+###### Bello
+# Carlos Menem, a conservative caudillo, tarnished liberalism 
+##### He was right to try to open Argentina’s economy, but wrong to let cronyism thrive 
+![image](images/20210220_amd001.jpg) 
+> Feb 17th 2021 
+
+IN BUENOS AIRES in 1997 Carlos Menem hosted a regional “Davos” of international business types. With a dull evening reception under way, Argentina’s president swept in, cheeks shining and eyes flashing, dispensing bear hugs, starlets in tow. Your columnist felt a jolt of political electricity course through the assembled suits. So discredited was Mr Menem by the time he died, aged 90, on February 14th that it is hard to remember that he was once acclaimed as a Latin American economic visionary.
+
+On taking office in 1989 amid hyperinflation, he swiftly grasped that Argentines wanted price stability and economic order above all else. He tore up the populist programme on which he had been elected and the statist economic doctrines of his Peronist movement, and implemented what he called “major surgery without anaesthetic”. Domingo Cavallo, his economy minister, imposed “convertibility”, a law under which the peso was fixed at par to the dollar and the supply of pesos was restricted to the Central Bank’s hard-currency reserves. Having persuaded Congress to grant him sweeping powers, Mr Menem slashed import tariffs, subsidies and curbs on foreign investment, and privatised hundreds of state enterprises, from the railways to the oil company.
+
+
+At first it worked. Inflation dissipated, foreign capital poured in and the economy roared. Mr Menem basked in popularity. Having changed the constitution to allow re-election, he easily won a second term in 1995. But unemployment rose, too. Under convertibility, Mr Menem had forsworn both monetary and exchange-rate freedom. When foreign capital poured out of emerging markets, Argentina suffered a slump culminating in financial collapse in 2001-02. In what until the 1970s had been a middle-class society, the poverty rate soared to 56% and unemployment to 21%. Mr Menem handed health care and education to provincial governments without giving them more resources. Argentina acquired Latin American social inequalities.
+
+Not all of this was Mr Menem’s fault, but much was. His lasting legacy was a record so notorious as to shut off rational discussion about economic policy in Latin America for a generation. He and his Argentina were indelibly branded as “neoliberal” slaves to the “Washington consensus”. By extension, liberalism and a capitalist economy were damned.
+
+This charge sheet was based on a blurring of political identity. Peronism is an alliance between trade unions and the caudillos of the backward north, men such as Mr Menem, who was governor of the province of La Rioja. His keystone, convertibility, divided economic liberals: some thought it necessary in a country with a hyperinflationary past; others saw it as a conservative policy, akin to the gold standard. It certainly violated a tenet of the Washington consensus, which called for a competitive exchange rate to stimulate exports. Convertibility’s fixed peso quickly became overvalued, so the trade opening killed some potentially viable manufacturing firms.
+
+Mr Menem himself undermined convertibility by piling up foreign debt to spend on political clientelism in a quest for an unconstitutional third term. He should instead have helped the unemployed with retraining and public works. In many cases his privatisations created monopolies, or rewarded cronies. He abolished some economic privileges only to create others. These mistakes did much to discredit privatisation, deregulation and economic openness. Their subsequent lack is one reason Latin America has scarcely grown economically for the past seven years. The boldness of his reforms would be welcome in, for example, today’s Brazil.
+
+Forgotten is the mess that Argentina’s statist, protectionist economy was in when Mr Menem took over. In ministries, broken typewriters (yes), toilets and lifts languished unrepaired; state-owned companies lost 6% of GDP per year; only half the locomotives of the state railways worked; businesses employed staff whose sole job was to hold a telephone handset for hours to get a line.
+
+Mr Menem was a democrat—he was briefly jailed by a dictatorship in 1976. But he was an illiberal one. He packed the Supreme Court and the audit tribunal. In his inner circle influence-trafficking, corruption and links to organised crime flourished. During his presidency, politics merged with la farándula (the more vulgar end of show business). When the economy dived, the glitter became a mockery. This was Mr Menem’s failure, not liberalism’s.
+

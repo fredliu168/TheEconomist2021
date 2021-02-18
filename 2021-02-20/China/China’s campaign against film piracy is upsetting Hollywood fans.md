@@ -1,0 +1,15 @@
+###### Winter is coming
+# China’s campaign against film piracy is upsetting Hollywood fans 
+##### The end is nigh for online “translation groups” that make bootleg Western films accessible to millions 
+![image](images/20210220_CND001_0.jpg) 
+> Feb 18th 2021 
+
+FOR A GENERATION of young Chinese, American television shows like “The Big Bang Theory”, “Breaking Bad” and “Sex and the City” were their first taste of life in the West. Growing up with limited English inside China’s “great firewall”, millions of them watched pirated versions online, with the help of subtitles produced by volunteers. Many of the translators were Chinese students, both in China and at universities abroad. They provided their skills for little reward, except the glory of an on-screen credit, to streaming services that allowed free access or offered super-cheap subscriptions. Being accepted into such firms’ “translation groups” was a badge of distinction. Standards were high and competition for membership was fierce. It will not be in future, however.
+
+On February 3rd 14 people from China’s largest such streaming firm, Renren Yingshi (meaning “everyone’s movies and shows”), were arrested in Shanghai for alleged copyright infringements. Since then, many other such outfits have gone underground or disbanded. For many internet users, this has been a sad moment. On social media they bade farewell to what they described as something irreplaceable: entertainment free of the dead hand of China’s censors, and with far more accurate subtitles than most officially approved content.
+
+
+Demand for Renren Yingshi’s offerings was fuelled by tight supply. China is one of four regions without Netflix: the others are North Korea, Syria and Crimea. Even though it is one of the fastest growing film markets, China approves only a few foreign films for screening in cinemas each year. It is possible to watch some foreign shows on officially approved streaming sites. But they are heavily censored—so much so in the case of “Game of Thrones” that the plot is hard to follow. Such restrictions helped to turn translation-group services into big operations. Police in Shanghai said Renren Yingshi had produced more than 20,000 television shows for its 8m registered users.
+
+Renren Yingshi’s popularity is evident in the debate that still surrounds it on Weibo, a Twitter-like platform. Posts with hashtags relating to the clampdown have garnered more than a billion views. In one of them, Yan Feng of Fudan University in Shanghai said the subtitling effort had been one of Chinese history’s great translation projects, on a par with a drive to render Western literature into Chinese in the 19th century. Uncensored foreign films and shows will remain accessible to Chinese viewers with foreign-language skills and software that can scale the great firewall. But most people are unlikely to try, not least because the government disapproves. Netizens have been sharing the poetic Chinese term, lindong jiangzhi. It is one that subtitling enthusiasts have used to translate a phrase made famous by “Game of Thrones”: winter is coming.
+

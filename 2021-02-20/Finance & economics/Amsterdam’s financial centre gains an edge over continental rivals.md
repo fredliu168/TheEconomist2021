@@ -1,0 +1,21 @@
+###### Advantage Amsterdam
+# Amsterdam’s financial centre gains an edge over continental rivals 
+##### Brexit and the IPO boom have bolstered the Dutch side 
+![image](images/20210220_fnp504.jpg) 
+> Feb 20th 2021 
+
+THOUGH MANY exchanges are run by multinational companies, they are still often seen as the financial equivalent of a national football team. When Amsterdam ousted London as the largest share-trading centre in Europe last month, it made headlines in both countries. “The EU wins first battle for stock trading over Britons,” said Het Financieele Dagblad. London’s Financial Times observed that “Amsterdam punctures the City’s post-Brexit hopes”.
+
+Announcements of high-profile listings in Amsterdam have further bolstered the Dutch side. Jean-Pierre Mustier, the former boss of UniCredit, an Italian bank, and Bernard Arnault, a luxury-goods tycoon, are intending to list a special-purpose acquisition company (SPAC) in Amsterdam aimed at buying fintech and other financial firms. Vivendi, a French media group, plans to list Universal Music, its record label, in the city. Earlier this month Martin Blessing, the former boss of Germany’s Commerzbank, said he planned to raise around €300m ($362m) for a SPAC listed in Amsterdam that targets the financial industry. That follows an initial public offering (IPO) last month by Poland’s InPost, an e-commerce group, which raised €2.8bn—the biggest continental European listing since 2018.
+
+
+Ever since Britain voted to leave the European Union, a number of continental cities, including Paris and Frankfurt, have been vying to snatch business from London. Amsterdam seems to have gained a head-start. In January average daily European share trading amounted to €9.2bn on the Amsterdam bourse and the Dutch arms of the Chicago Board Options Exchange (CBOE) and Turquoise, a share-trading platform, much higher than daily trading of €2.6bn in 2020. By contrast, trading sank to about €8.6bn in London in January, about half its level in 2020.
+
+The shift was foreseeable: after Britain’s exit from the single market on January 1st, the EU refused to grant it “equivalence”, a regulatory arrangement that would have allowed the City of London to trade relatively unhampered in European markets. That forced trading in European shares to move to the continent. Both the CBOE and Turquoise plumped for the Netherlands as their alternative to Britain.
+
+Why Amsterdam? Euronext, the company that runs exchanges in cities including Amsterdam, Brussels and Paris, has focused on building relationships with big and small tech companies all over Europe, says Michael Werner, a stock analyst at UBS, a Swiss bank. The aim is to become the listing venue of choice for hot tech companies. Several factors make the Dutch exchange more attractive than its continental rivals. Its regulation and governance framework, such as its tolerance of dual-class voting structures, are slightly more favourable to companies. Its first-class internet infrastructure makes it easy to trade fast. And the fact that English is so widely (and well) spoken probably helps attract foreigners.
+
+Nonetheless, in most respects London’s crown is still secure. Take the Dutch IPO boom, which starts from a very low base. Last year only two companies went public in Amsterdam, compared with 33 on London’s stock exchange; 11 firms have already listed in London this year, to Amsterdam’s one. A spokeswoman for Euronext says that it is “too early to draw any conclusions” from the jump in trading volume.
+
+For Marieke Blom of ING, a Dutch bank, the big question is whether the Brexit effect proves temporary or not. The EU is considering whether to grant Britain equivalence. Even if it does, Amsterdam could still benefit from a virtuous circle. Stock exchanges compete so aggressively for the thin-margin business of share trading because liquidity begets liquidity. The high volume of trading should make it easier for sellers and buyers to find each other, and that should make the exchange more attractive for listings. Some of Amsterdam’s gains will probably stick. ■
+

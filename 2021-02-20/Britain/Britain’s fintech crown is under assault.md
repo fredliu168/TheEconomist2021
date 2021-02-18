@@ -1,0 +1,23 @@
+###### Silicon wallet
+# Britain’s fintech crown is under assault 
+##### Entrepreneurs lament complacency in London just as other capitals are muscling in 
+![image](images/20210220_BRD001_0.jpg) 
+> Feb 18th 2021 
+
+LESS THAN a decade ago Michael Kent and his fellow entrepreneurs were regulars in Downing Street. David Cameron, then prime minister, and George Osborne, his chancellor, were big cheerleaders of the tech wizards that power financial services, to whom they offered tax incentives, a friendly legislative agenda and a sympathetic ear. That, however, “fell away after the Brexit vote”, says Mr Kent, who chairs Azimo, a cross-border payments firm he founded in 2012. Like the financial industry at large, fintech lost out to fish in negotiations with the EU, and got no mention in Britain’s free-trade deal with the bloc.
+
+Given Britain’s record in fintech, that is odd. In just a decade London has grown into a fintech hub that is second only to San Francisco. The sector, worth £110bn ($152bn) globally, is expected to triple in size by 2030. Britain has a 10% share; last year it received more fintech investment than the next three European countries combined. Yet its early lead risks being eroded, says Christian Faes of Fintech Founders, a network of entrepreneurs. From Australia and Singapore to France and the UAE, other countries are eyeing its business. They have been visiting the offices of LendInvest, a digital mortgage lender he co-founded, to persuade it to relocate.
+
+
+The government is worried. A new wave of fintech is coming, and Brexit has undermined Britain’s chances of riding this one as it did the last. That’s why last July, the Treasury launched a “Fintech Strategic Review”, led by Ron Kalifa, the former boss of Worldpay, a payment firm. Its report is due to be released next week.
+
+Fintech first flourished after the 2008 financial crisis, when shattered trust in traditional banks and the credit crunch spawned digital banks and peer-to-peer lenders. London’s strengths as a financial centre made it a magnet for entrepreneurs. Startups could get capital to see them through from inception to IPO and import talent easily. Regulators encouraged innovation by communicating clearly, organising data-sharing and carving out spaces in which startups could securely test their products. The time-zone, language and legal system all helped.
+
+A second generation of startups, turbocharged by life and business going online during the pandemic, is now looking for a home. While the first were consumer-facing household names, like TransferWise or Monzo, these less glamorous ventures provide infrastructure enabling non-financial firms to offer web-based financial services—a car dealership selling insurance, for instance, or a supermarket selling loans.
+
+The potential is huge, and Britain still has many advantages, but it also has handicaps. Whereas internet speeds in British offices are decent, elsewhere they remain lousy, especially compared to other startup launchpads like the Nordics. That matters when people are working from home. Brexit has created new problems. It has exacerbated London’s shortage of tech talent: according to Radboud Vlaar of Finch Capital, a venture fund, foreign students in Britain, spooked by visa uncertainty and anti-immigration rhetoric, now eye continental cities after graduation. It has cut Britain off from the European Investment Fund, which seeded British-based venture capital funds. Now there is speculation that capital-gains tax will be increased in the budget next month. “It feels like death by a thousand cuts,” says Mr Faes.
+
+The review will seek to address some of these concerns. It will also recommend fixing old problems, such as the lack of local funding for later-stage startups, which often turn to American or Asian investors when they need money. It is likely to recommend loosening rules preventing domestic pension schemes and insurers from investing in growing companies. And it will press for better co-ordination between Britain’s patchwork of agencies so financial regulations are more consistent and can be speedily changed when they need to be.
+
+In the wake of Brexit, many industries have a list of demands. This one’s virtue is that it should not cost much, either financially or politically. The issues involved are mostly too wonky for voters to care much about; or, when it comes to making visas easy for highly skilled workers, they are likely to approve. The biggest danger, for the sector, is that the government fails to listen—as it has so far to most of the demands of Britain’s most important industries over Brexit. ■
+

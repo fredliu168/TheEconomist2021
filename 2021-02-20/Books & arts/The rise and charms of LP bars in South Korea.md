@@ -1,0 +1,21 @@
+###### Exit music
+# The rise and charms of LP bars in South Korea 
+##### Tired of your job? Own too many records? Time to open a bar 
+![image](images/20210220_BKP001_0.jpg) 
+> Feb 20th 2021 
+
+HE DID NOT mind working in advertising, says Kim Jae-geun. “It’s creative and competitive, it was fun while I was young, but I no longer had the strength for it.” So for the past seven years, instead of spending his days writing copy, Mr Kim, a softly spoken 59-year-old in wire-rimmed glasses and a dark jumper, has spent his evenings behind the counter of his bar near Seoul’s government district—a venue also home to thousands of vinyl records that he began collecting as a teenager.
+
+Stacks of scrap paper and pens on the countertop and the tables let customers request their favourite songs. Before the government introduced a curfew to fight the covid-19 pandemic, Mr Kim says the bar, Seochon Blues (pictured), used to fill up with tired office workers from the surrounding firms and state agencies during the week, and with 20-something hipsters and local artists at the weekends. “There’s a bit of a retro wave,” he observes. “All the young people ask for very old songs.” 
+
+
+Mr Kim’s is one of dozens of “LP bars’‘ in South Korea’s capital, many of which are run by men with similar stories. South Korean companies offer few opportunities for middle-aged workers who have not climbed through the ranks, or who have grown fed up with the rigid rhythms of office life. Leaving their jobs in their 50s, with music collections becoming too large for their living rooms, a few who have not taken up work as taxi-drivers or security guards have decamped with their records to softly lit basements or walk-ups in unassuming office buildings. 
+
+The first LP bars opened in the 1990s, possibly inspired by the “listening bars” that originated in mid-20th century Japan, where music aficionados would flock to listen to imported records that were otherwise hard to come by. But they have proliferated in recent years, their frequently middle-aged owners benefiting from the analogue trend that has gripped South Korea’s digital natives. One established K-pop star promoted his latest single with a picture of himself posing in front of stacks of records in clothes from the Sixties; newer bands release special editions of their latest albums on vinyl. Last year national sales of vinyl records were up by 75%; women in their 20s and men in their 30s were the biggest buyers.
+
+The atmosphere in the bars ranges from mellow to raucous depending on the location, time and tastes (though pandemic-induced restrictions have made melancholy the dominant mood). Many requests are on the mawkish side. Kim Kwang-seok, a South Korean folk-rock singer of the Nineties, is particularly popular, says Mr Kim; so is “Hotel California”. Some places specialise: “People know I have lots of Sixties psychedelia, so they come mostly for that,” says Choi Byung-ik, who with his wife runs a bar in Hongdae, a hip studenty area. Connoisseurs like to listen to Leaf Hound, a British band that in its heyday recorded only one album, alongside better known groups such as Pink Floyd and Cream, for which the bar is named.
+
+The USP of others is their equipment. “You won’t find this sound system anywhere else, because I built it,” says a proprietor in the glitzy Apgujeong neighbourhood of his mix of state-of-the-art amps and speakers that reportedly date to the 1930s. But in a metropolis that in general has little time for sentimentality, all LP bars encourage nostalgia.
+
+“I don’t like digitisation and I don’t like the isolated way people live now,” says Lee Jae-jun, who left a job in logistics to open a bar down the street from Mr Kim’s. “I like remembering the Eighties and Nineties and I like playing the songs from people’s youth and reminiscing.” On the best days, regulars arrive “for just one drink, and then I play a song they like, and another one, and before you know it, it’s 4am and everyone goes home drunk and happy.” ■
+
