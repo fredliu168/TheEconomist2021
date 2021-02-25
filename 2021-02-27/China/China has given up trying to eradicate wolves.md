@@ -1,0 +1,17 @@
+###### Reviled to revered
+# China has given up trying to eradicate wolves 
+##### Now it says they are a protected species 
+![image](images/20210227_CNP002_0.jpg) 
+> Feb 27th 2021 
+
+CONSERVATIONISTS HAD much to cheer about when, in early February, China published a long-awaited update to its list of protected animals. It is now twice as long, with almost 1,000 species. Snake-lovers celebrated the inclusion of the lime-green Mangshan pit viper. Fans of the Yangzi finless porpoise, also known as the “smiling angel”, had reason to rejoice. Yet perhaps the most unexpected gift was handed to champions of the common wolf. Unloved in many places, wolves were until recently seen as a pest in China. When the country last drew up a protected-species list in 1988, a campaign to exterminate wolves for rewards, launched in the 1950s under Mao, was still popular. Killers now face steep fines and possible prison time.
+
+In Chinese, as in other languages, wolves get a raw deal. They feature in proverbs about collusion and cruelty (to have “the heart of a wolf and the lungs of a dog”), infamy and greed (to harbour the “ambition of wild wolves”). Lechers are wolf-like. In “The Wolf of Zhongshan”, a 16th-century fable known to all Chinese children, a scholar helps hide a wolf from a hunting party, but the ungrateful animal tries to eat him. To be “a Zhongshan wolf” is to repay good with evil.
+
+
+A bestseller released in 2004 upended these ideas. “Wolf Totem” thundered that China was a nation of sheep in dire need of reclaiming its wolfish vigour. It is the semi-autobiographical story of a student who goes to live among ethnic-Mongolian herders during the Cultural Revolution. He becomes fascinated by the wolves that prey on their livestock. The novel laments the destruction of Inner Mongolia’s grasslands by farmers from China’s ethnic-Han majority, and their failure to recognise the positive role played by wolves in preserving the region’s ecology (the author, who published his work under a pen name, had been imprisoned for supporting the pro-democracy protests of 1989). The book appealed to officials, army types and entrepreneurs, who used it to motivate staff. The wolf—strong-willed, tribe-oriented—had become a role model.
+
+Such lupine imagery remains in vogue. The special-forces unit that gives its name to “Wolf Warrior”, a patriotic action movie released in 2015, embodies a China that is self-confident and respected. (“Wolf Warrior 2” is China’s highest-grossing film.) “Wolf-warrior diplomacy” is used by admirers and critics to describe the tactics of combative Chinese ambassadors.
+
+“Wolf Totem” gave rise to many new stories about friendly wolves. “Pleasant Goat and Big Big Wolf”, an animated television cartoon, was a hit with children—and middle-class women. They fawned over Grey Wolf, an anti-hero and charming husband. “The Wolf that Fell for the Sheep” became a smash pop song. The novel also inspired some young people to work with actual wolves. Among their small but growing number is Li Xiaoyu of Peking University, who studies human-wolf conflict on the Tibetan plateau (it is less confrontational these days: to keep the wolves at bay, herders strap loudspeakers onto their yaks and blast out Buddhist chants at approaching predators). Ms Li thinks newfound acceptance of wolves was a big factor in earning them legal protection. So, too, were the conservation groups that fought for their inclusion. They were the real wolf warriors. ■
+

@@ -1,0 +1,23 @@
+###### Go big or go home
+# Donald Trump thrived by painting Democrats as soft on immigration 
+##### So why are Democrats introducing the most comprehensive immigration reform for decades? 
+![image](images/20210227_USP005_0.jpg) 
+> Feb 27th 2021 
+
+MANY IMMIGRATION activists would have cheered President Joe Biden had he merely spent his first month in office signing nine executive actions that reverse some of Donald Trump’s most hostile orders on migration. Mr Biden has told officials they may no longer take children from the arms of asylum-seeking parents. A task-force has been told to find the still-missing parents of 600 such detained children. Rules on deportation are to be milder than before. Refugee resettlement is to expand anew. And those seeking sanctuary at the southern border will be treated more humanely: a few vulnerable ones may again plead from inside America, rather than wait in unsafe camps in Mexico.
+
+To the surprise of even some close observers of immigration policy, however, Mr Biden has signalled he wants to go further, quickly. Last month he proposed a comprehensive immigration bill: last week the US Citizenship Act was sent to Congress. If enacted (which is unlikely) it would amount to the biggest shake-up of the migration system in decades . It sets out how an estimated 11m undocumented migrants could win settled, legal status. It would put more resources into immigration courts, encourage inflows of skilled workers and try to tackle instability in Central America in the hope of reducing outflows from there.
+
+
+Piecemeal legislation will also be revived. Campaigners say the Senate could take up two bills that were passed by the House in 2019 (they could easily be moved again in the House, perhaps in March). One is the American Dream and Promise Act, a version of a long-standing legislative effort to allow Dreamers—who were children when they migrated, without papers—to stay. The Migration Policy Institute, in Washington, estimates that this could affect up to 2.9m people. Another bill, to modernise farming, would give better protection to agricultural labourers, over 1m of whom are undocumented migrants. Both bills won at least some Republican support; polls suggest they are popular.
+
+Another legislative push could come as part of a new covid-19 relief package. Proponents say that bill should offer help, including legal rights, for unauthorised immigrants who toil as “essential” workers in health care, food production, factories and shops. Such labourers have been especially exposed during the epidemic and could perhaps number 5.6m.
+
+This boldness is surprising and politically risky. Mr Trump’s appeal, at least during his rise to power in 2016, rested heavily on voters anxious about high levels of migration. The ex-president is already attacking his successor for being lax on the border, a theme he is likely to bring up in a big speech to conservatives on February 28th. Nor do decades of failed attempts to overhaul immigration, most recently in 2013, bode well for new efforts. Nobody talks seriously, for example, of the Citizenship Act actually getting the 60 votes in the Senate.
+
+Why then push for broad reform? Mr Biden calculates—prodded by Esther Olavarria, his deputy director for immigration at the White House Domestic Policy Council—that he has no better option. He lacks time to take a cautious approach, since the 2022 mid-term elections will probably reduce his slender congressional advantage. And given the “upside-down world of the pandemic”, says Ali Noorani of the National Immigration Forum, an advocacy group, voters might like a bold push to help migrants quickly. Party management probably favours a doomed effort at comprehensive reform over no effort at all.
+
+The requirement for 60 votes in the Senate remains a high hurdle, which is why some campaigners wonder whether immigration could be reframed as a policy with a fiscal impact. That might permit passing a migration bill through “reconciliation”, though the Senate parliamentarian (a kind of reconciliation referee) might disagree. Would voters approve of such a wheeze? Polls last year showed few people actually liked Mr Trump’s fierce hostility to migrants. College-educated Republicans in the suburbs, especially, recoiled from it. And roughly half of voters, according to YouGov, a pollster, say they are open to immigration resuming after the pandemic. Yet as the border becomes more porous again, the old politics of immigration will likely return. ■
+
+
+

@@ -1,0 +1,29 @@
+###### Tesla’s heirs
+# Electricity can be transmitted through the air 
+##### A New Zealand firm is trying to make an old idea work commercially 
+![image](images/20210220_stp505.jpg) 
+> Feb 25th 2021 
+
+BEHIND NIKOLA TESLA’S former laboratory at Wardenclyffe on Long Island, New York, are some old foundations. They are all that remains of a 57-metre tower which Tesla began building in 1901 as part of an experiment to transmit information and electricity wirelessly over long distances. It half worked. As he foretold, wireless communications have had world-changing effects. But he failed to get electric power itself to travel very far. As a consequence, within five years work stopped and the tower was later scrapped to help repay his debts. Tesla—a pioneer who, among other things, developed the generation and transmission of alternating current—faded into relative obscurity.
+
+And so it remained until Tesla’s name was revived by Elon Musk as the brand for his electric-car company. Now Tesla’s vision of wireless power transmission looks like making a comeback, too. Emrod, a firm based in Auckland, has collaborated with Powerco, a New Zealand electricity distributor, to develop a prototype system for use in an enclosed test facility. Then, in a separate project, the plan is to beam energy from a solar farm on the North Island to a client several kilometres away.
+
+
+The aim is to transmit the power as a narrow beam of microwaves. That will overcome the two fundamental flaws in Tesla’s plan. One was how to charge people for electricity they can simply scoop from the air. The other was the need to overcome the law of radiative propagation, which states that the strength of a signal is inversely proportional to the square of the distance it has travelled from the transmitter. The upshot is that a signal’s strength falls sharply even over short distances. Transmitting power in a tight beam, instead of radiating it in all directions, helps minimise the issue.
+
+Power-beaming, as Emrod’s process is known, has been tried before, but mainly for military applications, or for use in outer space. In 1975 NASA, America’s space agency, used microwaves to send 34kW of electricity a distance of 1.6km—a record that still stands. It has never, though, been developed for commercial use.
+
+Emrod’s operation will begin cautiously. It will start by transmitting what Greg Kushnir, the firm’s founder, describes as “a few kilowatts” over 1.8km. It will then gradually increase both power and distance. The crucial variable is the efficiency with which it can be done. According to Mr Kushnir, this is currently around 60%. That, he reckons, is already good enough to make power-beaming commercially viable in some circumstances, such as reaching remote areas without spending money on costly power lines. But, to improve matters, Emrod has two other tricks up its sleeve. One is to employ relays. The other is to spice up the receivers with so-called metamaterials.
+
+The relays, which are passive devices that do not use any power, work like lenses, refocusing the microwave beam and sending it on its way with minimal transmission losses. They can also steer it, if necessary, in a new direction. This means that transmitter and receiver need not necessarily be in line of sight of one another.
+
+Metamaterials are composites containing tiny amounts of conductive metals and insulating plastics arrayed in a manner that causes them to interact with electromagnetic radiation such as microwaves in particular ways. They are already employed in so-called cloaking devices that help warships and military aircraft hide from radar. But they can also be used in a receiving antenna, to convert electromagnetic waves into electricity more efficiently.
+
+Broadcasting powerful microwaves through the air does carry risks. Similar waves are, after all, the means by which microwave ovens heat what is put into them. Emrod says brief exposure to its beams should not cause any harm to people or animals as the power density is relatively low. Nevertheless, to avoid accidents the beams will be surrounded by so-called laser curtains. These are low-power laser beams that are not themselves harmful. But if a curtain is twitched by the interposition of things such as birds or low-flying helicopters (which in New Zealand are used to round up sheep), that interruption will be detected instantly and the microwave transmission temporarily cut. Batteries at the receiving end will fill in during any outages.
+
+If power-beaming does take off, Emrod will not have the field to itself, for a number of other firms are working on the idea. TransferFi, based in Singapore, is developing a system that shapes beams of radio waves, which generally have a lower frequency than microwaves, to transmit power to specific receiving devices. This is a short-range idea, designed to power gadgets in factories and homes.
+
+PowerLight Technologies, an American firm, has been working with that country’s armed forces on using lasers to transmit power to remote bases and also to power drones while they are in the air. The company also has its eyes on commercial applications. So does Mitsubishi Heavy Industries, a Japanese engineering firm. Mitsubishi, in particular, has lofty ambitions. Besides industrial applications on Earth, it is exploring how the technology might be used to send power to the ground from geostationary satellites fitted with solar panels. That would involve transmitting it more than 35,000km. Less a case of “beam me up, Scotty” than “beam me down”.■
+
+ This article has been amended to make clear that Emrod is undertaking two separate projects.
+
