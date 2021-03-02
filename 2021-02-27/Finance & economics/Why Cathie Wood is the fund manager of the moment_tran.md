@@ -1,0 +1,23 @@
+###### Buttonwood
+# Why Cathie Wood is the fund manager of the moment 
+##### Her hunt for the big business winners of the future holds mass appeal 
+![image](images/20210227_fnd001.jpg) 
+> Feb 24th 2021 
+
+CATHIE WOOD, founder of Ark Investment Management, provokes a variety of responses. The main one is envy. Her firm has been wildly successful. Ark manages a suite of exchange-traded funds (ETFs), portfolios of equities around the theme of “disruption”. Last year its flagship Ark Innovation ETF posted returns of 152%. It is now the largest actively managed equity ETF in the world. Ms Wood is the investment manager of the moment.
+
+Fund flows follow performance. Ark’s funds under management have ballooned to $60bn. Much of the commentary around Ms Wood’s firm is around the difficulty of putting so much capital to work in Ark’s narrow categories, while sustaining bumper returns. When you charge 75 cents for every $100 you manage, though, this is a nice problem to have. That Ms Wood has to wrestle with it is a mark of a singular success. She has found a way of selling an important concept—the extreme skewness of stockmarket returns—to a mass market. 
+
+
+For those who slept through statistics class—which is most people—skewness is the lack of symmetry in a probability distribution. The apportionment of business success has an extreme right-tail skew—there are a few big winners and many losers. Skewness is present in the stockmarket, too. Much of the recent advance in America’s market is built on quite a small group of technology stocks. This pattern, in which a few shares dominate returns, is evident in data going back almost a century. Research by Hendrik Bessembinder of Arizona State University finds that over half of the excess returns of equities over cash since 1926 came from fewer than 100 stocks. The bulk of the 26,000-plus stocks listed since then turned out to be duds. 
+
+Ms Wood does not talk much about “skewness”. But the idea is implicit in her pitch. The companies she likes are those with the potential for “explosive” or “exponential” growth. A lot of Ark’s research contains optimistic ballpark estimates of “the opportunity” in, say, digital wallets or driverless taxis. Ark’s signature investment is in Tesla, the electric-vehicle maker, which spans nearly all of Ark’s five investment sub-themes. Her advocacy of Tesla, and of bitcoin, has endeared her to the WallStreetBets generation of investors. Social media in general has proved an invaluable marketing tool for Ark.
+
+Rivals carp that Ms Wood is selling not skewness but momentum. She certainly puts a lot more emphasis on “the story” than on valuation. There seems to be no stock price that a would-be disrupter could not grow into in time. Any sell-off in tech, such as this week’s swoon, is not a warning but an invitation to buy the dip. Disruption, reinvention and exponential growth are Ark’s shibboleths. The message may not be to all tastes. But you may at the very least applaud the skilful marketing. “The rest of us are stupidly fighting the tape, trying to build balanced portfolios,” says an admiring fund manager. Ms Wood is instead giving people what they want: a sex-and-violence portfolio undiluted by anything dull or tame.
+
+Alert readers may by now sense that a biggish “but” is on the way. Skewness is a fact of life in tech businesses, where the best firms enjoy increasing returns to scale. But identifying the winners of the future is not easy. They may not even exist yet, much less be listed. And outside of a few strategies, such as index investing, asset management is subject to diminishing returns to scale.
+
+Every successful asset manager finds there is a fund size beyond which the magic stops working or begins to do damage. Shovelling $60bn into a strategy in which smallish, illiquid stocks are prime targets is going to distort the market. Already Ark holds a stake of 10% or so in two dozen biotech names. If a lot of money flows out from Ark’s ETFs, then the prices of some illiquid holdings could fall hard. The latent boom-bust dynamic is made worse by Ms Wood’s high profile, which only encourages copycat investors. These add to price momentum on the way up, but would also worsen a sell-off. 
+
+Should Ms Wood’s funds fall from grace, as envious rivals predict, she is unlikely to fall hard herself. She is now associated with an investment thesis that chimes with a big feature of economic reality, the superstar firm, even if it is speculative and prone to bubbles. The Ark effect is both brand new and as old as the hills. Many star fund managers of the past found it hard to sustain performance once they grew bigger. The good news for Cathie Wood is that none of them ended up in the poorhouse. 
+
