@@ -1,0 +1,86 @@
+###### Shelter from the storm
+# Covid-19 has transformed the welfare state. Which changes will endure? 
+##### The pandemic may mark a new chapter in the nature of social safety-nets 
+![image](images/20210306_FBD001_0.jpg) 
+> Mar 6th 2021 
+
+“SUDDENLY EVERYTHING drops out from under you,” says Will, a 30-year-old Londoner. He has had paid jobs in arts marketing since he graduated from university. The pandemic upended everything. Redundancy loomed. Rescue came in the form of the British government’s furlough scheme, without which he would be jobless and penurious. The experience has made him more supportive of the welfare state—and even of grander schemes, such as a universal basic income (UBI).
+
+Crises, such as wars or economic collapse, reveal societies’ strengths and weaknesses, and change thinking about how they can and should be organised. The pandemic has forced a re-evaluation of the social contract, in particular how risk should be divided among individuals, employers and the state. The covid-19 fiscal stimulus packages have made even the interventions of the global financial crisis seem like minnows. The expansion of the welfare state has been the greatest in living memory. Government bail-outs of citizens, rather than banks, could mark a new chapter in its history.
+
+
+At its most basic, the welfare state provides some form of social security and poverty relief. In 1990 Gosta Esping-Andersen, a political scientist, identified three models: market-oriented in Anglophone countries, where the state plays a “residual” role; family-oriented in mainland Europe, where the state and employers play a supporting role; and state-oriented for the Scandinavians, with universal protections and services. The balance between state, market and family shifts over the course of people’s lives, but most take out about as much as they put in (in any year 36% of Britons receive more than they pay in taxes, but over their lifetimes only 7% do).
+
+When covid-19 struck and economies locked down, entire industries faced obliteration. Since the start of the pandemic countries have announced over $13.8trn (13.5% of global GDP) in total emergency funding, more than four times the support provided during the financial crisis. Rich countries have done almost all the spending (see map). Only in 1945, as Europe was rebuilt after the second world war, was government debt as a share of GDP so high. Emerging economies have never borrowed as much.
+![image](images/20210306_FBM900.png) 
+
+
+The shape of the welfare state has been transformed, too. Established principles such as means-testing (welfare only for the poorest), social insurance (only for those who paid in) and conditionality (only for those who do something) went out of the window. Governments wrote near-blank cheques for everything from job guarantees to food. Some simply sent cash.
+
+As the pandemic abates and economic recovery beckons, how much of this expansion will last? The shift in risk in 2020 came after decades during which risks such as living longer than expected, or being replaced by an algorithm or foreign worker, were gradually offloaded from governments and employers onto individuals. And just as a flood increases demand for flood insurance, the millions reliant on the state for the first time are demanding stronger safety-nets.
+
+Covid-19 showed that the welfare state needed modernisation. It was born in a different social order, and to protect against different risks. Discontent was rising before the pandemic: in 2019 less than one in five people in 26 countries agreed that “the system” was working for them and half said that it was failing, according to the Edelman Trust Barometer. That governments had to respond so aggressively to covid-19 shows that the responsibility for some risks sat in the wrong place. In a new book about the social contract, Minouche Shafik, the head of the London School of Economics (LSE), predicts that “The political turmoil we observe in many countries is only a foretaste of what awaits us if we do not rethink what we owe each other.”
+
+American social security emerged from the Great Depression. Social-insurance programmes appeared in Europe at the turn of the 20th century. But it was the second world war that led to the birth of the modern European welfare state, with universal benefits to guard against poverty and provide health care and education.
+
+Before the war, welfare had primarily been understood as poverty relief through redistribution. But the bombs hit both rich and poor, and Europe emerged with a new appetite for something different, and larger: shock relief for everyone through insurance. Nicholas Barr of the LSE describes this as part of the “piggy bank” objective of welfare: the realisation that even if poverty were eradicated, people still need protection against shocks and periods of dependency over their lifetimes.
+
+The post-war expansion ended with the stagnation and inflation of the 1970s. A new version of the welfare state focused on getting people into jobs. Benefits were made scarcer and stingier to discourage laziness and dependency. Work incentives were boosted. Welfare recipients were stigmatised as “scroungers” and universalism gave way to means-testing and conditionality. America replaced many cash benefits for the jobless with tax credits for the working poor. Britain renamed unemployment benefits “Jobseeker’s Allowance”. The labour market was made more flexible to entice employers to hire. With full employment, fewer people would need benefits, went the thinking.
+
+Most countries used this second phase which started in the 1980s to reduce state intervention and shift risk back to individuals. Unions were successively weakened, and employment protections cut back still further. In the private sector the certainty of defined-benefit pensions was replaced by the uncertainty of the defined-contribution kind. Between 2004 and 2018 the share of real income replaced by a typical mandatory pension for a private-sector worker fell by 11% in rich countries on average. The social-housing stock as a share of total housing decreased, rent controls were trimmed and housing costs went up.
+Don’t think twice
+
+But talk of self-sufficiency ended when covid-19 struck. Governments scrambled to get the money out and ask questions later. The result was a huge increase in the number and generosity of safety-net measures. By January the International Labour Organisation counted over 1,600 social-protection policies launched since February 2020. Record numbers claimed support. In some rich countries as many as 60% of those getting help during the pandemic, including through furlough schemes, had never received welfare payments before, according to BCG, a consultancy.
+
+The IMF estimates that by January rich economies had increased total direct spending by almost 13% of GDP, about half of it on supporting workers and households. Countries that typically spend a lot on social protection spent comparatively less on emergency funding (see chart). Support for employment, such as wage subsidies or furlough schemes, was most popular in Europe (including Britain). In the OECD, a club of mostly rich countries, over one in five employees have had their job rescued by such programmes.
+![image](images/20210306_FBC922.png) 
+
+
+Governments have spent about the same on supporting households through bolstered unemployment benefits, child benefits and cash transfers. In America, which has favoured such spending over wage subsidies, the $600 weekly increase in unemployment insurance meant two-thirds of recipients earned more on the dole in the first months of the pandemic than they had when they were working. Claims soared: nearly 33m were made in the third week of June, compared with 2m in the last week of February, just before the pandemic struck, and 12m in the peak week of the financial crisis. In Britain the government increased universal credit, the main welfare programme before the pandemic, by £1,000 ($1,290) a year. Some 6m people claimed it in January compared with 2.6m last February. Britain, like others, snipped some of the strings attached to such benefits and broadened eligibility.
+
+Many also doled out cash. Donald Trump’s administration sent cheques for $1,200 and then $600 to most adults last year. President Joe Biden plans to distribute another $1,400, taking the price tag of the policy to $920bn. In Japan every citizen received ¥100,000 ($930).
+
+The pandemic highlighted the outmoded pattern of some welfare spending: designed to fit a mid-skilled worker of a type that has become rare, and is likely to become rarer still. It exposed the vulnerability of the growing group of labour-market outsiders, and how little job and income security many essential workers enjoy.
+They say every man needs protection
+
+Economists were already arguing for the need to plug coverage gaps, especially for the one in four workers in OECD countries in temporary work or self-employed. Over the past 20 years rich countries’ labour markets have become polarised, with growing shares of low- and high-skilled jobs and falling shares of middle-skilled (and -income) jobs. Before the pandemic hit, a higher share of people were in work than at the turn of the century, but most of the growth has been in part-time jobs. Bureaucratic, inflexible welfare systems were already showing the strain before the shock of the pandemic made changes that had seemed politically unfeasible look not just possible but necessary.
+
+When Margaret Hope, a self-employed chef in Canada, lost all her work due to covid-19 last March, she immediately began selling her kitchen equipment. “Here we go again,” she thought, “I’ll get nothing.” After Alberta’s oil-price crash in 2014 she had received no government support and had to close up. But this time the federal rescue package covered the self-employed. An emergency monthly benefit of C$2,000 ($1,580) was paid to those who earned less than C$1,000 per month between March and September. Some 8.9m Canadians received it—nearly a quarter of the population—at a cost of C$82bn.
+
+Other governments took similar action. America, for the first time, expanded unemployment insurance to freelancers and contractors. Several extended the coverage of sick leave. The public interest in a universal benefit had rarely been clearer.
+
+The vulnerability of workers with family responsibilities became acutely clear when schools closed. In America one in four working women considered cutting their hours or quitting. Public support for better child-care provision is now more bipartisan. The pandemic put child-care policies on the table even in places where it had been overlooked, for example in Italy. Some governments, such as Australia’s, made child care free for a time. Others, including Portugal’s and Germany’s, provided cash for carers and increased child benefits. Mr Biden has proposed a temporarily enhanced child tax credit (a policy which would, almost on its own, halve poverty among children). “There is total commitment…from the entire Democratic caucus to make this permanent,” says Sherrod Brown, a Democratic senator from Ohio.
+
+The pandemic also underscored the importance of speed to welfare. Analysis by McKinsey, a consultancy, suggests that the magic “troika” of reaching lots of people, quickly and with little fraud was possible only for countries with advanced financial infrastructure, meaning widespread use of digital payments, digital IDs and—crucially—relevant data, such as tax returns, linked to these IDs. Singapore, which has all three, was able to send wage subsidies to eligible employers automatically.
+
+Other countries had to make trade-offs between speed and fraud, or between scope and successful delivery, says Anu Madgavkar of McKinsey. Ms Hope, the chef, was “gobsmacked” to receive her money within days of applying online. Most Canadians got their payments within a week. Canada decided to prioritise speed and ask questions later (it has now started asking recipients to prove their eligibility).
+
+Technology was not the only deciding factor in governments’ ability to act with agility; simplifying the claims process proved as important, for example by dropping burdensome tests on assets or assessments of partners’ incomes.
+
+Ensuring that social spending is flexible is crucial, not just in a pandemic. When people know there is a safety-net, they may take healthy risks, such as starting a business. If it takes new applicants for out-of-work benefits months to get their money, they may be less keen on jobs that they might later lose. Distributing cash quickly in a crisis can help smooth consumption and lessen economic contraction.
+
+Swift action has had remarkable success. Households’ incomes in rich countries were largely protected even as GDP tumbled. In April, as the unemployment rate more than tripled, American real disposable income rose by 15.6%, a record. History suggests that increases in social spending rarely disappear entirely after a crisis. The question is what will stick.
+
+Many countries seem to have passed the peak of their emergency social spending, as economies begin to recover. Across the OECD take-up of furlough schemes has fallen, from a high of 20% of employed people in May to around 5% in September. In America claims for unemployment benefits have almost halved since their peak, and the unemployment rate dropped from 14.8% in April to 6.3% in January.
+
+Some support programmes, such as Britain’s furlough schemes, have been extended. Others are being wound down. Australia is no longer providing child care free, and its “coronavirus supplement” will end this month (to be replaced with a smaller permanent increase in jobseeker’s allowance of A$25 ($20) per week).
+![image](images/20210306_FBD002_0.jpg) 
+
+
+Such changes are driven primarily by fiscal necessity. Government debt is piling up to record highs. Tax revenues have fallen. Governments worry that overgenerous benefits are themselves a disincentive to taking paid work and can lock people into a “welfare trap”.
+
+And yet even before covid-19, public opinion had been moving in favour of the state, and employers, taking more of the risk away from individuals. In 1987, 30% of Britons thought welfare recipients did not deserve benefits; by 2019 this had fallen to 15%, according to the annual Social Attitudes survey. The proportion who think benefits are too high and discourage work has fallen from 59% in 2015 to 35%. In America only 56% of people surveyed in 2009 by Pew, a pollster, were in favour of the Obama administration’s $800bn stimulus package, whereas 88% supported the Trump administration’s $2trn covid-19 package last year. “It’s rather extraordinary how there’s been all this spending, even sending people cash, and the public has basically accepted it,” says Rachel Lipson, at Harvard University.
+
+The pandemic seems to have shifted the mood from targeting towards universalism. Some claim that, taken to their logical conclusion, the lessons from covid-19 will lead countries to roll out UBI (see ). Direct cash transfers, perhaps even universal ones, could become a standard part of governments’ emergency tool-kits. But no country is seriously contemplating a full-blown UBI scheme.
+When the winds of change shift
+
+More likely is a renewed appreciation of governments’ role in pooling and underwriting risks, in particular those that insurers call “uninsurable”. The pandemic has demonstrated the extent to which governments can smooth shocks. On the two days in April when the largest group of Americans received their stimulus cheques, spending by low-income households shot up by 26 percentage points, to near pre-pandemic levels, according to research by Raj Chetty of Harvard University and colleagues. Several economists have argued that the pandemic has shown why the generosity of benefits should be pegged to the state of the economy, with welfare acting as a shock absorber when times are toughest.
+
+A revamped welfare state could provide enough flexibility to encourage work but still step in when disaster strikes. It will need to invest in human capital. The pandemic has accelerated ongoing changes in the structure of the economy. “Buffering alone won’t be enough to fight future shocks,” cautions Anton Hemerijck of the European University Institute. “You have to invest in child care, in skills, in health, in people as well if you want to future-proof the welfare state.” The impact of climate change, technological innovations and demographic shifts on jobs and livelihoods is hard to predict. But further social disruption is almost certain. Better preparations cannot start soon enough. ■
+
+Dig deeper
+
+ (Mar 2021 (Mar 2021)
+
+All our stories relating to the pandemic and the vaccines can be found on our . You can also listen to , our new podcast on the race between injections and infections, and find trackers showing ,  and the virus’s spread across  and .
+
