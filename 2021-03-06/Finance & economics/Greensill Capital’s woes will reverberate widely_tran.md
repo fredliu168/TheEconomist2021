@@ -1,0 +1,23 @@
+###### Accounts due
+# Greensill Capital’s woes will reverberate widely 
+##### The supply-chain financier’s troubles highlight overlooked risks in the system 
+![image](images/20210306_fnp504.jpg) 
+> Mar 6th 2021 
+
+SUPPLIERS HATE being made to wait for the cash they are owed almost as much as their customers hate parting with it. What if high finance could help? Specialist firms have indeed sprung up, offering to pay suppliers up front, then cashing in their customer’s cheque as the bill comes due weeks later. By charging fees or a spread, the intermediary takes a cut for what is in effect a loan. But the woes this week of Greensill Capital, a provider of such supply-chain financing, highlight some of the risks lurking in overlooked bits of the financial system.
+
+Greensill, founded just ten years ago, boasted it could help companies “unlock capital”. Using techniques mastered by erstwhile slicers-and-dicers of subprime mortgages, it transformed the bills it took on into bond-like investments. These could be sold to outside investors, such as hedge funds, desperate to find some yield in a low-interest world. As long as the customers kept settling their invoices, a tidy profit could be made for investors—and the financiers behind all the alchemy. By 2019 Greensill claimed to have arranged financing worth more than $140bn to over 10m customers.
+
+
+Questions over whether the money would indeed keep flowing were never far away. As concerns mounted over the creditworthiness of the companies Greensill had to collect money from, the value of the bonds underpinned by the invoices wobbled. On March 1st Credit Suisse froze $10bn of funds stuffed with paper sourced by Greensill. The Swiss investment bank warned of “considerable uncertainties” with respect to the valuation of the bonds linked to Greensill.
+
+Within days Greensill itself was fighting off bankruptcy. The firm is said to have sought relief from insolvent-trading laws in Australia, where part of its corporate set-up is based (its founder, Lex Greensill, is Australian). By March 3rd it was reported by the Financial Times to be preparing to file for insolvency in Britain, where it conducts much of its business. Apollo Global Management, an American private-equity giant, has been in talks to buy at least part of the franchise, at a fraction of the $7bn value Greensill, which had planned to list its shares, once hoped to achieve.
+
+The swift downfall of a once-lauded financial firm will reverberate beyond the niche world of trade finance. Greensill had worked up a profile as a scrappy innovator while also courting the establishment (David Cameron, a former British prime minister, was flaunted as an adviser). Mr Greensill, who said the idea for the business came from seeing his farmer parents run into financial difficulty, and who is now in his 40s, became a youngish billionaire. After a previous sticky patch in 2018 the firm had received $1.5bn in investment from SoftBank, a Japanese investment group fond of backing wildly ambitious undertakings.
+
+Regulators are now wondering whether the model highlights risks they ought to have fretted about. On March 2nd BaFin, Germany’s financial watchdog, took over control of a bank Greensill runs there, closing it to new business. It has filed a criminal complaint against the bank’s management, accusing it of manipulating its balance-sheet. (Greensill says it followed its auditors’ advice and was complying with the regulator’s previous requests.)
+
+Another concern is what will happen to companies that used Greensill’s services to access capital. One noteworthy borrower is Sanjeev Gupta, an Indian-born industrialist who has snapped up steelmaking assets in Britain and beyond. Greensill was a big provider of finance to the GFG Alliance, a group of firms controlled by Mr Gupta’s family; Mr Gupta also once owned a stake in Greensill itself. It was transactions linked to loans to Mr Gupta’s empire (which has not been accused of wrongdoing) that prompted BaFin to step in. A spokesman for GFG said it had adequate funding, even as reports emerged of talks to secure loans from other sources.
+
+The episode will also shine a light on the world of supply-chain financing. Fans of the practice point out it keeps money flowing even as some cash-strapped businesses keep suppliers waiting for months to be paid. But its accounting treatment is tricky. There is evidence that some struggling businesses may seek to hide spiralling debt piles by using supply-chain-finance techniques. Creative forms of financing work best when they rely on conservative accounting. ■
+

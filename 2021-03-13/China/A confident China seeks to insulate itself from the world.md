@@ -1,0 +1,33 @@
+###### The big target
+# A confident China seeks to insulate itself from the world 
+##### Its new five-year plan is vague on growth but clear about self-sufficiency 
+![image](images/20210313_CND001_0.jpg) 
+> Mar 13th 2021 
+
+THE ANNUAL session of China’s legislature, the National People’s Congress, leaves nothing to chance. Speeches are thoroughly rehearsed, those attending are carefully vetted and even the tea service is immaculately choreographed. Yet there are always a few unscripted remarks—or, perhaps, remarks scripted to sound unscripted—that stick out. During the weeklong event, which ended on March 11th, the most memorable words came from Xi Jinping, the country’s leader. “China can now look the world in the eye,” he said in a small meeting on the sidelines. “It’s not like back in the day, when we were still bumpkins.” It was an unvarnished expression of Mr Xi’s belief that China has become a great power and now must act like one.
+
+The main business of the congress was ratification of a new five-year plan that aims to make China even more powerful, while guarding it against global rivals. A legacy of the Soviet economic system, such plans remain important. They set targets that officials must fulfil. The new plan—the 14th, running from 2021 to 2025—confirms just how serious the leadership is about trying to insulate the country from the hostile foreign forces that it believes are arrayed against it.
+
+
+The document does not mention America by name, but it does not need to: every official knows that competition with America looms large in China’s strategies. The previous five-year plan described how a peaceful multilateral world would benefit China. This one highlights the danger of “hegemonism”. Geopolitical uncertainties help explain what, to many observers, is its most striking element. That is its omission of one target that was a centrepiece of previous plans: average yearly growth. Instead, it states that growth targets will be set each year, depending on conditions. China is wary of committing itself when it does not know whether America will choke off its supply of high-end semiconductors, among other things. But the plan does pledge that China will be a “mid-tier developed country” by 2035.
+
+It also sets out numerous other goals. These include an increase in spending on research and development of at least 7% annually over the next five years. The plan says 65% of the population should be urban by 2025, up from nearly 61% at the end of 2019. And it vows to reduce the amount of carbon dioxide emitted for each unit of GDP by 18% between 2021 and 2025. These targets, however, are slightly underwhelming. If China were to continue on its trajectory of the past five years, it would handily outperform them all.
+
+More telling in this plan is the kind of growth it describes. It talks of a “dual-circulation strategy”, a mouthful of a concept unveiled by Mr Xi last year. This requires China to remain part of the “international circulation” of global trade—the plan says it must defend its share of export markets. But it emphasises the improvement of “domestic circulation”—ie, the building of a vibrant economy at home while reducing dependence on others.
+
+Some aspects of this strategy are welcome. Officials say that it will require resources at home to be allocated according to market principles, not government diktats. They recognise the need to relax the hukou system, a household registry that makes it hard for rural citizens to settle in cities. The plan says hukou will be paired with a points-based arrangement that could make migration easier, especially for young, educated workers.
+
+Other aspects may worry the rest of the world. The plan does not mention the “Made in China 2025” programme that has been roundly criticised by American officials as an industrial policy on steroids. But the main elements of it remain. In setting out priorities for manufacturing, the plan urges investment in the very same sectors, from robotics to electric vehicles.
+
+It also identifies seven frontier technologies that are deemed vital to development and national security. These include quantum computing, semiconductors and artificial intelligence. China is already spending vast sums on these technologies, but results have been patchy. Its years-long drive to catch up with world leaders in the making of semiconductors has so far fallen well short of the government’s ambitions.
+
+China wants to prop up less cutting-edge production, too. The country is the world’s biggest maker of goods. Its share of global manufacturing is nearly 30%—about the same as the combined shares of America, Japan and Germany. Many foreign firms wonder whether to move some operations away from China, because of climbing costs and political risks arising from tensions with America. The plan calls for China to keep critical parts of supply chains in the country. To foreign executives, that may sound threatening.
+
+More positively, one way that China hopes to maintain its industrial advantage is with its tried-and-tested approach of building top-notch infrastructure. The transport ministry has plans to nearly double the length of China’s high-speed rail network to 70,000km within 15 years. That would make it almost five times as long as all other high-speed rail networks in the world combined.
+
+The five-year plan hints there may be economic difficulties ahead. It commits to stabilising or reducing the ratio of China’s debt to GDP—implying that it is getting too high (nearly 300% of GDP). But cutting debt will be tricky when pouring cash into infrastructure and sponsoring high-tech.
+
+The environment is another thorny issue. China has vowed that its carbon emissions will peak by 2030, and the country will be carbon neutral by 2060. The plan, however, gives little indication of how to get there, except for boosting nuclear-power generation from 52 gigawatts today to 70 gigawatts by 2025. It vows to promote the “clean use of coal”, but does not promise to phase it out. More details may emerge in the coming months as ministries draw up their own targets.
+
+State media hail five-year plans as evidence that China has far-sighted leaders, who bravely chart new paths for the future. But the documents really summarise where the country is already heading. The pursuit of self-sufficiency is well under way, however costly it may prove. ■
+

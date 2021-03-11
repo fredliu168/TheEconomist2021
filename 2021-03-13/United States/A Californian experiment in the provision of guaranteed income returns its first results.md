@@ -1,0 +1,19 @@
+###### Taking stock of Stockton
+# A Californian experiment in the provision of guaranteed income returns its first results 
+##### It turns out that people like receiving free money 
+![image](images/20210313_USP004_0.jpg) 
+> Mar 13th 2021 
+
+FOR THE PAST two years, as part of an experiment, 125 residents of Stockton, a small city in California’s Central Valley, have found themselves $500-a-month richer. The money arrived on or around the 15th of every month, timed to coincide with a period that tends to be sparse for people on typical low-income pay cycles. The recipients were selected at random from a longlist of people who signed up for the experiment online. The only criteria was that they should be adults living in neighbourhoods in which the median income was lower than the median in Stockton overall. Since about 10% of Stockton’s residents do not have bank accounts, the money was transferred onto pre-paid debit cards issued by the research group, the Stockton Economic Empowerment Demonstration. Recipients did not have to meet any conditions to get the money. They could spend it on whatever they wanted.
+
+An experiment involving just 125 people in a single city must be interpreted cautiously. Myriad small differences in the ways in which money is given, and in the social contexts in which it is received, mean that the impacts of such a guaranteed income elsewhere are complex and hard to predict. Still, the initial results of the Stockton experiment, which were published at the beginning of March, will cheer supporters of a guaranteed income.
+
+
+In the study’s first year, from February 2019 to February 2020, the incomes of the 125 were much smoother from one month to another than a control group that received no money. The 125 were also more likely to have found full-time work in the first year of the experiment than the control group. The researchers suggest that the extra money freed people to take on the risk of quitting or reducing hours at part-time jobs or gig work, giving them time in which to complete internships or training that led to full-time work.
+
+One participant, Kent, said he was able to risk quitting his old job for an internship, which led to better-paid full-time work, only thanks to “knowing that I have that money” from the scheme. Other benefits were harder to quantify. “I’m able to read and write my poetry, and spend time with my Mom,” reported another participant, Nicole. A third, Pam, said that anxiety associated with caring for her young family had lessened to the point where she no longer needed to take medication.
+
+The Stockton experiment is not the only instance of guaranteed income in America. Other cities are considering launching their own pilots, and are currently discussing the parameters through a group called Mayors for a Guaranteed Income. Alaska has long paid a dividend to all state residents, funded by its oil revenues. A large study focused exclusively on new mothers and their children, called Baby’s First Years, is running nationwide right now. One thousand new mothers were recruited to the study between May 2018 and June 2019, to receive either $333 or $20 a month for the first 40 months of their child’s life.
+
+Robust causal evidence about the costs and benefits of guaranteed income is still lacking. One issue is the limited social and geographical extent of pilots to date. It is also unclear how guaranteed income changes overall productivity, a question which is vital to determining whether and how to pay for it at bigger scales. But those who think it is beneficial are gaining ammunition to support their argument, from Stockton and elsewhere. ■
+

@@ -1,0 +1,23 @@
+###### A disaster foretold
+# After a year, Berlin’s experiment with rent control is a failure 
+##### Rents may be down, but so is the supply of homes 
+![image](images/20210313_eup502.jpg) 
+> Mar 9th 2021 
+
+“I WORRY ABOUT Berlin,” says Rolf Buch, a born and bred Rhinelander. The chief executive of Vonovia, Europe’s biggest residential-property firm, thinks that the city’s policy of capping rents has achieved little good, but caused severe collateral damage. Even if the federal Constitutional Court declares the rent cap unconstitutional in the next few months, as many expect it to do, Berlin will not go back to the status quo ante. Protests are here to stay, Mr Buch reckons.
+
+Faced with increasing unrest over rents deemed unaffordable by Berliners, the city’s Senate, run by a coalition of Social Democrats (SPD), Greens and Die Linke, Germany’s hard-left party, introduced a five-year  for all apartments built before 2014 that came into force a year ago. In stage one of the scheme, which went into effect on February 23rd 2020, the rents for around 1.5m flats were frozen at their level of June 2019. When stage two kicked in on November 23rd, landlords were obliged to reduce any rents that exceeded by more than 20% a list of newly defined caps, set at anywhere between €3.92 and €9.80 ($4.66-11.66) per square metre, depending on the quality of the flat and the fittings it came with. Any future contracts would have to stick within the caps.
+
+
+Sebastian Scheel, Berlin’s housing minister and a member of Die Linke, considers the scheme a success because rents have gone down in the capital. The SPD has duly copied the idea; earlier this month it put a plan for the introduction of rent caps across the country into its manifesto for a general election due in September. And indeed a recent study by the German Institute for Economic Research found that rents in the newly regulated market of flats built before 2014 have declined by 11% compared with the still-unregulated market for newer buildings.
+![image](images/20210313_euc111.png) 
+
+
+But the problem, entirely , is that the caps have made the city’s housing shortage much worse: the number of classified ads for rentals has fallen by more than half. Tenants, naturally enough, stick to their rent-capped apartments like glue. Landlords use flats for themselves, sell them or simply keep them empty in the hope that the court will nix the new regulation. Meanwhile, rents and sale prices in the still-unregulated part of the market, and in cities close to Berlin, such as Potsdam, have risen far faster than in other big German cities.
+
+Thanks to its former status as a subsidised island in East Germany, Berlin’s property market has undergone extreme price fluctuations. For many years after reunification rents in Berlin were much lower than those in other big German cities. The supply of beautiful old apartments with high ceilings, tall windows and big drawing rooms (known as the Berliner Zimmer), was plentiful. Berlin’s population fell in the mid-1990s, and urban planners assumed that would continue. But then came waves of immigrants and young Germans attracted by low rents, a trendy art scene, all-night clubbing and a thriving job market. On average, 30,000-40,000 people have moved to Berlin annually in recent years, stretching social services, such as nursery schools and health clinics, to their limits. Rents have exploded. According to Mr Scheel they have more than doubled in the past ten years. Incomes have not been able to keep up.
+
+Berlin could face a tricky autumn if Germany’s Constitutional Court kills the cap. Landlords may get the right to demand repayment for the rent they have missed out on, just as unemployment and insolvencies are forecast to shoot up because of the devastation wrought by the covid-19 pandemic. And an , launched in 2019, is still gathering signatures to force a citywide vote on whether to oblige companies that own 3,000 properties or more, such as Vonovia, to sell them to the debt-laden city government.
+
+Mr Buch says he is discussing dropping demands for repayments. About 10% of his company’s apartments are in Berlin. Deutsche Wohnen, another property behemoth that owns 110,000 flats in Berlin, says its fiduciary duty to its shareholders would oblige it to demand repayment from tenants, as Berlin is by far its most important market. But the company promises to find solutions for tenants who cannot pay any forthcoming arrears of rent. One thing is certain. The rent cap has managed to make Berlin’s housing shortage even worse—and poisoned relations between tenants and their landlords. ■
+

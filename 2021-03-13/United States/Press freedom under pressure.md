@@ -1,0 +1,21 @@
+###### Harassment of the press
+# Press freedom under pressure 
+##### An absurd prosecution of a journalist in Iowa reflects growing harassment of reporters 
+![image](images/20210313_usp502.jpg) 
+> Mar 13th 2021 
+
+THE WRONG person went on trial in Des Moines, Iowa, this week. Andrea Sahouri, a journalist for the Des Moines Register, testified in court on March 9{+th} about her rough treatment—her lawyer called it “assault”—by a policeman last year. Along with a colleague, she had been observing a protest against police violence and racial injustice on May 31st. Though she stood away from protesters, a policeman in helmet and gas mask rushed up and, without warning, she says, “grabbed me, pepper-sprayed me.” Even as she called out “I’m press, I’m press,” he handcuffed her and a friend. Her colleague and a passing television camera crew both identified her as a journalist, to no avail.
+
+Such things happen at chaotic moments, when adrenalin is high and tear-gas flies. Much of the past year was exceptionally frantic. A tally kept by the US Press Freedom Tracker, an industry body, counts 128 journalists arrested across America in 2020, a huge increase from 9 reporters detained in 2019. Many were caught up in summer protests related to Black Lives Matter or over virus-related lockdowns. Police detained one CNN presenter, Omar Jimenez, as he reported on live television. Kirstin McCudden, of the Tracker, says last year they counted “violations against journalists in 36 states. It wasn’t a one-off, we saw it night after night.”
+
+
+Some reporters say police, or members of the public fired up by Donald Trump’s frequent attacks on the press as “enemies of the people”, violently targeted them. Usually, however, arrests are almost the end of the story. Seattle police, for example, detained Andrew Buncombe, a British journalist with the Independent, for not dispersing while he reported on protests in July. The officer ignored State Department-issued press credentials round his neck, he says. Put into handcuffs, leg shackles and a belly chain, he was thrown into a crowded cell for hours. But then, as usually happens, he was released with no charges.
+
+Prosecutions of journalists in such cases almost never follow detention, because the First Amendment grants the press explicit freedoms to monitor events in the public interest. States’ attorneys can in theory still choose to prosecute, but they usually realise how bad it looks. Of the 128 arrests last year, for example, Ms McCudden says charges have so far been dropped or never brought in most.
+
+Yet Iowa’s Polk County is an exception. The aggressive officer was not charged. Instead, it was Ms Sahouri (and her former boyfriend and co-accused) who sat in the dock this week, charged with failing to disperse and interfering with the work of the police. Nine months after her detention the Polk County attorney, John Sarcone, insisted that the trial should go ahead, though he would not explain why. The jurors were unimpressed: on March 10th, after brief deliberation, they issued not-guilty verdicts for both of the accused. Ms Sahouri said afterwards she had been “unjustly assaulted and arrested”. Her editor at the Register, Carol Hunter, called the process “an unjust prosecution of a reporter who was doing her job.”
+
+Despite the verdicts, the unusual trial was a “black mark in our history, in terms of freedom of the press”, says Denise Bell of Amnesty International, warning that “we’re in dangerous grounds when the state treats media work as a crime”. Her organisation described what she calls a “pattern of abuse” and deliberate efforts by many police forces to harass reporters during protests last year. But forcing Ms Sahouri into court went a step further, she says; it was an unusual and unwelcome example of using “the state machinery to prosecute a working journalist”.
+
+Was Ms Sahouri extra-vulnerable because she is young, female and of Palestinian-American origin? Her lawyers made no reference to the fact but, at the least, the contrasts of her trial in an overwhelmingly white and male Iowan court looked bad. Bizarrely, it took place in a specially fitted-out room in Drake University, where the trial, which was also broadcast on a live feed, was presented as a model for law students—some of whom watched from wooden pews—to study.■
+
