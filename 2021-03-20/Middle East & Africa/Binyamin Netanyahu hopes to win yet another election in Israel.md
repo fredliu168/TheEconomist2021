@@ -1,0 +1,33 @@
+###### Another tight one
+# Binyamin Netanyahu hopes to win yet another election in Israel 
+##### But several former allies threaten to knock him off his perch 
+![image](images/20210320_MAP001_0.jpg) 
+> Mar 20th 2021 
+
+AFTER FIVE years serving as an Israeli commando, Binyamin Netanyahu travelled to America in 1972 to study at the Massachusetts Institute of Technology. He signed up for a course in statistics. The first lecture was on pandemics. “I remembered that at the beginning [cases] go up slowly, slowly,” he now tells audiences at his campaign rallies, sometimes using a whiteboard. “And suddenly it shoots up like a wall! And I knew that when it shoots up, everyone will want [vaccines].”
+
+Mr Netanyahu, Israel’s prime minister (pictured on billboard, left), then recounts how he argued with bureaucrats and insisted they buy large quantities of covid-19 vaccine early in the pandemic, no matter the cost. That strategy has paid off: Israel’s vaccination rate is the highest in the world. The country is lifting lockdown measures. Mr Netanyahu hopes it will also pay off for his party, Likud, when Israelis go to the polls on March 23rd, for the fourth time in two years. But he faces stiff competition from former allies.
+
+
+Around 90% of adults in Israel have either received their jabs or recovered from covid-19. At the start of the vaccination drive, in December, Mr Netanyahu told Likud members that Israelis “will in the end vote according to action taken, on results, on achievement. At the moment of truth they know who brought them the vaccines, and who is getting them out of the crisis.”
+![image](images/20210320_MAC186.png) 
+
+
+So far, though, voters don’t seem to care. Polls show Likud winning around 29 seats in the 120-member Knesset (Israel’s parliament), about the same as in December (see chart). Most Israelis still want to see the back of Mr Netanyahu, who has been in charge since 2009. Some of this has to do with his earlier handling of the pandemic: last year he all but declared victory over the virus, only to see Israel’s infection rate shoot up. But it is mostly because of his image as a divisive and dishonest leader. He has been charged with bribery, fraud and breach of trust stemming from three corruption cases.
+
+Likud is still set to be the largest party in the Knesset, as it is now. But it takes a coalition to form a majority government; no party has ever governed alone. The polls suggest Likud and its nationalist and ultra-religious allies will come up short. Mr Netanyahu overcame this problem after the last election, a year ago, by striking a deal with the opposition Blue and White alliance. Its leader, Benny Gantz, agreed to govern with Mr Netanyahu in order to fight covid-19. A former general, Mr Gantz was meant to replace Mr Netanyahu as prime minister in November, but their partnership broke down after just six months.
+
+Today the opposition looks quite different. Mr Gantz, who had vowed never to serve with Mr Netanyahu, has been discredited. Instead, the prime minister faces a challenge from a secular centrist and several former protégés on the right.
+
+The centrist is Yair Lapid, a former television talk-show host, who founded the Yesh Atid party in 2012. He served as Mr Netanyahu’s finance minister from 2013 to 2014, during which time his grasp of economics proved less than stellar. But he has since gained stature, not least by sticking to his guns and breaking with Blue and White, rather than serving again with Mr Netanyahu. He appeals to those who think the prime minister panders to ultra-Orthodox voters. The polls currently show Yesh Atid coming second to Likud. The question may be whether Mr Lapid can convince Mr Netanyahu’s more right-wing rivals to serve under him.
+
+One of them is Gideon Sa’ar, who was a prominent figure in Likud before splitting from the party in December. He then formed New Hope, a party that looks quite similar. The big difference, of course, is that it doesn’t include Mr Netanyahu, whom Mr Sa’ar accuses of “running the country for his own personal interest”. Mr Sa’ar, a lawyer, served as the prime minister’s cabinet secretary, chief whip, education minister and interior minister. But his popularity within Likud roused Mr Netanyahu’s suspicion and he was denied further promotion. Some see him as rather dull. After an initial surge, New Hope has been falling in the polls.
+
+The kingmaker could be Naftali Bennett, a former software tycoon who entered politics in 2006 as Mr Netanyahu’s chief of staff. He eventually fell out with the prime minister and in 2012 became leader of Jewish Home, a party that opposed Palestinian statehood and called for annexing swathes of the West Bank. Still, he held a number of ministerial posts under Mr Netanyahu and now leads Yamina, an alliance of right-wing parties that is running third in the polls. He wants to lower taxes and trim regulation in order to boost the economy. He has also called for Mr Netanyahu’s departure—but refuses to rule out serving under him again.
+
+Mr Bennett and Mr Sa’ar have promised not to serve under Mr Lapid. Might they change their minds after the election, if it meant getting rid of Mr Netanyahu? Mr Lapid believes he will be able to form a government, though he admits it would be “a coalition from hell”. Some think Avigdor Lieberman, the head of the Yisrael Beitenu party, could act as a go-between for anti-Netanyahu forces. He is dedicated to kicking both the prime minister and the ultra-Orthodox parties, now in government, out of power. An agreement might see the party leaders rotate as prime minister.
+
+The coalition-building calculus will depend on which parties meet the threshold of 3.25% of the vote for entering the Knesset. To boost the chances of parties that back him, Mr Netanyahu has tried to unite them, even working with avowed Jewish supremacists. Meanwhile, the opposition has fragmented. Anti-Netanyahu parties ran on four lists a year ago. Now they have split into ten, including the mostly Arab Joint List, with which Mr Bennett and Mr Sa’ar won’t work. Some parties risk falling short of the threshold. That could tip the balance in Mr Netanyahu’s favour.
+
+Even if the parties opposed to Mr Netanyahu win a majority, as they did in the two most recent elections, the prime minister may still hang on. His supporters call him “the magician”, owing to his ability to beat the political odds. But he may not have to do anything. If no one can form a government, Israel will be forced to hold yet another election—and until then, Mr Netanyahu will stay in charge.■
+

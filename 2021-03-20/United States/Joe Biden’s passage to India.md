@@ -1,0 +1,32 @@
+###### The United States and India
+# Joe Biden’s passage to India 
+##### America’s underperforming relationship with India has never looked more important 
+![image](images/20210320_usd000.jpg) 
+> Mar 20th 2021 
+
+AS AN INDISPENSABLE fan of George W. Bush’s approach to India, Joe Biden, the then chairman of the Senate Foreign Relations Committee, said his “dream” was that by “2020 the two closest nations in the world will be India and United States.” For much of the intervening time they have looked more like two English-speaking nations separated by a strategic partnership.
+
+Mr Bush’s approach to India, which involved bringing its nuclear industry into the global fold, among other opportunities for co-operation, was based on its future potential to balance China, not its feebler present. Yet he often seemed to confuse the two. “The classic opportunity for our American farmers and entrepreneurs and small businesses…is there is a 300m-person market of middle-class citizens here in India!” he marvelled. It is a sentence that, 16 years on, still exaggerates the number of Indian consumers and their government’s willingness to let foreign firms near them.
+
+
+Indian reticence has been a more serious speed-brake. Politically fractious and preternaturally suspicious of self-interested foreigners, India does not want to be part of anyone’s strategic calculations. It took Mr Bush’s counterpart, Manmohan Singh, a year and a confidence vote to get the nuclear component—a geopolitical gift-horse—through parliament. The last of four “foundational” defence agreements, precursors to the enhanced military and intelligence ties Mr Bush envisaged, was signed last October.
+
+Yet notwithstanding the hobbling effects of these differences, rising concern about China on both sides has driven pretty steady progress. Barack Obama set aside concerns about Narendra Modi’s association with communal bloodshed to work with him on climate change, while dismantling barriers to military and other technology transfer. Donald Trump set the relationship into reverse on trade, immigration and education ties, yet pushed defence and intelligence ties even harder. India’s increasingly public receptiveness to that approach was apparent after America provided it with intelligence and cold-weather gear during clashes between Indian and Chinese border guards last year.
+
+America has done less for some of its allies, a status India still recoils from, yet increasingly enjoys the benefits of. The inaugural summit of the Quadrilateral Security Dialogue, a grouping of America, Australia, India and Japan, held on March 12th, illustrated this. It also highlighted the opportunity Mr Biden will have to deepen the relationship, and how he means to try.
+
+Formed in 2004 to manage disaster relief after a tsunami, the “Quad” was repurposed by Dick Cheney as a military club, then abandoned in 2010 because Australia and India considered it too antagonistic to China. After years of creeping Chinese aggression, that is less of a worry in both countries, hence the Trump administration—to its credit—revived the group in 2017. It has since held ministerial meetings, and a joint naval exercise in 2020, before last week’s meeting signalled Mr Biden’s bigger plans for it.
+
+The Trump administration toyed with an idea that the Quad might develop into an Asian NATO, underlining its emphasis upon security co-operation. By contrast, reviving American outreach on trade, immigration, public health, climate change and so forth is Mr Biden’s goal. The fact that the Quad summit concluded with the adoption of the group’s most concrete agenda since the tsunami, a plan to boost vaccine production and supplies for the region, was indicative of that. The idea is for America, Japan and Australia to provide cash to help India, which already makes 60% of the world’s vaccines, amp up production.
+
+How much this might bother China, which once criticised the group as mere “sea-froth”, is open to question. Yet it suggests the Biden administration is serious about its stated intention to counter China through alliances, based on shared values, and that it sees the Quad and India as central to that. The group’s loose, voluntary design and adoption of an agenda that downplays China, while promoting Indian capability, also looks well-designed to bind India in. It caters to the country’s past insecurities and current ambitions, a useful combination.
+
+The administration has similar plans for the bilateral relationship. It means to sustain the momentum its predecessor set on security: Lloyd Austin, the defence secretary, will visit Delhi this week. And it believes the Trump administration’s neglect of other sorts of co-operation provides a chance to make eye-catching progress. Mr Biden has already scrapped a Trump effort to restrict the number of foreign—including Indian—students.
+
+This will not all go smoothly: the broadening of the relationship will uncover as much residual tension as opportunity. India is unlikely to become less protectionist even if America does. The recent defence co-operation is belied by India’s unimpressive efforts to modernise its antiquated forces and attachment to cheap Russian kit. Its scheduled receipt of a Russian air-defence system later this year, for which it will be liable for American sanctions, is already causing headaches. A new report by the Brookings Institution, a think-tank, suggests such frictions could induce an American rethink: “A chorus of voices in Washington…have begun more vocally expressing anxieties about whether the value and sustainability of US engagement with India has been oversold.”
+Sino the times
+
+There is little doubt that the relationship has been oversold in the past—including by Mr Biden. Yet his administration’s early work on it has provided a context in which the inevitable frictions should be understood. In Tony Blinken at the State Department and Jake Sullivan at the National Security Council, as well as Mr Biden himself, the administration already has more experience of dealing with India than any of its predecessors. And it has made elevating US-India relations central to its plans. As China looms ever larger for both countries, the relationship has never looked more important or robust. ■
+
+
+
