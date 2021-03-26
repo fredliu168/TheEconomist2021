@@ -1,0 +1,25 @@
+###### Coming to America
+# Biden’s muddle on immigration 
+##### Joe Biden needs a clearer message and a firmer hand to tackle a mounting border crisis 
+![image](images/20210320_ldp503.jpg) 
+> Mar 20th 2021 
+
+ON HIS FIRST day in office, President Joe Biden signed an executive action to halt construction of Donald Trump’s controversial and expensive border wall, but now he has a new wall of worry. A crisis is rapidly building on the southern border with Mexico, as hundreds of thousands of migrants seek entry into the United States, fuelled by the hope that the new president will be more welcoming than his predecessor was. In January and February the number of unaccompanied minors apprehended along the border started to surge above previous peaks. Illegal border crossings in general are soaring, amid predictions that this year they may be the highest for two decades.
+
+For Mr Biden this poses a threat. Immigration, for years the most polarising issue in American politics and one that has become ever harder to solve, could soon dominate the agenda. To the president’s right, Republicans are on the rampage. To his left, meanwhile, progressive Democrats are out of step with wider American opinion, championing impractical demands (such as stopping deportations) while labour unions oppose sensible policies such as issuing more work visas. Mr Biden may want to avoid a confrontation with progressives, whose support he needs for other legislation. Yet he finds himself in a bind that could yet cost his party control of Congress in the mid-term elections next year.
+
+
+In the short term, Mr Biden cannot change the dire circumstances that are propelling Central Americans, Mexicans and others from trying to set foot on American soil, but he can easily alter the signals he sends. His administration has at times sounded like a shy host who is too polite to kick out hungry gate-crashers. “We are not saying ‘Don’t come’. We are saying ‘Don’t come now’,” was the excessively mild recent message to potential migrants from the secretary of homeland security, Alejandro Mayorkas. On March 16th Mr Biden sought to dispel any ambiguity: “I can say quite clearly: don’t come over,” he told ABC News. He needs to do more to impose clarity and control.
+![image](images/20210320_LDC223.png) 
+
+
+That means making it plain that tolerance of legal immigration has to go hand in hand with toughness on the illegal sort. This will sometimes feel harsh. Unaccompanied minors who do not have successful asylum claims or family of legal status in America should be sent home. But there is no contradiction in being pro-immigrant yet anti-illegal-immigration. Recent Democratic presidents have taken strong stands on enforcement, including deporting illegal immigrants, bulking up border control and building fencing on the southern border.
+
+Mr Biden should start with manageable tasks, visiting the border to understand the scale and complexity of the challenge confronting him. He should immediately appoint permanent leaders for Customs and Border Protection and Immigration and Customs Enforcement. Their staff are overwhelmed, confused about which  are in effect and unsure what the administration plans to do next. Simple actions, such as directing more intelligence resources to crack down on cartels and smugglers and getting rid of the invasive brush along the banks of the Rio Grande, could have an outsize impact by making it easier for Border Patrol to do its job.
+
+Beyond such measures Mr Biden needs to overhaul the asylum process. Because of a backlog in immigration-court cases—which today number 1.3m, about two-and-a-half times the total when Mr Trump assumed office—resolution of asylum claims takes years. Many migrants are allowed to stay in America while their cases are pending. Better to let claims be evaluated by asylum officers instead of judges. Those who want to appeal against adverse decisions could still do so in court, but such a change would ensure resolution within months, not years. Although a grand bargain on immigration is probably impossible in today’s polarised environment, more such technocratic compromises may be feasible.
+
+A sustainable immigration policy for the future must involve creating more ways for immigrants to enter America legally. Currently there is no queue to join if you want to come to live and work in America, which is why so many migrants are either rushing the border to claim asylum or entering illegally. The asylum system has become a backdoor substitute for a proper immigration scheme. Mr Biden would also, sensibly, like to extend citizenship to undocumented immigrants who are already living in America and to the “Dreamers” who arrived there as children. Yet hope of such reforms depends on him acting decisively. An uncomfortable showdown with noisy elements within his own party may soon be needed. ■
+
+
+
