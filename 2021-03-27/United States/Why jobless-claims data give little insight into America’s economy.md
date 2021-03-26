@@ -1,0 +1,13 @@
+###### Jobless data
+# Why jobless-claims data give little insight into America’s economy 
+##### The covid-19 crisis is highlighting the limits of unemployment-insurance figures 
+![image](images/20210327_USP004_0.jpg) 
+> Mar 27th 2021 
+IN THE PAST year pundits have closely tracked America’s “jobless claims” data, published every Thursday by the Department of Labour to show how many people are newly claiming unemployment insurance (UI). These data once provided invaluable insights: in 1995 Alan Greenspan, then chair of the Federal Reserve, personally intervened to ensure that they continued to be produced during a government shutdown. Yet in the current crisis more people are starting to realise their limitations. 
+Somebody seeking UI benefits must file a claim with a state employment office. The claims data were useful early in the pandemic. They are published with a lag of only a few days, so gave an insight into the economic collapse of last March and April long before the monthly jobs report. In those two months claims data suggested that about 30m Americans had filed for UI—in line with later figures on job losses from the Bureau of Labour Statistics. 
+
+Yet in the past year more than 80m applications have been filed for state UI. Were all applications unique, the data would imply that 50% of American workers had lost their pre-pandemic job. Really? About 20m Americans remain on some form of UI, twice the number officially classified as unemployed. Initial claims for state UI have fallen from the heights of last spring, but even now over 700,000 claims are being filed each week, more than at the height of the financial crisis of 2007-09.
+It is possible the claims data reveal that America’s labour market is doing far worse than other statistics show. More likely, the data themselves are flawed. 
+Why? Early in the crisis wonks warned that initial-claims data would run high long after actual job losses had fallen, because state UI offices were catching up on backlogged applications. A paper last year from the Federal Reserve said “errant claim duplication” may inflate official tallies. Some state offices have made it easier for people working reduced hours—rather than not at all—to claim UI. The government has also allowed more people, including the self-employed and gig-economy workers, to be eligible for payments. Another source of distortion could be widespread fraud.
+No one knows the biggest reason why claims are so absurdly high. But this much is clear: to get the measure of America’s labour market, look elsewhere.
+

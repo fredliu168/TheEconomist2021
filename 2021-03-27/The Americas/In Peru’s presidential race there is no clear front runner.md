@@ -1,0 +1,16 @@
+###### The least bad option
+# In Peru’s presidential race there is no clear front runner 
+##### Eighteen candidates are battling it out in a general election on April 11th 
+![image](images/20210327_amp501.jpg) 
+> Mar 27th 2021 
+WITH LESS than three weeks to go before Peru’s presidential election, opinion polls suggest a clear winner: a nihilist rejection of all 18 candidates. Add up the “don’t knows” and those who tell pollsters they will cast blank or spoilt ballots and they come to around 30%. But two people must go through to a run-off in June. Most of the candidates with a good shot of doing so are populists and outsiders, from both the left and right.
+Yonhy Lescano, a left-leaning populist and 20-year veteran of Congress, is the only candidate to poll in double digits (around a measly 13%). Representing Popular Action, a long-established but amorphous party, he wants more state intervention in the economy and likes the look of places such as Bolivia (which have it). He promises greater oversight of businesses and to stop mining projects if they do not have support among the local population.
+
+Then there is Rafael López Aliaga: unknown until a few weeks ago, he now has 8% in the polls and is rising fast. A businessman who is a member of Opus Dei, a conservative Roman Catholic movement, he boasts of his celibacy and of how he scourges himself. His critics see him as a Peruvian version of Brazil’s Jair Bolsonaro (he denies this). He wants to cut red tape, reform social programmes and boot out a Brazilian construction firm, Odebrecht, which has been the subject of various corruption scandals.
+![image](images/20210327_amc288.png) 
+
+Another contender is George Forsyth, a former football goalkeeper and mayor, who has promised that, if he wins, he will be tough on crime. Having long led the opinion polls, Mr Forsyth’s support has slipped recently. Opponents say his youth (he is 38) and inexperience render him ill-equipped for Peru’s rough-and-tumble politics, which are more like rugby than soccer. Verónika Mendoza, a socialist, and Keiko Fujimori, a right-wing populist, also have a chance of making the run-off.
+Whoever wins will face a fractured Congress, also to be chosen on April 11th. Its 130 members could be split between as many as 11 parties. Since 2016 tensions between the executive and legislature have been a constant feature of political life and the country has had five presidents.
+Such a undistinguished crew of presidential candidates is nothing new. In 2011 Mario Vargas Llosa, a Nobel-prizewinning novelist, complained that in the elections that year Peruvians had a choice between “AIDS and cancer”. Mr Vargas Llosa’s gruesome quip was in reference to two candidates he felt would be particularly damaging—Ms Fujimori and Ollanta Humala, a former coup plotter who went on to win and who is also running again this year.
+The country is crying out for statesmanship it seems unlikely to get. It has been buffeted by the pandemic. Last year its economy shrank by 11% and unemployment climbed to 13.8%. Relative to its population of 33m, Peru has recorded more covid deaths than anywhere else in South America. As the title of one of Mr Vargas Llosa’s recent novels declares, these are fierce times.■
+
