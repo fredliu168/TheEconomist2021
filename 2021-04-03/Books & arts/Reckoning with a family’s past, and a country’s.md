@@ -1,0 +1,13 @@
+###### Daze of the dead
+# Reckoning with a family’s past, and a country’s 
+##### Malaysia’s ghosts return in “Fragile Monsters” 
+![image](images/20210403_bkp003.jpg) 
+> Apr 3rd 2021 
+Fragile Monsters. By Catherine Menon. Viking; 256 pages; £14.99
+IN CATHERINE MENON’S debut novel, the past is less a foreign country than a hostile world. The Australian-British author brings together two women, a grandmother and her granddaughter, who over the course of a week sift dark memories to make sense of their individual sadness and shared heritage. As each casts back in time, a rich and moving family history takes shape, filled with love and heartache, guilt and grief, and no end of secrets and lies.
+
+It is 1985 and after a decade in Canada Durga Panikkar, a mathematics professor, has returned to her native Malaysia. One rainy evening she arrives at her childhood home in Pahang to spend Diwali with her grandmother, Mary. Their reunion is ruined by an uninvited guest. Tom, a schoolfriend whom Durga hasn’t seen for 15 years, is more than bad news, “he’s worst news”. Disaster strikes in another guise when Mary is hurt in a fire caused by a faulty firework.
+As her grandmother recovers, Durga explores the house. She encounters objects that raise questions about the mother she never got to know, Mary’s long-dead daughter. “Prying, poking, Durga? You go looking for trouble, you find it,” Mary warns. As the younger woman pieces together the turbulent events of Mary’s past, she also recalls the tragic accident in a banyan swamp that rocked her life and Tom’s. Can she and her grandmother leave their ghosts behind—or will they continue to be haunted by these “fragile monsters”?
+Durga’s search for the truth is gripping, her quirky narration enlivened by her mathematical mindset: a dead friend is “a zero module”, her unknown mother “an imaginary number”. But the chapters chronicling Mary’s back-story are the most compelling. Her life unspools from an unruly childhood in the 1920s to fierce old age, each incarnation vividly presented. She is a teenager with a cruel streak, a protective mother and sister, a bowed but unbroken survivor of the second world war and the Malayan Emergency (in which communist guerrillas tried to overthrow British rule).
+For Mary, the past is “all blood under the bridge”. Ms Menon’s story shows that, though time flows on, history’s waves still ripple decades downstream.
+

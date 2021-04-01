@@ -1,0 +1,17 @@
+###### Always going big
+# The jam in the Suez canal highlights Egypt’s taste for mega-projects 
+##### The money would be better spent on other things 
+![image](images/20210403_map501.jpg) 
+> Mar 30th 2021 
+LIKE A HOUSE guest who refuses to leave, the Ever Given is still lingering in the doorway. On March 29th, after six days of blocking a vital trade route, the skyscraper-size ship was set right and sailed north under its own power. As The Economist went to press, though, it had not sailed far. It was floating in the Great Bitter Lake, less than halfway through the Suez canal. Dozens of other vessels sat at anchor nearby and hundreds more at the canal’s entrances. It will take days to clear the jam.
+This was not quite what Egypt had in mind seven years ago when it promised more traffic in the canal. Soon after he took office in 2014, Abdel-Fattah al-Sisi, the president, ordered an $8bn expansion of the waterway, since it was only wide enough to handle traffic in one direction. Workers widened part of it and dug a second lane along its central stretch, creating a bypass of 72km (45 miles) so ships sailing in opposite ways could pass each other.
+
+But where the Ever Given ran aground, the canal is still only wide enough for one ship at a time. Officials said there was no economic rationale for digging a second lane along the entire waterway. Experts said the economic rationale for even the limited expansion was questionable.
+Egypt’s rulers have had a penchant for mega-projects. In the 1950s Gamal Abdel Nasser ordered the construction of the Aswan high dam, which tamed the Nile’s annual floods and brought electricity to rural villages. Local lore holds that he built Cairo Tower, an edifice taller than the Great Pyramid, simply to annoy America: after the CIA allegedly bribed him to adopt a favourable foreign policy, he spent the money on a useless structure visible from the American embassy. In their own ways, both were symbols of a newly independent Egypt.
+In recent decades, though, most of Egypt’s mega-projects have been symbols of poor planning. In 1997 Hosni Mubarak started work on Toshka, a 310km canal meant to irrigate the Western Desert. Authorities hoped to move one-fifth of Egyptians from the crowded Nile into this “new valley”. Two decades and untold sums later, the project is unfinished. Less than 1% of Egypt’s population lives in the area.
+![image](images/20210403_mac334.png) 
+
+Mr Sisi has followed the same path. First came the canal expansion, promoted as “Egypt’s gift to the world”. It was also supposed to be a gift to Egypt’s treasury. Officials claimed it would more than double the canal’s annual revenue, to $13bn. But the take has remained almost flat, totalling $5.8bn in the 2019-20 fiscal year, up just 7% from before the expansion (see chart). Low oil prices mean it is often cheaper to sail the long way round Africa. The canal authority offers discounts to lure shippers.
+Undeterred, Mr Sisi is pushing ahead with a scheme to build a new administrative capital in the desert. The first phase will cost more than $25bn; he hopes to start moving the government there in July. There are myriad questions about the city’s viability. Water is scarce; property prices are too high for most Egyptians. Critics say the money would be better spent fixing the poor infrastructure in “old” Cairo. That is not the sort of glamorous project beloved by autocrats. Then again, tugboats aren’t glamorous—but they get the job done.■
+A version of this article was published online on March 30th 2021
+
