@@ -2,7 +2,7 @@
 # Politics this week 
 #####  
 ![image](images/20210327_WWP003_0.jpg) 
-> Mar 25th 2021 
+> Mar 27th 2021 
 Myanmar’s army continued to shoot at demonstrators and rampage through neighbourhoods where there have been protests against the military coup. Among the victims was a seven-year-old girl, one of at least 260 people killed by the security forces since February 1st. Thousands have been arrested. A court hearing for Aung San Suu Kyi, Myanmar’s deposed leader, had to be adjourned because of problems with the internet, which the army has shut down.
 North Korea fired two ballistic missiles off its east coast, a reminder to Joe Biden that the regime remains a threat to stability in East Asia.
 

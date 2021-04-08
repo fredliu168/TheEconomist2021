@@ -1,8 +1,8 @@
 ###### German-Russian business
 # Deutschland AG’s enduring bet on Russia 
-##### German companies with Russian operations are undaunted by covid-19, a stagnating content and sanctions 
+##### German companies with Russian operations are undaunted by covid-19, a stagnating economy and sanctions 
 ![image](images/20210327_wbp503.jpg) 
-> Mar 25th 2021 
+> Mar 27th 2021 
 EVER SINCE Ostpolitik was conceived in the 1970s, Germany has preferred engagement with Russia to confrontation. Now political relations are at a low point after an attempt last year by Russian security agents to poison Alexei Navalny, a prominent opposition politician, who was flown to Germany for treatment. So is trade. In the wake of sanctions imposed after Russia’s annexation of Crimea and its incursion into Ukraine in 2014, the country’s trade with Germany dwindled in value to €45bn ($54bn) last year, from €80bn in 2012. In 2007 Germany was Russia’s biggest trading partner. Today it is a distant second behind China, which exchanged goods worth $104bn with Russia last year.
 Look closer, though, and German-Russian business ties remain tight. Much of the recent fall in trade can be attributed to a weak rouble and sinking prices of oil and gas, which Russia sells to Europe. After falling in the wake of the Crimea crisis, German exports to Russia have held steady for the past six years. Annual German foreign direct investment into Russia actually increased to €3.5bn in 2015, after the sanctions were imposed. In 2018 it reached €3.8bn. Around 4,000 German firms have a presence in Russia, mostly churning out products for Russia’s 145m consumers. No other European country comes close to the German presence. Most of these companies have no intention of leaving. On the contrary, more may be piling in.
 
