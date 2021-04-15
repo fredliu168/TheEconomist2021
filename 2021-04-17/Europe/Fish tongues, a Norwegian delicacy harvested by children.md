@@ -1,0 +1,11 @@
+###### Lip service
+# Fish tongues, a Norwegian delicacy harvested by children 
+##### The piece of cod that passeth all understanding 
+![image](images/20210417_EUD001_0.jpg) 
+> Apr 17th 2021 
+FRIED IN BUTTER with a light flour batter and some dried herbs, cod tongue is a delicacy in Norway and beyond. Around 80 tonnes are harvested every year from fish caught in Norway’s northern waters. Softer in texture than the flesh of the fish, cod tongue dissolves in the mouth with a hint of saltiness. It is the “angels’ share” of the fish, says Jan-Erik Indrestrand of Fiskarlaget, the Norwegian fishermen’s association.
+Liv Eva Kirkesæther, a 35-year-old who works for a marine research institute, says that when she was a girl, men and boys dominated the cod-tongue-cutting trade on Lofoten, a Norwegian archipelago. This year, she was happy to see a grandmother and granddaughter selling tongues from a car boot.
+
+In other ways, however, the art of tungeskjæring has changed little over the centuries. Most controversially, to modern sensibilities, the fiddly work of removing the tongue from an already-beheaded fish is reserved mainly for children. The practice serves as a kind of apprenticeship for would-be fisherfolk, and it pays handsomely. The tongues are valuable, so an hour’s work can pay 1,200 kronor ($143); not bad if you’re six. Modesty guides attitudes in Lofoten and other northern parts, so it would be frowned upon to splash the cash on something frivolous, says Ms Kirkesæther. Youngsters tend to save up for a fishing boat, a car or a deposit on a home.
+Not everyone gets involved. Those with bourgeois aspirations keep their distance; tongue-cutting smacks of a fisherman’s rough life. And urbanites in Oslo were unsettled by a recent documentary showing the youngsters at work in their blood-spattered oilskins. “Child labour!” they cried. The government looked into the issue, then backed off, out of respect for culture and heritage. A bigger threat to the industry is that stocks are low. From April 27th, Norwegian cod caught in coastal waters will lose its sustainability rating from the Marine Stewardship Council, a global fish watchdog.
+
