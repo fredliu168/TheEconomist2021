@@ -1,0 +1,12 @@
+###### Model behaviour
+# Isaiah Andrews wins the John Bates Clark Medal 
+##### His work helps test his colleagues’ results 
+![image](images/20210424_FNP001_0.jpg) 
+> Apr 22nd 2021 
+ECONOMISTS LIKE to crunch numbers and build models to guide policymakers. But who guides them in turn? Isaiah Andrews of Harvard University has been trying to help. On April 20th the American Economic Association awarded him the John Bates Clark Medal, a prize for leading economists under the age of 40, for his efforts.
+Mr Andrews did not expect to become an econometrician (an economist who specialises in statistics). But during graduate study he was drawn towards questions about the lessons and limits of data. With Matthew Gentzkow of Stanford University and Jesse Shapiro of Brown University, he suggested a way to assess the quality of economists’ models. He also showed economists how to work out how much their findings might change under alternative assumptions, helping them fend off accusations that their results were a feature of their assumptions rather than the data.
+
+In work with Maximilian Kasy, now of Oxford University, Mr Andrews cast light on the fact that economists are too eager to pursue striking results, and journal editors too prone to approve them. Studies that find that minimum wages have no significant effect on employment, for example, are only a third as likely to be published as those finding a stronger negative effect. The researchers developed a way to adjust reported results for this publication bias—and found that the average effect of a higher minimum wage on employment fell by half.
+Mr Andrews, with others, also explored what is called the winner’s curse when it comes to choosing between policies: the policy that performs best in a trial may owe its top rank to chance, and will later be doomed to disappoint. To illustrate this the researchers turn to a trial that assesses the most effective ways of encouraging people to donate to charity, by combining requests for specific donations with promises to match the initial contribution. The researchers find that if the charity chooses the method that does best in a trial, it will always overestimate its donations. They suggest ways to make a more realistic estimate that takes account of the role of chance.
+All told, the prize-giving committee concluded, Mr Andrews had helped turn econometrics “back towards the study of the most important problems faced in empirical research”.
+
