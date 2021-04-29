@@ -1,0 +1,13 @@
+###### Home, alone
+# Jhumpa Lahiri’s new book is a mosaic of memory and observation 
+##### She wrote “Whereabouts” in Italian, then translated it into English herself 
+![image](images/20210501_bkp006.jpg) 
+> May 1st 2021 
+Whereabouts. By Jhumpa Lahiri. Knopf; 176 pages; $24. Bloomsbury; £14.99
+A WOMAN WALKS alone through an Italian city. She sits in the piazza and basks in the sun. Gradually, the reader comes to know this lonely flâneuse—her troubled past, hidden neuroses and conflicting urges. In “Whereabouts”, Jhumpa Lahiri’s latest book, she and her nameless narrator explore the inevitability of movement and change, uncomfortable truths and unexpected joys.
+
+In Ms Lahiri’s brief chapters—some only a page long, with equally laconic headings such as “In the office”, “On the street” and “In the hotel”—the narrator, a writer and teacher, advances through the seasons, working, eating, swimming, travelling, visiting her mother and people-watching. She craves familiarity but feels compelled to “push past the barrier of my life”. This restlessness leads to a startling perception: “I’m me and also someone else.”
+Her contradictions make the character wholly believable. She is moody and compassionate, irritated yet comforted by strangers; she craves solitude but is plagued by it. Ms Lahiri—who won a Pulitzer in 2000 for her first book, “Interpreter of Maladies”—evokes fleeting but resonant encounters with Chekhovian efficiency, making ordinary memories seem profound. Sparse sentences carry a quiet rage. The first mention of the narrator’s father is tersely devastating: “Instead of going to see a play with him, I sat at his wake.” Spring reminds her of “loss, of betrayal, of disappointment”.
+Nothing much happens—a flirtation that might become an affair instead fizzles out—but, cumulatively, Ms Lahiri’s vignettes distil the complexities and costs of family. The reader sees how a child can sink into the gulf between parents (in this case, a hectoring mother and disengaged father), and grasps the narrator’s desire, but inability, to turn away from her upbringing: “I think a great deal about my parents, and I ask myself, in this sheltered place, why they’re still nipping at my heels.”
+The other key relationship in “Whereabouts” is with the narrator’s home city (unnamed, like her). The emphasis on place and movement reflects the author’s own peripatetic life. Born in London to Bengali parents, she moved to Rhode Island as a young child and later to Rome. She sought out new linguistic territory by writing this book in Italian, then translating it into English herself. Ms Lahiri has taken risks for her craft, and they have paid off, beautifully.
+
