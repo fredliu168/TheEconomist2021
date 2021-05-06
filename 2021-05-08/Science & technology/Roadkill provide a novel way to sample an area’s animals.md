@@ -1,0 +1,15 @@
+###### Carcass counting
+# Roadkill provide a novel way to sample an area’s animals 
+##### They could also show the places where wildlife is most at risk from cars 
+![image](images/20210508_stp504_0.jpg) 
+> May 6th 2021 
+TRAFFIC AND wildlife do not mix. Anyone who keeps an eye on the verges while driving along a country road knows that. But such carnage does bring zoologists an opportunity. Counting roadkills is a rough and ready way of sampling local animal populations, and is the basis of so-called citizen-science endeavours such as Project Splatter, in Britain, in which members of the public report what they have found dead on the road, and where.
+Pablo Medrano Vizcaíno and Santiago Espinosa at the Catholic University of Ecuador, however, have taken the matter further by going out to look for themselves. And, as they report in Biotropica, monitoring roadkill can yield information about creatures that are otherwise almost completely elusive.
+
+Once a week, for six months, Mr Medrano Vizcaíno and Dr Espinosa surveyed three 33km segments of roads weaving in and around tropical forests and mountains near the Ecuadorian national parks of Cayambe Coca and Sumaco Napo-Galeras. Every time they came across a dead animal they stopped, photographed it, noted its GPS co-ordinates and identified it as accurately as possible. If they could not manage a field identification, they collected the carcass and brought it back to their laboratory for further study.
+In total, they found 445 specimens. Some, such as the 153 opossums, were the sorts of large critter that the average passer-by might notice. But many were not. There were, for instance, 43 amphibians. Frogs are common in tropical forests, but by and large these were not frogs. Rather, some 80% of them were caecilians, a little-understood group of wormlike burrowing animals. Ecuador harbours 24 species of caecilian. Exactly which of them were represented in the researchers’ collection is hazy, as individual species require specialist identification. But studying roadkill might be a way of adding to knowledge about them.
+More extraordinary than this, among the 88 reptiles seen by Mr Medrano Vizcaíno and Dr Espinosa, one was a snake previously unknown to science. They also found an example of the northern tiger cat, a species thought to be on the brink of extinction.
+A sampling method that relies on finding endangered animal species dead is obviously suboptimal. But Mr Medrano Vizcaíno and Dr Espinosa hope that one outcome of their work might be to identify roadkill hotspots, and then try to find ways to discourage animals from going there.
+That could, though, be tricky. The data they have collected so far suggest these hotspots are often bridges over rivers. If the creatures themselves are using these as crossing-points, deterring them from doing so might be difficult.
+A version of this article was published online on May 6th 2021
+

@@ -1,0 +1,13 @@
+###### Allusive fiction
+# Puzzles and power games in Rachel Cusk’s new novel 
+##### Intermittently baffling, “Second Place” is also oddly compelling 
+![image](images/20210508_BKP001_0.jpg) 
+> May 8th 2021 
+Second Place. By Rachel Cusk. Farrar, Straus &amp; Giroux; 192 pages; $25. Faber; £14.99
+“I ONCE TOLD you, Jeffers, about the time I met the devil on a train leaving Paris.” Rachel Cusk’s latest novel, “Second Place”, begins with this arresting recollection. At the end of the book a brief note informs readers that it “owes a debt to ‘Lorenzo in Taos’, Mabel Dodge Luhan’s 1932 memoir of the time D.H. Lawrence came to stay with her in Taos, New Mexico”.It is not necessary to be familiar with this antecedent, however, to enjoy the oddly compelling (if intermittently baffling) story that Ms Cusk tells in the pages in between.
+
+Only ever referred to as M, the narrator is living happily with her second husband Tony “in a place of great but subtle beauty”in an unnamed country. It is 15 years after she encountered the devil (Jeffers, to whom she confides this hallucinatory experience, is her implied interlocutor throughout). Ms Cusk keeps the details of the landscape vague but the “woolly marsh”does not sound like New Mexico. M invites L, a painter and a friend of a friend, to stay at her “second place”, a cottage M and Tony have built on their land.
+“Second place” also sums up how M feels about her own life: “it had been a near miss, requiring just as much effort as victory but with that victory always and forever somehow denied me.”Why she feels this way is never exactly elucidated, but L’s presence seems set to help. Tellingly, M saw his paintings just before her demonic visitation on the train.
+The power games begin when L accepts M’s invitation, only to change his mind; when at last he does materialise he brings along a gorgeous young girlfriend, Brett, whom he hadn’t mentioned. M’s attempt to confront him over this leaves her feeling “acutely conscious of my own unattractiveness, as I would in all my dealings with L”.His arrival also means that M has to turf Justine, her 21-year-old daughter, and Justine’s boyfriend Kurt out of the second place and back into the main house with her.
+The three couples circle each other uneasily. Individuals form surprising alliances; Kurt warns M that L “says he intends to destroy you”.The dread that is evoked forms the basis of a plot, a feature that was missing from the author’s much-praised but dreamlike “Outline” trilogy of autofictional novels. Her prose, though, is again as spare as bone. M envies the “aura of male freedom”in L’s work—and in delineating these frustrations so piercingly, Ms Cusk’s allusive and elusive story makes its own unorthodox claim to freedom.
+
