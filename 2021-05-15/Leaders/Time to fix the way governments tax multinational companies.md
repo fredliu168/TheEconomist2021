@@ -1,0 +1,18 @@
+###### Games over
+# Time to fix the way governments tax multinational companies 
+##### The answer lies in reducing incentives to shift profits to havens 
+![image](images/20210515_ldp503.jpg) 
+> May 15th 2021 
+TAX COMPANIES too much, and growth will shrivel. Tax them too little, and resentment will soar. The public and politicians in Western countries have long thought the treatment of multinationals falls too close to that second extreme. Now the system is . Over 40 countries are squabbling over how to impose levies on Silicon Valley firms. Meanwhile the pandemic is forcing governments to find ways to plug their fiscal deficits, not least the Biden administration, which wants to increase multinationals’ tax rate.
+The best hope for an amicable outcome lies in a forum run by the OECD, a club of mainly rich countries, where this summer 139 countries hope to agree on new tax principles. Success would represent the most important overhaul to the international architecture in a century. It would also help avoid chaos.
+
+In theory, globe-trotting companies pay taxes based on where they have their headquarters, and where they do the work that produces their profits. An individual firm’s legal affiliates are typically taxed separately, with transfers between them recorded as if on the open market. In practice, firms cut their tax bills by divorcing their reported profits from where they conduct business.
+This has become easier because of the rise of intangible assets such as brands. The share of American multinationals’ foreign profits booked in tax havens has doubled since 2000, to 63% in 2018. We estimate they had only 5% of their staff in these places. They booked more profit in Bermuda than in China.
+![image](images/20210515_LDC245.png) 
+
+Tax havens insist that rock-bottom tax rates are an expression of their sovereignty. But around the world exchequers are robbed of up to $240bn a year by firms rerouting profits, the OECD reckons. Taxpayers in America or France are right to feel aggrieved when the income a tech firm generates there is magicked away to Ireland or a shell company in the Caribbean.
+A globally co-ordinated minimum tax would blunt the incentive to . Some 330,000 people list “transfer pricing” on their LinkedIn profile. Treating companies as a whole, rather than relying on transfer pricing, could reduce the army of advisers running circles around tax authorities. Allocating taxing rights according to where firms really operate would be harder to game, as consumers and staff are less mobile than algorithms.
+Talks at the OECD are at least moving in the right direction, with both a minimum tax and a reallocation of taxing rights under discussion. The Biden administration wants a minimum global rate of 21%, but squeals from havens mean that 10-15% is more probable. Some global profits are likely to be freed from the broken “arm’s length” transfer-pricing approach, but only a small slice of them.
+Bolder reform would be better. Tax authorities should do away with the fiction that intangible capital can be priced accurately through transfer pricing and instead try to reflect where activity takes place, by looking at sales and where employees are. This would benefit not only short-changed advanced economies but also poorer countries, which often lose out too.
+Time is of the essence. Without reform, the distortion and disorder will worsen. Corporate tax-departments will arbitrage mismatches between different countries’ tax laws. And countries that are short-changed will take action on their own, leading to an acrimonious tangle of tax grabs and tariff spats. ■
+
