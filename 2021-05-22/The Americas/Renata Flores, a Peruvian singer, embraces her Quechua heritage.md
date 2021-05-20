@@ -1,0 +1,12 @@
+###### The way it makes her feel
+# Renata Flores, a Peruvian singer, embraces her Quechua heritage 
+##### Catchy lyrics in the idiom of the Inca Empire 
+![image](images/20210522_AMP004_0.jpg) 
+> May 22nd 2021 
+FEW POP videos require subtitles. But a minute into “Francisca Pizarro”, a song by the Peruvian singer Renata Flores, some appear. “Let’s just remember that our worlds came together,” Ms Flores (pictured) croons in Spanish, shortly before breaking into dance and into Quechua, the language of the Inca.
+Some 47 indigenous languages are used in Peru, by 4m people. Around three-quarters speak Quechua, which is also spoken in Bolivia and Ecuador. Designated an official language in 1975, it has been promoted in recent years by politicians. In 2017 Pedro Pablo Kuczynski, then president, launched a “policy for native languages”, including state-run news programmes in indigenous tongues, ahead of the 200th anniversary of independence from Spain this year.
+
+Such endeavours have given Quechua a modest boost. It has received a bigger one, some say, from the music of Ms Flores, a 20-year-old from Ayacucho. Her Quechua cover of Michael Jackson’s “The Way You Make Me Feel” went viral online in 2015. In March Ms Flores released her first full-length album, which fuses rap and hip-hop with pop and blues and which is mostly sung in Quechua. She also became the face of a new line of perfume, speaking the language in the adverts. “I think people can do much bigger things when they can use their own language,” says Ms Flores.
+All this is despite the fact that she did not study it until she was 13. Indeed, although now fairly fluent she still goes to university classes to brush up on it. Luis Andrade of the Catholic University of Peru suggests her music could be part of the reason why more people are now identifying as being of Quechua descent.
+“The use of Quechua, for me...is being able to express yourself in a way you feel comfortable,” says Ms Flores. Of course, it also draws attention, which is useful for a pop star. Rosalía, a Spanish singer whom Ms Flores name-checks in “Francisca Pizarro”, has been accused of “cultural appropriation” for using reggaeton (which originated in Puerto Rico) and flamenco (which is associated with the Roma). Ms Flores has yet to face similar complaints for copying an African-American artist, but you never know.
+
