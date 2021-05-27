@@ -1,0 +1,13 @@
+###### The hard sell
+# A biting satire of race and capitalism in America 
+##### “Once you learn how to sell,” says the narrator of “Black Buck”, “anything is possible” 
+![image](images/20210529_BKP003_0.jpg) 
+> May 29th 2021 
+Black Buck. By Mateo Askaripour. Houghton Mifflin Harcourt; 400 pages; $26. John Murray; £14.99
+TRUE TO HIS name, Darren Vender is a salesman. In the opening pages of “Black Buck”, Mateo Askaripour’s sprightly yet savage debut novel, Darren is doling out Grasshopper Frappuccinos at a Starbucks in Manhattan. After four years he has earned the black apron of a coffee master; but as former valedictorian of his class at a prestigious high school in the Bronx, he knows that a job pulling shots doesn’t amount to much. Then he upsells a new drink to Rhett, a regular customer—and is invited to work at Rhett’s company. “Once you learn how to sell, to truly sell, anything is possible,” Darren says. But is it?
+
+Mr Askaripour’s satire of the tech industry—and of the intersection between capitalism and American racial politics—will appeal to fans of Paul Beatty’s Booker-prizewinning novel “The Sellout” and Jordan Peele’s film “Get Out”. When Darren joins Sumwun—a startup hawking online therapy to big companies that want to be seen as caring employers—he is immediately renamed Buck. “If he does his job, he’ll make us each a million bucks,” explains Rhett’s colleague Clyde, winkingly.
+But Darren is the only black person in the team, and the nickname also suggests adehumanising racial stereotype. Colleagues tell him that he resembles Sidney Poitier or Martin Luther King or Malcolm X. Mr Askaripour’s white characters are terrifyingly comfortable in their privilege. “I knew you looked familiar,” says Clyde, “but I wasn’t sure if it was in the way most black people look alike. Not in a racist way, of course.”
+Every day Darren—who comes to call and think of himself as Buck—rides the subway in from Bedford-Stuyvesant in Brooklyn. Perhaps the novel maps the psychic distance between the narrator’s old and new lives too bluntly, but that is the nature of raw satire such as this. In their earnestness, the self-improvement aphorisms that salt the text in bold type help to humanise Darren’s striving: “Reader: No matter how much it hurts, never let short-term frustration disrupt long-term gain.” The denouement is unexpectedly shocking.
+It would be wishful thinking to find Mr Askaripour’s take on the world totally incredible. “I know. The turns in this story are half absurd, half jaw-dropping, and a whole heaping of crazy,” Darren says. The other half is all too real.
+
