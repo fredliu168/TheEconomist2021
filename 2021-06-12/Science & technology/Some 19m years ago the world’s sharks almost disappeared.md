@@ -1,0 +1,13 @@
+###### Mass extinctions
+# Some 19m years ago the world’s sharks almost disappeared 
+##### And no one knows why 
+![image](images/20210605_stp505.jpg) 
+> Jun 10th 2021 
+SHARKS MAY not be the best-loved creatures on Earth, but they are an important part of marine ecology and many of the larger species are in . That threat, though, may be nothing compared with what happened 19m years ago, during the Miocene epoch—for then, it seems, the whole group came perilously close to extinction.
+The fossil record is a patchy reflection of the past, and rocks from the deep ocean, in particular, only rarely end up on dry land, and thus accessible to the palaeontologist’s hammer. Recent decades have, however, seen a number of drilling expeditions which have collected samples from the ooze that accumulates on the ocean floor. And a few years ago Elizabeth Sibert, a palaeoecologist now at Yale University, came up with a clever way to use these to gain information about life in the seas of the past. This was to look at microscopic, mineral-rich objects shed by sharks (mainly bits of protective skin-covering, known as denticles, pictured) and bony fish (mainly teeth). Counting and classifying these so-called ichthyoliths gives a sense of both the abundance and the diversity of the animals in question.
+
+Her latest investigation of the matter has yielded a shock. She and Leah Rubin, of the State University of New York, have been perusing two sediment cores collected thousands of kilometres apart in the north and the south of the Pacific Ocean. As they write in Science, they discovered that, in a span of at most 100,000 years, the ratio of shark denticles to bony-fish teeth changed radically. Before this geological eyeblink, both cores yielded about one denticle for every five teeth—a ratio that had been stable for 40m years. After it, that ratio dropped to one to 100.
+The mixture of denticles changed, too. Modern shark species often have only one or two types of denticle, and these can be characteristic of the species or family in question, so it is reasonable to assume that something similar pertained during the Miocene. Dr Sibert and Ms Rubin saw a 70% reduction in the number of types of denticle after the ratio changed, indicating a loss of many entire species as well as a reduction in shark numbers.
+What happened is obscure. For sharks as a group, this was a mass extinction twice as bad as the one at the end of the Cretaceous period, when Earth was hit by an asteroid and the dinosaurs and many other types of animals vanished. In this case, though, as far as it is possible to tell from the rocks, only sharks were affected. And that really is a mystery.
+A version of this article was published online on June 4th 2021
+

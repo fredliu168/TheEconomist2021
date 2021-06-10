@@ -1,0 +1,13 @@
+###### Tech fiction
+# Digital dreams and disappointments in “The Startup Wife” 
+##### Tahmima Anam’s brave new world resembles the pale, male old one 
+![image](images/20210612_bkp506.jpg) 
+> Jun 10th 2021 
+The Startup Wife. By Tahmima Anam. Scribner; 304 pages; $26. Canongate; £16.99
+ASHA AND Cyrus get married after they sleep together for the first time. Asha is a talented coding expert with a background in brain modelling. Cyrus, though, is “consistently, encyclopaedically brilliant”. When Asha starts a technology firm that designs personalised rituals—to help secular netizens imbue their lives with meaning—she models the tech on her husband’s brain, its rapacious ability to acquire knowledge and build connections. Then she persuades him to join the company. He names it WAI: We Are Infinite.
+
+So runs the swift opening of “The Startup Wife”, Tahmima Anam’s riff on the political and personal dynamics of the tech scene. Soon, Cyrus, Asha and WAI are ensconced in the gleaming halls of a tech incubator, a haven of cuddle puddles, corporate yoga and innovators designing apps to fix the universe—even if the futures they envisage are aridly technocratic. The first fly in the kombucha lands when an investor insists that Cyrus be chosen as the outfit’s figurehead. Asha may be the founder, but she remains a woman of Bangladeshi descent in a white tech bro’s world.
+The success that follows leaves Cyrus increasingly convinced of his own messianic gifts. Asha, meanwhile, feels herself being edged to the fringes of the company, even to the margins of her own life. Why, she begins to wonder, do her sex and the colour of her skin still set her apart? Why does the engine room of the Utopian future look so much like the narrow elite of the past—stale, pale and male?
+In real life Ms Anam’s husband founded a startup, and many of the details of her novel’s self-ironising world, in which hyper-modern ideas and throwback attitudes collide, feel drawn from personal observation. The snappy dialogue is the greatest strength of her brisk narrative—especially when it spears the paradoxes of the immigrant experience. ‘“You’re too young to get married. Full stop,” Asha’s ambitious mother warns her. Asha shoots back: “Why don’t you act like all the other aunties?”
+In the end, though, the pacey story seems to linger on the surface of things. The denouement does not quite reach the emotional depths that readers might expect, leaving them wondering how much substance there really was beneath the book’s iMac sheen. ■
+
