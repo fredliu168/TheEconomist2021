@@ -1,0 +1,12 @@
+###### Victim, complex
+# In “Animal”, Lisa Taddeo’s narrator exacts revenge on men 
+##### The follow-up to “Three Women” again uncovers experiences that are rarely discussed 
+![image](images/20210619_bkp508.jpg) 
+> Jun 19th 2021 
+Animal. By Lisa Taddeo. 336 pages; $27.99. Bloomsbury Circus; £16.99
+IN “THREE WOMEN”, Lisa Taddeo’s first book (published in 2019), she recounted the often disturbing sexual histories of three American women whom the author had spent years interviewing. Her decision to write from the perspective of her subjects—but in the third person, traditionally a novelistic approach—made it hard to gauge the extent of her creative licence. But the main criticism of her mostly well-received book involved its focus on characters who seemed to have little or no agency. A middle-aged restaurateur is coerced by her husband into sleeping with other men. A young woman goes to court to accuse her former teacher, a married father, of having groomed her for sex.
+
+As if by way of balance, Ms Taddeo has now swung to the other extreme, with a compulsive debut novel narrated by a wronged woman out to avenge the abuse of male power. Joan is 36 and on the run from New York after the gory death (in mysterious circumstances) of Vic, her older, married lover. Lying low in California, she falls in with Lenny, a widower suffering from dementia. In his confusion, Lenny mistakes Joan for the wife he ill-treated; the crimes to which he confesses boost her resolve to find redress for the miseries she has endured.
+So begins a provocative psychological thriller that sets out to subvert #MeToo-era notions of victimhood, at the same time portraying men as almost uniformly vile. The story sags in places, not least during the novel’s midsection, when Joan recalls her girlhood experience of desire in conversation with a yoga teacher, a sequence that resembles an offcut from “Three Women”. Joan’s narration runs melodramatically hot and can be overly portentous (“sometimes it’s better to kill someone than to leave them”). Yet teasing hints about “the thing that I would end up doing” build tension, as do allusions to the death of Joan’s parents when she was a child, an event clarified in an explosive climax.
+Ms Taddeo’s lurid and relentless focus on horror, from child abuse and rape to suicide and miscarriage, might be taken for relish. Yet as in “Three Women”, her determination to tear the veil from experiences that normally remain hidden makes this startling writer valuable. ■
+
