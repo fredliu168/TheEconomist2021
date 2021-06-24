@@ -1,0 +1,12 @@
+###### Turkish disgust
+# “Sea snot” clogs up the Marmara Sea 
+##### Phytoplankton love global warming 
+![image](images/20210626_EUP002_0.jpg) 
+> Jun 26th 2021 
+IT LOOKS AS bad as it sounds. Over the past couple of months, a thick, foamy layer of marine mucilage, popularly known as “sea snot”, has spread over swathes of Turkey’s Marmara Sea near Istanbul, disrupting fishing and tourism and killing marine life. A cleanup effort, the biggest in Turkey’s history, is underway. Ships are corralling the muck, which is secreted by phytoplankton (marine algae), using floating barriers. Workers are hoovering it up from the surface. The government has pledged to save the Marmara by improving wastewater treatment.
+The Marmara has seen regular mucilage outbreaks since 2007. This is the biggest one yet. Vast sheets of brown and grey slime float on the water, clogging boat engines and washing up on beaches. Some of the muck has already reached the Aegean Sea through the Dardanelles and the Black Sea through the Bosporus. The view below the surface is no better. The gunk has begun settling on the seabed, where it clings to and kills coral and shellfish. By blocking sunlight, and so stopping other algae from photosynthesising, the sludge is depleting the sea of vital oxygen.
+
+Scientists say a combination of pollution, climate change (phytoplankton thrive in warm waters), and Istanbul’s uncontrolled growth are to blame. Discharge from rivers packed with agricultural and industrial runoff seems to have caused the phytoplankton to spread and discharge more mucilage than usual. Covid-19 has played a role too. Successive lockdowns have caused more wastewater and detergents to be released from Turkey’s homes. Chemicals from these, says Neslihan Ozdelice, a marine biologist at Istanbul University, may have aggravated the phytoplankton as well.
+The sea snot would normally be expected to decompose naturally. But so much of it has now accumulated in the Marmara that it is stubbornly refusing to do so. Unless Turkey cleans up its act, and as long as water temperatures continue to rise, the gunk will be there to stay. Not quite what you want on your holiday by the sea.
+For more coverage of climate change, register for The Climate Issue, our fortnightly , or visit our 
+
